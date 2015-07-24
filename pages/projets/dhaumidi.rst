@@ -38,5 +38,5 @@ Logiciel
 
 À l'heure d'écrire ces lignes, le logiciel est indéfini
 
-.. _daum: /pages/dhaum.html
+.. _dhaum: /pages/dhaum.html
 .. _léoké: http://leoke.desbwa.org/
