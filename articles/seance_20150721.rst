@@ -1,0 +1,127 @@
+=========================
+Séance du 21 juillet 2015
+=========================
+
+:date: 2015-07-21 23:59
+:tags: seances
+:category: news
+:slug: seance_20150721
+:authors: microjoe, jackdesbwa
+:summary: Résumé de la séance du 21 juillet 2015
+
+*Pour tous ceux qui n'ont pas pu être présent lors de cette séance ou qui n'ont pas eu l'occasion de suivre tout ce qui s'y est passé, voici un résumé des nombreuses choses accomplies lors de cette soirée bidouille.*
+
+Beaucoup de participants !
+==========================
+
+Une des principales informations qui marque à cette séance, c'est le nombre de participants ! Nous étions
+vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, comme le manifestent les photos
+de ce tweet live de séance : https://twitter.com/haum72/status/623562025818583041
+
+Le dHAUM en tête d'affiche
+==========================
+
+Une très grande partie du début de séance a été consacrée au nouveau (et gros) projet des membres : le dHAUM.
+
+C'est quoi ? La mini conférence qui explique tout
+-------------------------------------------------
+
+Laurent, appuyé de Jérome, nous a présenté le projet du dHAUM en nous expliquant le principe de fonctionnement
+du projet et les différentes étapes de la réalisation. La maquette en papier de taille 1/12.5e de Jérome s'est
+avéré être un support très utile pour visualiser l'objet final et les différents éléments le constituant.
+
+Maquette de Jérome : https://twitter.com/matael/status/623580274618671105/photo/1
+
+Dans les grandes lignes, il s'agit d'un dôme construit en bois avec des tasseaux suffisamment grand pour
+pouvoir y faire rentrer deux personnes. A l'intérieur y sera disposé différents éléments (fruits, légumes,
+autres...) qui une fois touchés/reliés entre eux permettront de jouer des notes/samples ; il semble même qu'il
+est (plus qu') envisagé de mettre des objets sur la partie extérieure du dhaum pour que les utilisateurs aient
+à relier les objets par une chaîne humaine passant par les ouvertures. Le nombre de combinaisons possibles
+double à l'ajout de chaque élément, et on peut même envisager des combos ou un code secret !
+
+Achat du matériel et début de réalisation de la structure
+---------------------------------------------------------
+
+Afin de réaliser la structure en bois, il faut donc acheter des tasseaux et les découper afin de pouvoir
+les assembler en suivant le plan de montage réalisé par un logiciel spécialisé dans la construction
+d'isododécatrucs (des dômes à faces triangulaires).
+
+Après les calculs, il s'avère que quelques 76m (pas cm) de tasseaux sont nécessaires afin de réaliser toutes
+les arrêtes de la structure. 76m pour... environ 30 € ! C'est décidé, ils iront acheter les tasseaux demain
+(aujourd'hui à l'heure où j'écris ces lignes) et commenceront à travailler sur les morceaux de bois dans un
+local improvisé muni d'AxiHAUM en soutient.
+
+On me signale également qu'un ensemble de victuailles sera mis à feu le soir une fois le travail accompli
+(pour ceux qui n'ont pas compris : BARBECUE !).
+
+Pendant ce temps, la partie musicale avance bien...
+---------------------------------------------------
+
+La carte électronique Léoké utilisée pour le projet a chauffé pendant cette session... enfin façon de parler !
+En effet, c'est cette carte qui va nous permettre de détecter la présence d'un humain touchant tel ou tel objet.
+
+Une difficulté s'est présentée à nos bidouilleurs qui ont remarqué que les notes sortaient plus ou moins
+aléatoirement du module ; c'est après avoir compensé avec un schéma compliqué la capacité électrique du corps
+humain que le module s'est mis à jouer une suite de notes à chaque toucher sur ses entrées !
+
+Pour les amoureux de physique, l'erreur (un peu) plus détaillée... Le filtre pour rejeter le bruit (autant de
+mégaohms, ça capte superbement bien le bruit) fonctionne bien, tout en détectant le bruit utile généré quand
+une chaîne humaine ferme le contact entre deux objets. Mais le système détecte mal que la combinaison est
+relâchée. Après avoir éliminé les problèmes algorithmiques et d'implémentation, nous en sommes arrivés à
+dessiner un schéma physique des parasites en présence (la Léoké fonctionne essentiellement avec des effets
+habituellement décrits comme parasites) L'hypothèse finale est que des charges restaient emmagasinées dans
+le système. Nous avons alors ajouté logiciellement un laps de temps pour décharger les personnes à travers
+les broches du microcontrôleur et maintenant ça fonctionne du feu de dieu ! [même si le filtre
+rejette encore peut-être un peu plus que le bruit non voulu]
+
+Le tableau avec un schéma compliqué de Jackdesbwa : https://twitter.com/matael/status/623580274618671105/photo/1
+
+L'ami JéromeC s'est même attelé à réparer et finir de réaliser une autre carte Léoké. Le pistolet à colle
+n'a plus aucun secret pour lui et s'est en quelques appuis sur la gâchette qu'il fixe solidement le câble
+USB improvisé sur la carte. Mais il a également troqué le pistocolle pour un fer a souder et a effectué
+ses touts premiers points d'étain, fixant ainsi des résistances de quelques 22 MOhms sur la carte !
+
+L'imprimante 3D s'essaye à la carrosserie
+=========================================
+
+Gaby, après avoir réalisé les modèles 3D de pièces de carrosseries devant être montés sur une grille
+d'aération, a découvert la magie de l'impression de plastique !
+
+Après l'impression d'une pièce pour vérifier le résultat, il modifie un peu ses modèles en rendant un trou
+plus profond puis relance l'impression de 5 pièces du même genre ; résultat dans 9h de coulage de plastique !
+
+La pièce une fois polie à l'acétone : https://www.flickr.com/photos/126718549@N08/19902287211/
+
+L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
+pas bronchée et a continuer ses nids d'abeilles à son habitude, mais avait-elle en mémoire l'intégralité
+du modèle ou va-t'elle essayer de demander la suite au PC hors ligne ?
+
+La réponse à la prochaine ouverture du local...
+
+Le meuble avance également
+==========================
+
+Le pistolet à colle a également servi à consolider toutes les jonctions du meuble en carton dont j'ai oublié
+le nom (mais je pense qu'il doit y avoir un HAUM dedans), comme on peut le voir dans ce tweet
+live : https://twitter.com/haum72/status/623563224445808640
+
+Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
+la structure : https://www.flickr.com/photos/126718549@N08/19889726482
+
+Photo du meuble dans son état actuel : https://www.flickr.com/photos/126718549@N08/19274595414
+
+La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
+l'intérieur du meuble en finissant les cases de rangement.
+
+Conclusion
+==========
+
+Cette séance a été plutôt mouvementée comme vous pouvez le voir ! Principal objectif des prochaines
+sessions et rendez-vous : avancer sur le dHAUM afin de le réaliser avant son exposition
+au `festival Tériaki`_ fin Août.
+
+Mais aussi plein d'autres projets, le HAUM ne vous attend que vous et vos idées !
+
+Bonne nuit.
+
+.. _`festival Tériaki`: http://www.teriaki.fr/
