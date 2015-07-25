@@ -1,0 +1,88 @@
+=========================
+Séance du 24 juillet 2015
+=========================
+
+:date: 2015-07-24 23:59
+:tags: seances
+:category: news
+:slug: seance_20150724
+:authors: jackdesbwa, loderunner
+:summary: Résumé de la séance du 24 juillet 2015
+
+Résumé
+======
+
+Comme souvent ces derniers temps le contenu de la séance du vendredi 24 juillet est bien remplie:
+retouches du moteur de site, soudage, console de jeu, début de documentation, du dessin numérique,
+des essais de coupe pour le dHAUM, de l'impression 3D... rien que ça !
+
+Séance
+======
+
+Nouvelles du dHAUM et essais de coupe
+-------------------------------------
+
+*To be completed...*
+
+Retouche moteur site web
+------------------------
+
+Il ne faut pas le nier, participer à l'édition du site web est d'une certaine difficulté et requiert un
+prérequis technique non trivial. Nous avons donc cherché à simplifier la démarche en décorellant la
+partie purement technique et assez complexe (le générateur de site et de son habillage) du contenu éditable
+par tous les membres.
+
+Le premier reste sur le dépôt website_ tandis que le contenu est migré vers le dépôt website-content_.
+Ainsi il est possible d'effectuer des retouches directement en ligne avec l'interface web de GitHub
+pour les tâches les plus simples, qui constituent les principaux besoins. Par exemple ce billet est
+édité avec cette simplicité d'accès.
+
+N'hésitez pas à demander comment contribuer, car l'article sur le sujet n'est pas encore écrit.
+
+Documentation de projets
+------------------------
+
+Nous avons commencé à mettre quelques mots sur les projets dHAUM_ et dHAUMidi_. Comme vous voyez, les
+débuts sont minimalistes, mais *VOUS* pouvez contribuer à alimenter les pages des projets (y compris les
+autres projets qui manquent de documentation).
+
+Une bannière géodésique
+-----------------------
+
+Toujours dans l'idée d'alimenter le site, LodeRunner nous a concocté une bannière pour la page du dHAUM.
+Cette bannière est choisie aléatoirement parmi d'autres pour apparaître en page d'accueil du site et
+donner envie aux visiteur de découvrir le projet !
+
+Soudage soudage
+---------------
+
+Faisant suite à la séance dernière, JérômeC a fini de souder les composants de son exemplaire de Léoké.
+Il va certainement pouvoir tester des objets qu'on pourra mettre dans le dHAUMidi_.
+
+Impression 3D
+-------------
+
+Après les mésaventures d'impression de ses derniers modèles qui s'étaient arrêtés après quelques
+dizaines de couches en milieu d'impression, Gaby a relancé une impression plus modeste. En effet,
+nous soupçonnions une erreur de manipulation qui aurait pu arrêter l'impression première, mais le second
+essai a donné la même erreur. Cette fois-ci, au lieu d'imprimer les six ailettes d'un coup, il n'en a
+imprimé que deux et ça a fonctionné ! Ses pièces l'attendent sur la machine.
+
+Console de jeu
+--------------
+
+Une console de jeu rétro nommée Aurora est arrivée au HAUM par l'intermédiaire de JackDesBwa. Il s'agit
+d'un projet qui sera libéré sous licence open hardware (pour la carte électronique) et open source (pour
+le SDK) mais qui pour le moment est limité à quelques bêta-testeurs.
+
+Malheureusement, le prototype a l'air d'avoir souffert pendant le transport et n'a fonctionné que quelques
+dizaines de secondes. Ensuite nous avons constaté une chauffe anormale sur un composant et une image décalée
+sur l'écran. Il faudra certainement la réparer avant de pouvoir créer des jeux sur cette plateforme.
+
+
+
+
+.. _website: https://github.com/haum/website/
+.. _website-content: https://github.com/haum/website-content/
+.. _dHAUM: /pages/dhaum.html
+.. _dHAUMidi: /pages/dhaumidi.html
