@@ -22,7 +22,15 @@ Séance
 Nouvelles du dHAUM et essais de coupe
 -------------------------------------
 
-*To be completed...*
+La construction du dHAUM progresse bien.
+
+Les liteaux ont été découpés aux bonnes longueurs et les connecteurs sont en cours d'usinage.
+
+Reste la découpe des extremités des liteaux. 
+Les premiers tests réalisés avec une scie sauteuse montée à l'envers n'ont pas été concluants (voir l'album dédié au dHAUM sur Flicker).
+De nouveaux essais on été réalisés avec une scie à ruban chez Armelle, qui ont donné de bons résultats.
+Armelle a commencé le ponçage des liteaux et nous nous retrouvons (tous) chez elle mardi soir pour réaliser les découpes des liteaux. 
+Pour rappel, il reste environ 400 coupes a réaliser.
 
 Retouche moteur site web
 ------------------------
