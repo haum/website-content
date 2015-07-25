@@ -1,0 +1,55 @@
+======================
+Séance du 29 juin 2015
+======================
+
+:date: 2015-06-29 23:59
+:tags: seances
+:category: news
+:slug: seance_20150629
+:authors: jackdesbwa
+:summary: Résumé de la séance du 29 juin 2015
+
+Ceux d'entre vous qui ont par hasard visité le site du HAUM pendant la soirée ont pu voir une bestiole de
+l'espace se balader sur les pages. C'est le signe que le lab était ouvert. En effet il s'est organisé une
+séance inopinément dans la soirée.
+
+Après la découverte d'un bug, au cours du week-end, dans le programme que nous avions fait pour duper
+l'imprimante et voyant qu'une fois corrigé, la carte arduino était reconnue comme une eeprom (cette
+petite mémoire que l'on cherche à émuler) par une nouvelle plateforme, il était tentant de venir la tester
+sur la véritable imprimante.
+
+Bien que le résultat était attendu [facile de dire ça a posteriori] nous avons eu un moment de stupéfaction,
+un suspens temporel partagé entre l'étonnement et l'émerveillement : Mais bon sang de bois, qu'est-ce qui ne
+fonctionne pas... encore !
+
+Ébahissement et incompréhension.
+
+| De nombreuses hypothèses furent mises en défaut.
+| De nombreux essais furent infructueux.
+| De nombreux espoirs furent fondés et dissipés.
+| De nombreuses (tentatives d')explications furent données.
+| De nombreuses cochonneries furent ingurgitées.
+
+Mais le constat était là : nous étions impuissants ce soir.
+
+| Alors nous avons recouru au plan C (comme chagrin ?) :
+| Puisque nous ne parvenons pas à émuler l'eeprom, utilisons l'eeprom elle-même.
+
+Ainsi nous avons remplacé le contenu de l'eeprom par celui d'une autre dont le contenu était valide pour un
+autre modèle. Et ô délice, volupté, enchantement, chance... l'imprimante n'a pas rejeté la bête. Elle a
+affiché le même message d'erreur [qu'on cherchait désespérément à atteindre] que l'eeprom qu'on voulait
+émuler !
+
+Mais voilà, elle n'a pas pour autant craché du papier.
+Et même, elle a sauvagement gribouillé les 16 premiers octets de l'eepom.
+
+| Ô rage ! Ô désespoir ! Obsolescence ennemie !
+| N'a-t-on donc tant expérimenté que pour ces gribouillis ?
+
+Face à cette issue fatale, nous avons remis à plus tard les pérégrinations à ce sujet. Et pour bien nous
+remettre de cette torpeur, avons décidé de vous préparer de belles activités pour la séance hebdomadaire
+(c'est déjà demain)
+
+Suite au prochain épisode.
+
+Florent
