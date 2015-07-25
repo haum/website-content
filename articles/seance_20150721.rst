@@ -90,7 +90,8 @@ d'aération, a découvert la magie de l'impression de plastique !
 Après l'impression d'une pièce pour vérifier le résultat, il modifie un peu ses modèles en rendant un trou
 plus profond puis relance l'impression de 5 pièces du même genre ; résultat dans 9h de coulage de plastique !
 
-La pièce une fois polie à l'acétone : https://www.flickr.com/photos/126718549@N08/19902287211/
+La pièce une fois polie à l'acétone :
+[flickr:id=19902287211]
 
 L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
 pas bronchée et a continuer ses nids d'abeilles à son habitude, mais avait-elle en mémoire l'intégralité
@@ -106,9 +107,11 @@ le nom (mais je pense qu'il doit y avoir un HAUM dedans), comme on peut le voir 
 live : https://twitter.com/haum72/status/623563224445808640
 
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
-la structure : https://www.flickr.com/photos/126718549@N08/19889726482
+la structure :
+[flickr:id=19889726482]
 
-Photo du meuble dans son état actuel : https://www.flickr.com/photos/126718549@N08/19274595414
+Photo du meuble dans son état actuel :
+[flickr:id=19274595414]
 
 La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
 l'intérieur du meuble en finissant les cases de rangement.
