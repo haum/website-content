@@ -24,7 +24,7 @@ Pour isoler l'environnement Python, il est recommandé d'utiliser "Virtualenv" :
 Récupération des sources et configuration initiale
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-	- Cloner ([#]_) le dépôt git du site web : ``$ git clone git@github.com:haum/website.git`` ;
+	- Cloner ([#]_) le dépôt git du site web : ``$ git clone git@github.com:haum/website-content.git`` ;
 	- Se déplacer vers le répertoire de travail : ``$ cd website`` ;
 	- Préparer l'environement virtuel : ``$ virtualenv .pelican -ppython2`` ;
 	- Activer l'environement virtuel : ``$ source .pelican/bin/activate`` ;
