@@ -1,0 +1,60 @@
+=========================
+Séance du 24 juillet 2015
+=========================
+
+:date: 2015-07-28 23:59
+:tags: seances
+:category: news
+:slug: seance_20150728
+:authors: jackdesbwa, sebvallee
+:summary: Résumé de la séance du 28 juillet 2015
+
+Résumé
+======
+
+Une séance plus calme par rapport aux séances précédentes de ce mois-ci. Pas de dHAUM_ ce coup-ci, pour cause de météo capricieuse.
+Au menu de cette soirée, il y avait : sonnette, carte Léoké, impression 3D, site web, plastifieuse, et discutions diverses.
+
+Séance
+======
+
+Recherche du meilleur emplacement pour la sonnette du HAUM
+----------------------------------------------------------
+
+Afin de ne laisser personne au pied du bâtiment car les portes sont fermées, une intense réflexion a été lancée pour trouver 
+le meilleur emplacement pour la sonnette. Malheureusement, les differents essais ne sont pas concluant pour le moment.
+
+Retouche howto modification site web
+------------------------------------
+
+Vu les dernieres modifications apportées sur les dépots qui concernent le site web du Haum, une relecture du howto a été faite, et 
+les corrections nécessaires ont été apportées. À vos contributions !
+
+Carte Léoké
+-----------
+
+Nous avons essayé de faire fonctionner la carte Léoké de Jérôme, et il semblerait que les problèmes rencontrés tout au long de la soirée viennent de la 
+configuration du PC de Jérôme lui-même.
+À suivre donc...
+
+Impression 3D
+-------------
+
+Gaby continue ses impressions et ne désespère pas de terminer avant le week-end prochain (enfin presque) !
+
+PCBlastifieuse
+--------------
+
+Romain a trouvé un afficheur numérique dans les composants disponibles du HAUM, et est bien décidé à l'intégrer 
+à la PCBlastifieuse afin d'afficher la température interne de celle-ci en direct. Gaby souhaite profiter de l'occasion
+pour découvrir le procédé.
+
+Console de jeu
+--------------
+
+La console de jeu Aurora arrivée par l'intermédiaire de JackDesBwa n'ayant fonctionné que 5 secondes la dernière fois, une rapide inspection 
+des circuit a été réalisée, et a permis de détecter une mauvaise soudure. Malgré la correction apportée, la console ne donne toujours 
+pas de signe de vie, et chauffe toujours anormalement. Affaire à suivre aussi...
+
+
+.. _dHAUM: /pages/dhaum.html
