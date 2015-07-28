@@ -25,7 +25,7 @@ Récupération des sources et configuration initiale
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 	- Cloner ([#]_) le dépôt git de la structure du site web : ``$ git clone git@github.com:haum/website.git`` ;
-	- Cloner ([#]_) le dépôt git du contenu du site web : ``$ git clone git@github.com:haum/website-content.git`` ;
+	- Cloner le dépôt git du contenu du site web : ``$ git clone git@github.com:haum/website-content.git`` ;
 	- Se déplacer vers le répertoire de travail : ``$ cd website`` ;
 	- Créer un lien entre le squelette et le contenu : ``$ ln -s ../website-content/ content`` ;
 	- Préparer l'environement virtuel : ``$ virtualenv .pelican -ppython2`` ;
