@@ -24,10 +24,13 @@ Pour isoler l'environnement Python, il est recommandé d'utiliser "Virtualenv" :
 Récupération des sources et configuration initiale
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-	- Cloner ([#]_) le dépôt git du site web : ``$ git clone git@github.com:haum/website-content.git`` ;
+	- Cloner ([#]_) le dépôt git de la structure du site web : ``$ git clone git@github.com:haum/website.git`` ;
+	- Cloner ([#]_) le dépôt git du contenu du site web : ``$ git clone git@github.com:haum/website-content.git`` ;
 	- Se déplacer vers le répertoire de travail : ``$ cd website`` ;
+	- Créer un lien entre le squelette et le contenu : ``$ ln -s ../website-content/ content`` ;
 	- Préparer l'environement virtuel : ``$ virtualenv .pelican -ppython2`` ;
 	- Activer l'environement virtuel : ``$ source .pelican/bin/activate`` ;
+	- Installer pelican, qui est necessaire pour tous les autres paquets : ``$ pip install pelican`` ;
 	- Installer les requirements : ``$ pip install -r requirements.txt`` ;
 
 Voilà, l'ensemble des pré-requis est installé, tant coté système que dans l'environnement local.
@@ -41,7 +44,14 @@ C'est probablement dans ce répertoire que vous allez pouvoir éditer/ajouter vo
 Rappel: il faut avoir activé l'environnement virtuel pour produire localement le contenu (``$ source .pelican/bin/activate``) et de préférence avoir mis à jour ses sources (``$ git pull``)
 Note: pour désactiver l'environnement virtuel : ``$ deactivate``
 
-Pour visualiser et verifier le rendu du contenu écrit, on génére localement les pages html : ``$ make html``
+
+Lancement du serveur pour visuliser les modifications
+`````````````````````````````````````````````````````
+	- Compiler l'ensemble des pages statiques : ``$ make html`` ;
+	- Lancer le serveur de test : ``$ make serve`` ;
+
+Le serveur écoute désormais sur le port 8000, il est donc accessible dans un navigateur à l'adresse : http://localhost:8000/ .
+Un appui sur la combinaison CTRL+C stoppera l'exécution du serveur.
 
 Propager ses modifications
 ``````````````````````````
