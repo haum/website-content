@@ -8,8 +8,8 @@ cache/
 output/
 bda6f8500a34fe520421/
 pelican/
-content/calendar/calendar.js
 .*
 *~
-content/calendar/calendar.ics
-content/images/bannieres_projets/projectalea.js
+calendar/calendar.ics
+calendar/calendar.js
+images/bannieres_projets/projectalea.js
