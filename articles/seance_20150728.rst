@@ -54,7 +54,7 @@ Console de jeu
 
 La console de jeu Aurora arrivée par l'intermédiaire de JackDesBwa n'ayant fonctionné que 5 secondes la dernière fois, une rapide inspection 
 des circuits a été réalisée, et a permis de détecter une mauvaise soudure. Malgré la correction apportée, la console ne donne toujours 
-pas de signes de vie, et chauffe toujours anormalement. Affaire à suivre aussi...
+pas de signe de vie, et chauffe toujours anormalement. Affaire à suivre aussi...
 
 
 .. _dHAUM: /pages/dhaum.html
