@@ -1,8 +1,8 @@
-:slug: coworking-over-ip
-
 =================
 Coworking over IP
 =================
+
+:slug: coworking-over-ip
 
 Ressources du talk
 ==================
