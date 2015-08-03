@@ -3,14 +3,27 @@ Comment modifier le contenu du site web
 =======================================
 :status: hidden
 
-
-howto_siteweb_haum version 2 by jblb (jerome@jblb.net)
-
 Préambule
 `````````
-
 Le site web du **HAUM** est un espace collaboratif qui peut être enrichi par chacun de ses membres.
 Cette page se veut un aide mémoire pour que chacun dispose des informations nécéssaires à la création de contenu sur ce site.
+
+Édition de texte directement sur github
+```````````````````````````````````````
+
+Souvent, le membre contributeur souhaite seulement corriger des fautes d'orthographes ou ajouter un paragraphe supplémentaire au contenu déjà présent, voire créer une page et y ajouter sa prose personnelle. Dans ces cas, nul besoin de sortir la grosse artillerie !
+
+En étant identifié sur la plateforme Github avec un identifiant présent dans le groupe HAUM, il suffit de
+visiter le dépôt website-content_. Muni des droits sus-cités, un petit icône en forme de crayon apparaît
+sur les documents préexistants. Il n'y a plus qu'à éditer directement dans la page !
+
+De même, lorsque l'on souhaite ajouter une page, il faut se placer dans le dossier afférant et cliquer sur le signe "+" qui apparaît à la suite du chemin du dossier visité. Attention, si github propose un fork ou pas de "+", c'est que vos droits ne sont pas suffisants.
+
+Une fois la modification effectuée, une zone en bas de page permet de valider la modification et y adjoindre un message. Ce message permet de tracer les intentions de chacun et constituer un historique. Il faut qu'il soit suffisamment clair, par exemple : ajout d'un paragraphe pour l'édition depuis github dans la page howto. Un second champ permet (optionnellement) de préciser si l'action ne peut être décrite en quelques mots.
+
+L'appui sur le bouton commit sauvegarde les changements.
+
+Enfin, il faut passer sur le salon IRC pour demander à un des modérateurs de lancer une mise à jour du site (après qu'il aura vérifié que tout se passera bien).
 
 Préparation de l'environnement de travail
 `````````````````````````````````````````
@@ -118,3 +131,4 @@ Des liens qui peuvent servir
 
 .. _Pelican: http://docs.getpelican.com/en/latest/index.html
 .. _ReText: http://sourceforge.net/p/retext/home/ReText
+.. _website-content: https://github.com/haum/website-content/
