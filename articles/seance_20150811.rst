@@ -1,0 +1,59 @@
+======================
+Séance du 11 août 2015
+======================
+
+:date: 2015-08-11 23:20
+:tags: seances
+:category: news
+:slug: seance_20150811
+:authors: jackdesbwa, loderunner, matael
+:summary: Résumé de la séance du 11 août 2015
+
+Résumé
+======
+
+Peu de gens... mais pas mal d'avancées. Ce soir, le dHAUM était à l'honneur, carbon a été placé en coma artificiel, la
+Léoké s'est faite prothèser et HaumIFI a continué sa croissance.
+
+Séance
+======
+
+Nouvelles du dHAUM et logiciel
+------------------------------
+
+Après le fructueux montage du dHAUM en fin de semaine dernière (regardez `sur Flickr`_), cette soirée était, entre autres,
+dédiée au développement du logiciel.
+
+Peu de tests d'objets aujourd'hui mais une profonde réflexion sur les différentes combinaisons pouvant déclencher les
+sons. Après un peu de maths pour évaluer le nombre de combinaisons possibles (factorielle mon amour !), et quelques
+schémas, Florent et Laurent se sont penchés sur l'implémentation.
+
+Léoké
+-----
+
+Compte tenu des problèmes de fiabilité du côté de l'USB de la Léoké, il a été décidé de souder directement un câble USB
+sur les pistes.
+
+Histoire de garantir un peu mieux le maintien de la connectique, une pièce a été conçue, imprimée et placée sur la
+Léoké, comme une prothèse...
+
+Carbon est mort, vive carbon !
+------------------------------
+
+Suite au signalement de problèmes d'accès au wiki du HAUM, nous avons décidé d'enquêter un peu.
+
+Le problème semblait venir du disque dur et, après sauvegarde et redémarrage, cela s'est confirmé....
+
+Carbon est actuellement hors ligne et le restera jusqu'à ce qu'un disque dur de remplacement soit mis en place.
+
+HaumIFI
+-------
+
+Romuald a continué le collage d'HaumIFI. Il a ainsi avancé sur les cloisons internes... On cherche des vieux journeaux
+pour la suite de HaumIFI !
+
+Le constat est clair, les meubles en carton sont utiles mais longs à mettre en place : un coup de main serait
+bienvenu !
+
+
+.. _sur Flickr: https://www.flickr.com/photos/126718549@N08/sets/72157655886631900
