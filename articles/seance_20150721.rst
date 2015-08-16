@@ -91,6 +91,7 @@ Après l'impression d'une pièce pour vérifier le résultat, il modifie un peu 
 plus profond puis relance l'impression de 5 pièces du même genre ; résultat dans 9h de coulage de plastique !
 
 La pièce une fois polie à l'acétone :
+
 [flickr:id=19902287211]
 
 L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
@@ -108,9 +109,11 @@ live : https://twitter.com/haum72/status/623563224445808640
 
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
 la structure :
+
 [flickr:id=19889726482]
 
 Photo du meuble dans son état actuel :
+
 [flickr:id=19274595414]
 
 La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
