@@ -32,7 +32,7 @@ avéré être un support très utile pour visualiser l'objet final et les diffé
 
 .. container:: aligncenter
 
-Maquette de Jérome : [flickr:id=20641592162]
+    Maquette de Jérome : [flickr:id=20641592162]
 
 Dans les grandes lignes, il s'agit d'un dôme construit en bois avec des tasseaux suffisamment grand pour
 pouvoir y faire rentrer deux personnes. A l'intérieur y sera disposé différents éléments (fruits, légumes,
