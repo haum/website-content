@@ -55,22 +55,19 @@ Ce projet est supporté par jblb_,  neomilium_ et  matael_.
 HaumBots
 --------
 
-Actuellement, 4 bots travaillent pour nous : Twaum (Twitter<->IRC), GHB (Todolist<->IRC), HAUMweb, (update du site) et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
+Actuellement, 4 bots travaillent pour nous : Twaum (Twitter<->IRC), GHB (Todolist<->IRC), Com`bot, (update du site, gestion de l’agenda, …) et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
 
-Vous pouvez contribuer aux deux premiers en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
+Vous pouvez contribuer aux trois premiers en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
 
-- https://github.com/Matael/GithubBot
 - https://github.com/haum/TwitterBot
+- https://github.com/Matael/GithubBot
+- https://github.com/haum/combot
 
-Les deux autres ne sont pas publiés soient parce qu'ils sont trop simples pour nécessiter des contributeurs soit parce qu'ils sont... fantômes.
 
 .. _bot GitHub: http://blog.fredblain.org/2014/05/github-bot-pour-irc
-
 
 .. _neomilium: http://twitter.com/neomilium
 .. _matael: http://twitter.com/matael
 .. _jblb: http://twitter.com/jblb_72
 .. _rebrec: https://twitter.com/elfrancesco
 .. _feedoo: http://twitter.com/fblain
-
-
