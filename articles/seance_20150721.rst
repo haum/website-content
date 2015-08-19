@@ -30,9 +30,11 @@ Laurent, appuyé de Jérome, nous a présenté le projet du dHAUM en nous expliq
 du projet et les différentes étapes de la réalisation. La maquette en papier de taille 1/12.5e de Jérome s'est
 avéré être un support très utile pour visualiser l'objet final et les différents éléments le constituant.
 
+Maquette de Jérome :
+
 .. container:: aligncenter
 
-    Maquette de Jérome : [flickr:id=20641592162]
+    [flickr:id=20641592162]
 
 Dans les grandes lignes, il s'agit d'un dôme construit en bois avec des tasseaux suffisamment grand pour
 pouvoir y faire rentrer deux personnes. A l'intérieur y sera disposé différents éléments (fruits, légumes,
@@ -94,7 +96,9 @@ plus profond puis relance l'impression de 5 pièces du même genre ; résultat d
 
 La pièce une fois polie à l'acétone :
 
-[flickr:id=19902287211]
+.. container:: aligncenter
+
+    [flickr:id=19902287211]
 
 L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
 pas bronchée et a continuer ses nids d'abeilles à son habitude, mais avait-elle en mémoire l'intégralité
@@ -112,11 +116,9 @@ live : https://twitter.com/haum72/status/623563224445808640
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
 la structure :
 
-[flickr:id=19889726482]
+.. container:: aligncenter
 
-Photo du meuble dans son état actuel :
-
-[flickr:id=19274595414]
+    [flickr:id=19889726482]  [flickr:id=19274595414]
 
 La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
 l'intérieur du meuble en finissant les cases de rangement.
