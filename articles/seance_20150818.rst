@@ -1,0 +1,63 @@
+======================
+Séance du 18 août 2015
+======================
+
+:date: 2015-08-18 23:59
+:tags: seances
+:category: news
+:slug: seance_20150818
+:authors: matael
+:summary: Résumé de la séance du 18 août 2015
+
+
+
+Cette séance a été plutôt productive. Rassemblés autour du dHAUM,
+l'idée était de répondre aux questions qui subsistaient.
+
+Léoké
+=====
+
+Suite à une mauvaise manipulation, la protection imprimée pour maintenir
+le cable USB et les soudures a été retirée et certaines soudures abimées.
+Malgré des efforts intenses et prolongés, rien n'a pu faire revenir les
+choses dans l'ordre lorsqu'elle est branchée la carte s'allume mais ne
+se manifeste pas auprès du PC hôte.... difficile donc de la programmer
+par les voies normales...
+
+Jérome Coste qui en avait une autre à disposition nous l'a prétée le
+temps des tests (merci à lui). Reste à voir comment réparer la notre :
+Florent est sur le coup.
+
+Devant le manque de fiabilité de l'USB et le risque de dommage pour la
+carte que présente le dHAUM, il a été décidé de bricoler une boite pour
+la Léoké. Jérôme & Mathieu s'y mettent au plus vite.
+
+dHAUM
+=====
+
+Après un peu de recherches pour trouver de quoi occulter cerains
+triangles, Sébastien a fini par ramener une feuille plastique
+relativement épaisse qui fait parfaitement l'affaire une fois lissée et
+punaisée. Le problème : il ne peut pas en fournir de grandes
+quantités... avantage : la boîte qui fabrique ça est la SEF, à Laval.
+On les contacte dès que possible pour savoir si on peut en récupérer quelques
+mètres.
+
+Boite à dHAUM
+=============
+
+Devant le poids et l'encombrement que représentent les 95 tasseaux du
+dHAUM, les connecteurs et la visserie, il a aussi été décidé de bricoler
+une boite type flightcase_ à pas cher pour trimballer le tout en une fois
+avec des roulettes. C'est là aussi l'objectif de l'atelier boîte de cet
+après-midi.
+
+Calage
+======
+
+Certains l'avaient déjà fait remarquer, le dHAUM manque d'accroche au
+sol et de stabilité. Prenant le problème à bras le corps, Armelle et
+Alice se lancent dans la confection de boudins remplis de sable pour
+stabiliser le tout.
+
+.. _flightcase : https://en.wikipedia.org/w/index.php?title=Road_case
