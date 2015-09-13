@@ -81,7 +81,11 @@ le système. Nous avons alors ajouté logiciellement un laps de temps pour déch
 les broches du microcontrôleur et maintenant ça fonctionne du feu de dieu ! [même si le filtre
 rejette encore peut-être un peu plus que le bruit non voulu]
 
-Le tableau avec un schéma compliqué de Jackdesbwa : https://twitter.com/matael/status/623580274618671105/photo/1
+Le tableau avec un schéma compliqué de Jackdesbwa :
+
+.. container:: aligncenter
+
+    [flickr:id=20758194343]
 
 L'ami JéromeC s'est même attelé à réparer et finir de réaliser une autre carte Léoké. Le pistolet à colle
 n'a plus aucun secret pour lui et s'est en quelques appuis sur la gâchette qu'il fixe solidement le câble
