@@ -15,8 +15,11 @@ Beaucoup de participants !
 ==========================
 
 Une des principales informations qui marque à cette séance, c'est le nombre de participants ! Nous étions
-vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, comme le manifestent les photos
-de ce tweet live de séance : https://twitter.com/haum72/status/623562025818583041
+vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, comme le manifestent ces photos :
+
+.. container:: aligncenter
+
+    [flickr:id=19892059395] [flickr:id=19269414664]
 
 Le dHAUM en tête d'affiche
 ==========================
