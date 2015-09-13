@@ -117,8 +117,11 @@ Le meuble avance également
 ==========================
 
 Le pistolet à colle a également servi à consolider toutes les jonctions du meuble en carton dont j'ai oublié
-le nom (mais je pense qu'il doit y avoir un HAUM dedans), comme on peut le voir dans ce tweet
-live : https://twitter.com/haum72/status/623563224445808640
+le nom (mais je pense qu'il doit y avoir un HAUM dedans) : 
+
+.. container:: aligncenter
+
+    [flickr:id=21387694321]
 
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
 la structure :
