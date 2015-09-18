@@ -1,0 +1,54 @@
+===========================
+Séance du 17 septembre 2015
+===========================
+
+:date: 2015-09-17 23:59
+:tags: seances
+:category: news
+:slug: seance_20150917
+:authors: jackdesbwa
+:summary: Résumé de la séance du 17 septembre 2015
+:status: draft
+
+Au programme de la soirée, le retour du PianoStairs_, des discussions autour des polices de caractères
+libres, ainsi que la résurrection et amélioration du 1DPong_.
+
+PianoStairs
+===========
+
+Tel le phénix, le PianoStairs_ renaît. Et oui, les projets sont aussi faits pour être redécouverts,
+améliorés, modifiés... en un mot : hackés. C'est ce qui arrive au PianoStairs_ qui s'offre une cure
+de jouvance.
+
+TODO
+
+Police libre
+============
+
+TODO
+
+PolychrHAUM/1DPong
+==================
+
+En préparation du FestivalD où le HAUM expose, nous avons réalisé les modifications prévues de longue
+date sur le 1DPong_ : utiliser la bibliothèque PolychrHAUM_ pour les animations.
+
+Cette bibliothèque reprend les développements initialement faits pour le 1DPong_ et lui ajoute par
+exemple une gestion de la vitesse et de la luminosité par des potentiomètres présents sur la boîte.
+
+Malgré un développement consciencieux et le fonctionnement avéré dans l'émulateur, le 1DPong_ restait
+éteint. Après quelques recherches, nous avons trouvé que le fil de données du bandeau de leds était
+brisé et nous sommes empressés de le ressouder.
+
+Nous avons aussi construit un détrompeur pour éviter qu'il ne soit branché autre chose que le bandeau
+de leds sur la sortie de puissance.
+
+Enfin, nous avons testé le changement du luminosité et de vitesse avec les potentiomètres. Là encore
+quelques fils sont brisés et il faudra les réparer à la prochaine séance.
+
+En résumé, PolychrHAUM_ est opérationnelle sur le 1DPong_, nous pouvons donc profiter des facilités
+de la bibliothèque pour enrichir le jeu !
+
+.. _PianoStairs: /pages/pianostairs.html
+.. _1DPong: /pages/1dpong.html
+.. _PolychrHAUM: /pages/polychrhaum.html
