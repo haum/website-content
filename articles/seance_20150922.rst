@@ -1,0 +1,85 @@
+===========================
+Séance du 22 septembre 2015
+===========================
+
+:date: 2015-09-22 23:59
+:tags: seances
+:category: news
+:slug: seance_20150922
+:authors: jackdesbwa, sebvallee, neomilium, maximusk, matael, carl
+:summary: Résumé de la séance du 22 septembre 2015
+
+Résumé
+======
+
+Encore beaucoup de monde ce soir. Après les habituelles discussions, la présentation du lab pour les nouveaux, et les
+urbanités d'usage, les projets ont bien avancé.
+
+Du `PianoStairs`_ au `Pong 1D`_ en passant par l'imprimante 3D, du routage et la PCBlastifieuse_, la séance était bien remplie.
+
+Séance
+======
+
+Routage
+-------
+
+Oliver, nouveau venu dans le lab, voulait savoir s'il était possible de réaliser des PCBs... La PCBlastifieuse_ n'étant
+pas disponible à son arrivée, il a pu profiter des conseils d'autres membres expérimentés pour le routage de sa
+carte.
+
+Imprimante 3D
+-------------
+
+Après un voyage hors du lab, l'imprimante est enfin revenue... HS. Elle ne démarre plus au delà du *splashscreen* et
+rien n'y fait.
+
+On a malheureusement pu constater que le *firmware* ne se charge plus correctement et toutes nos tentatives de mise à
+jour sont restées vaines.
+
+Pong 1D
+-------
+
+`Festival D`_ approchant, nous avons continué la remise sur pieds du Pong_. Au programme de ce soir,
+gravure de PCB (on y reviendra), correction des soudures, test de la nouvelle bande de LEDs, et bien sûr démonstration
+pour les nouveaux.
+
+Dommage pour nous, l'imprimante étant hors jeu, l'impression des manettes devra être faite ailleurs.
+
+Dans un excès de motivation de fin de séance, Florent et Sébastien ont réparé le deuxième potentiomètre qui fonctionne
+désormais correctement.
+
+PCB & Chimie
+------------
+
+Pour les besoins du Pong_, une carte d'alimentation a été dessinée par Jérôme et gravée par Mehdi et
+Romuald.
+
+Une occasion de constater que la PCBlastifieuse_ à une certaine tendance à fumer... affaire à suivre.
+
+Au final, la partie chimique s'est passée parfaitement et le résultat est extrèmement satisfaisant.
+
+PCBlastifieuse
+--------------
+
+Dans la quête du projet abouti, le passage de la *breadboard* à la veroboard est déjà un grand pas. La PCBlastifieuse_ a
+connu cette mise à jour aujourd'hui.
+
+Objectif : éviter de se poser la question pour l'utilisation de la plastifieuse et rendre le système beaucoup plus
+fiable.
+
+Pianostairs
+-----------
+
+Après les essais concluants de la semaine dernière, il ne nous manquait que du scotch blanc et noir pour donner un style
+"piano" au projet.
+
+À la fin de la séance, 12 marches sur 20 sont passées à la nouvelle révision.
+
+
+*PS : le HAUM dispose désormais d'une magnifique poubelle en carton. Merci Romuald !*
+
+.. _PCBlastifieuse: http://haum.org/pages/pcblastifieuse.html
+.. _Festival D: http://www.festivald.net/
+.. _Pong 1D: http://haum.org/pages/1dpong.html
+.. _Pong: http://haum.org/pages/1dpong.html
+.. _PianoStairs: http://haum.org/pages/pianostairs.html
