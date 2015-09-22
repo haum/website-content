@@ -15,8 +15,11 @@ Beaucoup de participants !
 ==========================
 
 Une des principales informations qui marque à cette séance, c'est le nombre de participants ! Nous étions
-vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, comme le manifestent les photos
-de ce tweet live de séance : https://twitter.com/haum72/status/623562025818583041
+vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, comme le manifestent ces photos :
+
+.. container:: aligncenter
+
+    [flickr:id=19892059395] [flickr:id=19269414664]
 
 Le dHAUM en tête d'affiche
 ==========================
@@ -30,9 +33,11 @@ Laurent, appuyé de Jérome, nous a présenté le projet du dHAUM en nous expliq
 du projet et les différentes étapes de la réalisation. La maquette en papier de taille 1/12.5e de Jérome s'est
 avéré être un support très utile pour visualiser l'objet final et les différents éléments le constituant.
 
+Maquette de Jérome :
+
 .. container:: aligncenter
 
-    Maquette de Jérome : [flickr:id=20641592162]
+    [flickr:id=20641592162]
 
 Dans les grandes lignes, il s'agit d'un dôme construit en bois avec des tasseaux suffisamment grand pour
 pouvoir y faire rentrer deux personnes. A l'intérieur y sera disposé différents éléments (fruits, légumes,
@@ -76,7 +81,11 @@ le système. Nous avons alors ajouté logiciellement un laps de temps pour déch
 les broches du microcontrôleur et maintenant ça fonctionne du feu de dieu ! [même si le filtre
 rejette encore peut-être un peu plus que le bruit non voulu]
 
-Le tableau avec un schéma compliqué de Jackdesbwa : https://twitter.com/matael/status/623580274618671105/photo/1
+Le tableau avec un schéma compliqué de Jackdesbwa :
+
+.. container:: aligncenter
+
+    [flickr:id=20758194343]
 
 L'ami JéromeC s'est même attelé à réparer et finir de réaliser une autre carte Léoké. Le pistolet à colle
 n'a plus aucun secret pour lui et s'est en quelques appuis sur la gâchette qu'il fixe solidement le câble
@@ -94,7 +103,9 @@ plus profond puis relance l'impression de 5 pièces du même genre ; résultat d
 
 La pièce une fois polie à l'acétone :
 
-[flickr:id=19902287211]
+.. container:: aligncenter
+
+    [flickr:id=19902287211]
 
 L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
 pas bronchée et a continuer ses nids d'abeilles à son habitude, mais avait-elle en mémoire l'intégralité
@@ -106,17 +117,18 @@ Le meuble avance également
 ==========================
 
 Le pistolet à colle a également servi à consolider toutes les jonctions du meuble en carton dont j'ai oublié
-le nom (mais je pense qu'il doit y avoir un HAUM dedans), comme on peut le voir dans ce tweet
-live : https://twitter.com/haum72/status/623563224445808640
+le nom (mais je pense qu'il doit y avoir un HAUM dedans) : 
+
+.. container:: aligncenter
+
+    [flickr:id=21387694321]
 
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
 la structure :
 
-[flickr:id=19889726482]
+.. container:: aligncenter
 
-Photo du meuble dans son état actuel :
-
-[flickr:id=19274595414]
+    [flickr:id=19889726482]  [flickr:id=19274595414]
 
 La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
 l'intérieur du meuble en finissant les cases de rangement.

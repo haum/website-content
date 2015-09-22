@@ -45,7 +45,9 @@ secteur, on prendra bien soin de la débrancher avant de vérifier les câblages
 Voici le schéma électrique que l’on peut donc dresser après avoir regardé les
 connexions :
 
-.. image:: /images/pcblastifieuse/schema.png
+.. container:: aligncenter
+
+    .. image:: /images/pcblastifieuse/schema.png
 
 Principe de la modification
 ---------------------------
@@ -202,7 +204,9 @@ Pour se faire, on va écrire un petit programme Arduino qui nous affiche via son
 port série la tension mesurée par le capteur de température. Voici ce que l’on
 obtient en allumant la plastifieuse et en mesurant la tension du capteur :
 
-.. image:: /images/pcblastifieuse/temperatures.png
+.. container:: aligncenter
+
+    .. image:: /images/pcblastifieuse/temperatures.png
 
 On observe un préchauffage suivi d’un maintient au chaud. Mais revenons à notre
 calibrage.
@@ -212,7 +216,9 @@ place une sonde JK qui va nous permettre de mesurer la température réelle à
 cette endroit. On note quelques points dans un tableur et on effectue ensuite
 une régression linéaire.
 
-.. image:: /images/pcblastifieuse/reglin.png
+.. container:: aligncenter
+
+    .. image:: /images/pcblastifieuse/reglin.png
 
 En trouvant le lien entre la tension mesurée par la sonde de température et la
 température de la sonde JK, on peut en déduire une formule qui nous donnera la
