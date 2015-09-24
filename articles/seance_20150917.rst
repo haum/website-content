@@ -6,9 +6,8 @@ Séance du 17 septembre 2015
 :tags: seances
 :category: news
 :slug: seance_20150917
-:authors: jackdesbwa
+:authors: jackdesbwa, matael, neomilium
 :summary: Résumé de la séance du 17 septembre 2015
-:status: draft
 
 Au programme de la soirée, le retour du PianoStairs_, des discussions autour des polices de caractères
 libres, ainsi que la résurrection et amélioration du 1DPong_.
@@ -27,7 +26,7 @@ parquet, de retailler des plaques inférieures propres et d'ajouter des scotches
 Police libre
 ============
 
-TODO
+Les pochettes de présentation du HAUM avancent bien, des conseils sur l'usage de polices libres et lisibles, notamment pour les dyslexiques, ont été formulés. Les polices *Andika* et bien évidemment *Linux Libertine*, tout deux sous license *OFL (SIL Open Font License)* ont été retenues.
 
 PolychrHAUM/1DPong
 ==================
