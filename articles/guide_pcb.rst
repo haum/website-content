@@ -20,3 +20,27 @@ se faire accompagner par des personnes ayant déjà utilisé ce procédé dans u
 premier temps.
 
 .. _PCBlastifieuse: /pages/pcblastifieuse.html
+
+Conception du circuit
+---------------------
+
+Impression du motif
+-------------------
+
+Préparation de la plaque de cuivre
+----------------------------------
+
+Transfert du motif
+------------------
+
+Dissolution du cuivre
+---------------------
+
+Élimination de la solution
+--------------------------
+
+Conclusion
+----------
+
+Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
+(mais pas forcément des PCBs propres par contre, ça viendra avec la pratique).
