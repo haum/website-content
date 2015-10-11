@@ -133,8 +133,41 @@ Après l’étape délicate, nous attaquons l’étape la plus sujette à risque
 effet, nous allons ici devoir manipuler des produits chimiques qui peuvent être
 dangereux si on ne prend pas suffisamment de précautions.
 
+Regroupez tout d’abord l’ensemble du matériel nécessaire à l’extérieur :
+
+ - Bouteille d’eau oxygénée ;
+ - Bouteille d’acide chlorhydrique ;
+ - Récipient dans lequel la solution sera préparée et suffisamment grand pour
+   pouvoir y poser la carte à plat ;
+ - Une bouteille de récupération pour la solution usagée ;
+ - Le futur PCB.
+
+Puis équipez vous du matériel de protection nécessaire :
+
+ - Blouse en coton ;
+ - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
+ - Lunettes de protection ;
+
 Élimination de la solution
 --------------------------
+
+Une fois que le circuit a été rincé et mis de côté, il va falloir se
+débarrasser de la solution ; rien ne sert de la conserver même si elle a peu
+servi car elle va perdre ses propriétés au cours du temps. Pire même, elle va
+dégager du gaz, ce qui pourrait faire exploser la bouteille dans laquelle elle
+est stockée.
+
+Elle est jetable dans les canalisations à condition de bien la diluer
+auparavant pour ne pas faire de dégâts :
+
+ - Verser la solution dans une bouteille de 1,5 L.
+ - Compléter la bouteille avec de l’eau.
+ - Verser le contenu de la bouteille dans un évier.
+
+On peut ensuite rincer le reste de notre matériel :
+
+ - Rincer les outils, récipiants, gants, etc..
+ - Rincer l’évier une fois que tout le reste a été nettoyé.
 
 Conclusion
 ----------
