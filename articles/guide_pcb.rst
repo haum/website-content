@@ -2,7 +2,7 @@
 Guide pour réaliser ses propres PCBs
 ====================================
 
-:date: 2015-10-10 23:00
+:date: 2015-10-12 19:25
 :tags: hack
 :category: hack
 :slug: guide_pcb
