@@ -148,6 +148,23 @@ Puis équipez vous du matériel de protection nécessaire :
  - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
  - Lunettes de protection ;
 
+Dans le récipient qui va accueillir la plaque, préparez la solution suivante en
+prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
+
+ - 1/3 d’eau (de préférence distillée) ;
+ - 1/3 d’acide chlorydhrique ;
+ - 1/3 d’eau oxygénée.
+
+Arrive maintenant le moment de vérité : plongez la plaque à plat dans la
+solution et éloignez vous du récipient car des émanations toxiques (dichlore)
+vont être produites pendant la réaction.
+
+Une fois que la réaction est devenue moins violente, controlez à intervalles
+régulier l’état de la plaque en la sortant de la solution avec des pincettes en
+plastique afin de pouvoir l’examiner ; sortez définitivement la plaque de la
+solution quand le cuivre non recouvert par le toner sur la plaque aura
+totalement disparu.
+
 Élimination de la solution
 --------------------------
 
@@ -174,5 +191,18 @@ Conclusion
 
 Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
 (mais pas forcément des PCBs propres par contre, ça viendra avec la pratique).
+
+Étant donné la non-réutilisabilité de la solution, il parrait intéressant de
+procéder à cette réalisation de PCBs par batchs de plusieurs plaques pour
+éviter de gâcher trop de solution qui doit être active pour plusieurs plaques
+(étant donné que l’on ne peut pas la stocker).
+
+Il est important d’effectuer cet ensemble d’étapes dans la foulée, car le toner
+n’est plus d’aussi bonne qualité si le PNP Blue est par exemple mis de côté
+pendant une semaine après avoir été imprimé ou la solution gardée pour une
+prochaine fois mais au final inutilisable.
+
+N.B. : Ce guide n’est pas définitif, n’hésitez pas à le modifier afin de
+rajouter des précisions, améliorer sa mise en page ou même l’illustrer !
 
 .. _PCBlastifieuse: /pages/pcblastifieuse.html
