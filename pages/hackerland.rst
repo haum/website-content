@@ -8,6 +8,15 @@ Hackers, bienvenue !
 
 Vous trouverez ici des liens rien que pour vous :)
 
+Wiki & service
+==============
+
+Vous pouvez bien évidemment utiliser les liens dans la barre sur la droite du site pour retrouver les différents points
+de communication et services du HAUM. Si cela ne suffit pas, sachez que le HAUM est aussi équipé d'un wiki_. pour
+obtenir un accès sur le wiki, faites en la demande directement sur la mailing liste !
+
+.. _wiki: https://wiki.haum.org
+
 Communication externe
 =====================
 
