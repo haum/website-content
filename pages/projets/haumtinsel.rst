@@ -31,7 +31,7 @@ Tout le code est disponible `sur Github`_.
 
 La suite ne parle que de la partie serveur et jeu, les pages à propos du Pong_ et de PolychrHAUM_ parlent du reste
 
-.. _sur github: https://github.com/haum/HaumTinsel/tree/master/Games
+.. _sur github: https://github.com/haum/HaumTinsel/tree/master/2014-2015
 .. _PolychrHAUM: /pages/polychrhaum.html
 .. _RaspberryPi: http://www.raspberrypi.org/
 .. _BeagleBone Black: http://beagleboard.org/black
@@ -62,7 +62,7 @@ Matériel
 --------
 
 L'arduino à l'intérieur du boitier est, pour les besoins de communication avec la carte serveur, reprogrammé avec le
-code disponible dans le dossier `Game/Arduino`_ du dépôt. Ce programme est basé (comme dit plus haut) sur PolychrHAUM_
+code disponible dans le dossier `2014-2015/Arduino`_ du dépôt. Ce programme est basé (comme dit plus haut) sur PolychrHAUM_
 une *lib* créée au HAUM et permettant un contrôle simplifié de la bande de LEDs.
 
 Pour une vision plus détaillée du code, la fonction ``loop()`` ne sert qu'a effectuer un nouveau tour de boucle avec
@@ -75,8 +75,8 @@ La partie serveur tient en `un fichier`_ (environ 100 lignes, donc pas grand cho
 basée sur Bottle qui d'un côté initialise un serveur minimaliste (1 page statique avec du JS et 1 point d'API pour
 ajouter des LEDs) et d'un autre ouvre un *thread* capable d'ajouter périodiquement des flocons à la guirlande.
 
-.. _un fichier: https://github.com/haum/HaumTinsel/blob/master/Games/RunningSquare/server.py
-.. _game/arduino: https://github.com/haum/HaumTinsel/tree/master/Games/Arduino
+.. _un fichier: https://github.com/haum/HaumTinsel/blob/master/2014-2015/RunningSquare/server.py
+.. _2014-2015/arduino: https://github.com/haum/HaumTinsel/tree/master/2014-2015/Arduino
 .. _tunnel SSH: https://fr.wikipedia.org/wiki/Tunnel_%28r%C3%A9seau_informatique%29
 
 Installation
