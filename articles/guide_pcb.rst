@@ -19,6 +19,32 @@ responsables de vos faits et gestes lors de leur utilisation, le mieux étant de
 se faire accompagner par des personnes ayant déjà utilisé ce procédé dans un
 premier temps.
 
+Liste des précautions
+---------------------
+
+Avant tout, merci de lire la liste de précautions à prendre :
+
+ - Utiliser des gants, des lunettes de protection, ne pas faire tomber de
+   réactif par terre (vous êtes responsable de vos faits et gestes).
+
+ - Toujours verser de l'acide dans de l'eau et pas l'inverse car il y a risque
+   d'éclaboussure ("explosion").
+
+ - L'acide chorydrique est dangereur (mains, yeux). A manier avec précaution et
+   avec les protections adaptées.
+
+ - L'eau oxygénée est dangereuse du fait de sa concentration. Ne pas fermer
+   la bouteille trop fort (risque d'explosion)
+
+ - Le mélange acétone / eau oxygénée est dangereux : faites attention dans vos
+   manipulations.
+
+ - Aller dehors, ne pas respirer les émanations résultantes de la réaction.
+
+ - La réaction produit du Dichlore un gaz jaune-vert. Il est 2,5 fois plus
+   dense que l'air. Il a une odeur suffocante très désagréable et est
+   extrêmement toxique.
+
 
 Conception du circuit
 ---------------------
