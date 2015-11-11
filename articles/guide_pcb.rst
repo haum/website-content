@@ -209,9 +209,17 @@ prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
  - 1/3 d’acide chlorydhrique ;
  - 1/3 d’eau oxygénée.
 
+.. container:: aligncenter
+
+    [flickr:id=22955115671] [flickr:id=22321241694]
+
 Arrive maintenant le moment de vérité : plongez la plaque à plat dans la
 solution et éloignez vous du récipient car des émanations toxiques (dichlore)
 vont être produites pendant la réaction.
+
+.. container:: aligncenter
+
+    [flickr:id=22917975576] [flickr:id=22930543702]
 
 Une fois que la réaction est devenue moins violente, controlez à intervalles
 régulier l’état de la plaque en la sortant de la solution avec des pincettes en
@@ -245,6 +253,10 @@ Conclusion
 
 Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
 (mais pas forcément des PCBs propres par contre, ça viendra avec la pratique).
+
+.. container:: aligncenter
+
+    [flickr:id=22329500133]
 
 Étant donné la non-réutilisabilité de la solution, il parrait intéressant de
 procéder à cette réalisation de PCBs par batchs de plusieurs plaques pour
