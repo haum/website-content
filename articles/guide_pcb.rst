@@ -56,6 +56,10 @@ la composent.
 
 .. _KiCAD: http://kicad-pcb.org/
 
+.. container:: aligncenter
+
+    [flickr:id=22925193186]
+
 Si vous voulez utiliser une carte déjà réalisée par quelqu’un d’autre, assurez
 vous qu’elle ne soit pas en négatif (technique utilisée pour la gravure avec
 une autre méthode que celle présentée dans ce guide) et passez directement à
@@ -67,6 +71,10 @@ Impression du motif
 Il va falloir imprimer le motif du circuit sur un papier spécial qui va
 permettre de transférer le toner de l’imprimante sur la plaque de cuivre
 facilement.
+
+.. container:: aligncenter
+
+    [flickr:id=22322864273] [flickr:id=22930589112]
 
 Plusieurs types de papiers peuvent être utilisés, nottament le PNP Blue
 (Peel'n'Pick) ou d’autres papiers spécialisés. Ceux-ci ont un côté imprimable
@@ -111,6 +119,12 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
 imprimé.
 
+.. container:: aligncenter
+
+    [flickr:id=22930586852] [flickr:id=22321275904]
+
+Étapes à suivre :
+
  - Mettre le morceau de PNP contre la plaque de cuivre de façon à ce que le
    côté imprimé soit en contact avec la plaque.
  - Fixer le morceau de PNP pour bien qu’il appuie sur la plaque avec du scotch
@@ -131,6 +145,12 @@ Nous allons considérer ici l’utilisation d’un appareil de type
 `PCBlastifieuse`_ pour effectuer le transfert mais sachez qu’il est possible
 (bien que pénible) de le faire à l’aide d’un fer à repasser classique.
 
+.. container:: aligncenter
+
+    [flickr:id=22918010446] [flickr:id=22525696458]
+
+Étapes :
+
  - Mettre l’appareil en route et attendre qu’il atteigne une température
    suffisamment élevée (au moins 180°C).
  - Passer la plaque plusieurs fois dans le « four », jusqu’à ce que le toner
@@ -143,6 +163,10 @@ Nous allons considérer ici l’utilisation d’un appareil de type
  - Retirer très délicatement le film de PNP, les pistes doivent se retrouver
    sur le circuit et le PNP doit devenir transparent à ces endroits.
 
+.. container:: aligncenter
+
+    [flickr:id=22551834459] [flickr:id=22551831489]
+
 Si certains morceaux de piste n’ont pas été totalement transférés, il serait
 possible de rattraper le coup en utilisant un marqueur permanent pour combler
 certains passages ; par contre si seulement la moitié du motif se décolle ce
@@ -151,6 +175,10 @@ motif en tentant de savoir pourquoi le transfert a échoué (température trop
 basse ? pas assez de passes pour permettre la fonte ? PNP qui ne touche pas
 correctement la plaque ? plaque pas assez refroidie ? retirage trop brusque du
 PNP ?).
+
+.. container:: aligncenter
+
+    [flickr:id=22755974720] [flickr:id=22525681208]
 
 Dissolution du cuivre
 ---------------------
