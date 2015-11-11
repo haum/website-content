@@ -187,7 +187,13 @@ Après l’étape délicate, nous attaquons l’étape la plus sujette à risque
 effet, nous allons ici devoir manipuler des produits chimiques qui peuvent être
 dangereux si on ne prend pas suffisamment de précautions.
 
-Regroupez tout d’abord l’ensemble du matériel nécessaire à l’extérieur :
+Tout d’abord équipez vous du matériel de protection nécessaire :
+
+ - Blouse en coton ;
+ - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
+ - Lunettes de protection ;
+
+Ensuite regroupez l’ensemble du matériel nécessaire à l’extérieur :
 
  - Bouteille d’eau oxygénée ;
  - Bouteille d’acide chlorhydrique ;
@@ -195,12 +201,6 @@ Regroupez tout d’abord l’ensemble du matériel nécessaire à l’extérieur
    pouvoir y poser la carte à plat ;
  - Une bouteille de récupération pour la solution usagée ;
  - Le futur PCB.
-
-Puis équipez vous du matériel de protection nécessaire :
-
- - Blouse en coton ;
- - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
- - Lunettes de protection ;
 
 Dans le récipient qui va accueillir la plaque, préparez la solution suivante en
 prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
