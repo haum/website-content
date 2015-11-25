@@ -49,7 +49,7 @@ simple hack.
 Réalisation de PCB… et extraction de caoutchouc ?
 -------------------------------------------------
 
-La réalisation de deux circuits imprimés était prévue ce soit mais seul un des deux a pu être réalisé. La raison ? Un gros problème au niveau de la `PCBlastifieuse`_.
+La réalisation de deux circuits imprimés était prévue ce soir mais seul un des deux a pu être réalisé. La raison ? Un gros problème au niveau de la `PCBlastifieuse`_.
 
 Après avoir un peu trop chauffé et mangé une plaque de PCB de travers, la
 machine s’est mise à fumer. Une fois le démontage de la machine terminé afin de
