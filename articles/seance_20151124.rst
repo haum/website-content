@@ -41,7 +41,7 @@ Tentative de réparation de l’imprimante 3D
 ------------------------------------------
 
 Afin de pouvoir faire un bilan de l’état le l’imprimante 3D qui est hors
-d’usage depuis quelques temps, plusieurs membres ont anaColorisationlysé ses méandres. Bien
+d’usage depuis quelques temps, plusieurs membres ont analysé ses méandres. Bien
 que très instructive, cette analyse laisse à penser que la machine est belle et
 bien hors d’usage et qu’il ne sera pas si simple de la réparer à l’aide d’un
 simple hack.
