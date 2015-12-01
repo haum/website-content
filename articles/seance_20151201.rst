@@ -1,0 +1,61 @@
+=========================
+Séance du 1 décembre 2015
+=========================
+
+:date: 2015-12-01 23:59
+:tags: seances
+:category: news
+:slug: seance_20151201
+:authors: NeodarZ, jackdesbwa et autres présents
+:summary: Résumé de la séance du 1 décembre 2015
+
+Résumé
+======
+
+Atelier git, PCBlastifieuse, gestion de l'espace, fabrication, convivialité, talks... autant de sujets abordés en ce début de décembre.
+
+Séance
+======
+
+Workshop Git
+------------
+
+À la demande d'un grand nombre de membres, Mathieu et Florent réalisent une rapide présentation de l'outil git.
+S'en suit immédiatement un atelier de mise en pratique sur le dépôt bac-à-sable qui a été très malmené, notamment par Alice qui a essayé toutes les combinaisons les plus rocambolesques de commandes exotiques.
+
+Évacuation du carton
+---------------------
+
+Grand merci à l'équipe de déménageurs, particulièrement Seb, qui ont évacué la grande quatité de carton, restant des projets de meubles en carton.
+La prochaine fois, pensez que la porte se referme derrière-vous...
+
+Plastifieuse 2.0
+----------------
+
+La PCBlastifieuse est morte, vive la PCBlastifieuse !
+
+L'ancien système est totalement abandonné suite à l'autodestruction par fonte de ses rouleaux. Nous avons récupéré un four d'imprimante laser qu'il faut de nouveau hacker. Le capteur de température intégré n'est pas utilisable, nous envisageons d'intégrer notre propre capteur. Cependant la mécanique peut être reprise... affaire à suivre.
+
+Fabrication LightStep
+----------------------
+
+Deux nouvelles marches assemblées ! Il n'en reste plus qu'une seule... mais il n'y a plus de double face.
+Trois marches sont à revoir car le contrôle qualité n'est pas passé.
+
+Moment convivial
+----------------
+
+Très bonne initialive de Gwenaël qui, pour sa première séance, a apporté matière à convivialité.
+
+Début publication HPP
+---------------------
+
+Grâce à l'atelier de Mathieu, Fabien va pouvoir publier ses premiers travaux sur son projet HPP.
+
+Préparation des talks
+---------------------
+
+Le HAUM relance les talks ! Alice va commencer à préparer la séance et a déjà identifié quelques intervenants.
+Au menu par exemple, de la sécurité informatique, du développement personnel...
+
+
