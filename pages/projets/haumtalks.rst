@@ -6,6 +6,8 @@ HAUMTalks
 
 `Programme du 8 janvier 2016`_
 
+.. image:: /images/talks/nextevent.png
+
 
 Qu'est-ce ?
 ------------
