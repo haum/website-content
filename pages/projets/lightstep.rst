@@ -1,6 +1,8 @@
 LightStep
 =========
 
+:slug: lightstep
+
 LightStep est un projet visant à faire travailler ensemble les marches du PianoStairs et Luz (une lampe LED programmable).
 
 Les marches ont été remises à neuf et testées spécialement pour ce projet.
