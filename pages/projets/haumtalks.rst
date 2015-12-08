@@ -4,24 +4,21 @@ HAUMTalks
 
 :slug: haumtalks
 
-`Programme du 8 janvier 2016`_
-
 .. image:: /images/talks/nextevent.png
 
+`Programme du 8 janvier 2016`_
 
-Qu'est-ce ?
-------------
 
 .. image:: /images/bannieres_projets/haumtalks.1.jpg
 
-
+Qu'est-ce ?
+------------
 
 Dans son objectif de promouvoir la diffusion de connaisances et les rencontres entre personnes passionnées de nouvelles technologies, de hacks, de DIY, etc. le HAUM organise des mini-conférences libres accessibles à tous.
 
 Chaque session est composée de 4 à 6 interventions d'une quinzaine de minutes sur des sujets variés, choisis librement par les orateurs, suivis par un échange avec les auditeurs.
 
-Pour les sessions à venir, vous pouvez intervenir en proposant un exposé sur le sujet de votre choix en lien avec la thématique sur IRC_ ou sur la `liste de diffusion`_ ! 
-
+Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un exposé sur le sujet de votre choix.
 
 .. _Programme du 8 janvier 2016:
 
@@ -51,14 +48,15 @@ sur le globe) simplement.
 
 Talk : Cartographie sémantique
 """"""""""""""""""""""""""""""
+Intervenant : Yannick
 
 Talk : Pourquoi faut-il rater
 """""""""""""""""""""""""""""
+Intervenant : Florent
 
 Talk : Talk surprise !
 """"""""""""""""""""""
 Intervenant : Mathieu
-
 
 
 Retour sur quelques talks
