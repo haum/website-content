@@ -37,6 +37,6 @@ Voir aussi l'article `Sérigraphie sur textile <http://faitmain.org/volume-2/ser
 Et après ?
 ==========
 
-On n'est pas beaux avec no tee-shirts ?
+On n'est pas beaux avec nos tee-shirts ?
 
-Pour aller plus loin, il pourraît être intéressant ce mélanger les couleurs ou encore de pocher des motifs de bricoleurs...
+Pour aller plus loin, il pourraît être intéressant de mélanger les couleurs ou encore de pocher des motifs de bricoleurs...

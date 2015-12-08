@@ -15,7 +15,7 @@ Résumé
 Encore beaucoup de monde ce soir. Après les habituelles discussions, la présentation du lab pour les nouveaux, et les
 urbanités d'usage, les projets ont bien avancé.
 
-Du PianoStairs au Pong 1D en passant par l'imprimante 3D, du routage et la plastifieuse, la séance était bien remplie.
+Du `PianoStairs`_ au `Pong 1D`_ en passant par l'imprimante 3D, du routage et la PCBlastifieuse_, la séance était bien remplie.
 
 Séance
 ======
@@ -39,7 +39,7 @@ jour sont restées vaines.
 Pong 1D
 -------
 
-`Festival D`_ approchant, nous avons continué la remise sur pieds du Pong. Au programme de ce soir,
+`Festival D`_ approchant, nous avons continué la remise sur pieds du Pong_. Au programme de ce soir,
 gravure de PCB (on y reviendra), correction des soudures, test de la nouvelle bande de LEDs, et bien sûr démonstration
 pour les nouveaux.
 
@@ -51,7 +51,7 @@ désormais correctement.
 PCB & Chimie
 ------------
 
-Pour les besoins du Pong, une carte d'alimentation a été dessinée par Jérôme et gravée par Mehdi et
+Pour les besoins du Pong_, une carte d'alimentation a été dessinée par Jérôme et gravée par Mehdi et
 Romuald.
 
 Une occasion de constater que la PCBlastifieuse_ à une certaine tendance à fumer... affaire à suivre.
@@ -61,7 +61,7 @@ Au final, la partie chimique s'est passée parfaitement et le résultat est extr
 PCBlastifieuse
 --------------
 
-Dans la quête du projet abouti, le passage de la *breadboard* à la veroboard est déjà un grand pas. La PCBlastifieuse a
+Dans la quête du projet abouti, le passage de la *breadboard* à la veroboard est déjà un grand pas. La PCBlastifieuse_ a
 connu cette mise à jour aujourd'hui.
 
 Objectif : éviter de se poser la question pour l'utilisation de la plastifieuse et rendre le système beaucoup plus
@@ -77,3 +77,9 @@ Après les essais concluants de la semaine dernière, il ne nous manquait que du
 
 
 *PS : le HAUM dispose désormais d'une magnifique poubelle en carton. Merci Romuald !*
+
+.. _PCBlastifieuse: http://haum.org/pages/pcblastifieuse.html
+.. _Festival D: http://www.festivald.net/
+.. _Pong 1D: http://haum.org/pages/1dpong.html
+.. _Pong: http://haum.org/pages/1dpong.html
+.. _PianoStairs: http://haum.org/pages/pianostairs.html
