@@ -6,6 +6,8 @@ HAUMTalks
 
 `Programme du 8 janvier 2016`_
 
+.. image:: /images/talks/nextevent.png
+
 
 Qu'est-ce ?
 ------------
@@ -126,7 +128,7 @@ Contenu
 .. _ici : http://haum.org/images/talks/ravi_shankar_presentation.pdf
 .. _IRC : http://irc.lc/freenode/haum
 .. _retour_talks : /haumtalks_cr.html
-.. _liste de difusion : http://lists.matael.org/mailman/listinfo/haum_hackerspace
+.. _liste de diffusion : http://lists.matael.org/mailman/listinfo/haum_hackerspace
 .. _Épicerie du pré : http://epiceriedupre.fr/
 
 
