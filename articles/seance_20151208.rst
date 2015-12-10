@@ -20,21 +20,21 @@ Séance
 AgileMans
 ---------
 
-Nous avons reçu la visite de Fabien Bataille qui est venu nous présenter le projet d'AgileMans, qui souhaite requérir l'aide du HAUM pour 
+Nous avons reçu la visite de Fabien Bataille qui est venu nous présenter le projet d'`AgileMans`_, qui souhaite requérir l'aide du HAUM pour 
 l'organisation d'une journée autour des méthodes Agile.
 Une séance de questions/réponses à suivi, ce qui a permis aux derniers membres encore hésitants de valider l'implication du HAUM dans le projet d'AgileMans.
 
 Nouveaux moyens de communication
 --------------------------------
 
-Pour améliorer la présence du HAUM sur Internet, un subreddit à été créé (et aussitôt utilisé, pour ce résumé de séance), une page Facebook
+Pour améliorer la présence du HAUM sur Internet, un `subreddit`_ à été créé (et aussitôt utilisé, pour ce résumé de séance), une page `Facebook`_
 est, elle aussi, créée (on recherche d'ailleurs des possesseurs de comptes Facebook pour aider à son administration !).
 La mise en place d'un Kanban est aussi discutée, sans qu'elle soit actée pour le moment.
 
 Talks
 -----
 
-Les prochains talks arrivent à grands pas, et Alice et JackDesBwa ont décidé que cet évènement méritait une refonte de la page associée sur le site du HAUM.
+Les prochains talks arrivent à grands pas, et Alice et JackDesBwa ont décidé que cet évènement méritait une refonte de la `page associée`_ sur le site du HAUM.
 La nouvelle page est dors et déjà en place, décrivant les prochaines conférences qui auront lieu à l'Épicerie du Pré, le 8 Janvier 2016 à partir de 19H.
 
 Tombé d'affiche
@@ -54,3 +54,8 @@ Fabrication LightStep
 
 Jblb et matael ont tous les deux reprogrammé l'arduino contenu dans Luz, la lampe de neomillium, afin qu'elle affiche des patterns prédéfinis 
 et harmonieux, ce qui était loin d'être évident au début de la séance!
+
+.. _AgileMans: http://agile-mans.org/
+.. _subreddit: http://reddit.com/r/HAUM
+.. _Facebook: http://facebook.com/HAUM72
+.. _page associée: http://haum.org/pages/haumtalks.html
