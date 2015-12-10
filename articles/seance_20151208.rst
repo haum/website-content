@@ -1,0 +1,56 @@
+=========================
+Séance du 8 décembre 2015
+=========================
+
+:date: 2015-12-08 23:59
+:tags: seances
+:category: news
+:slug: seance_20151208
+:authors: seb_vallee, MicroJoe, et autres présents
+:summary: Résumé de la séance du 8 décembre 2015
+
+Résumé
+======
+
+AgileMans, nouveaux moyens de communication, Talks, Shell Script IRC et LightStep, le tout pour une soirée bien remplie.
+
+Séance
+======
+
+AgileMans
+---------
+
+Nous avons reçu la visite de Fabien Bataille qui est venu nous présenter le projet d'AgileMans, qui souhaite requérir l'aide du HAUM pour 
+l'organisation d'une journée autour des méthodes Agile.
+Une séance de questions/réponses à suivi, ce qui a permis aux derniers membres encore hésitants de valider l'implication du HAUM dans le projet d'AgileMans.
+
+Nouveaux moyens de communication
+--------------------------------
+
+Pour améliorer la présence du HAUM sur Internet, un subreddit à été créé (et aussitôt utilisé, pour ce résumé de séance), une page Facebook
+est, elle aussi, créée (on recherche d'ailleurs des possesseurs de comptes Facebook pour aider à son administration !).
+La mise en place d'un Kanban est aussi discutée, sans qu'elle soit actée pour le moment.
+
+Talks
+-----
+
+Les prochains talks arrivent à grands pas, et Alice et JackDesBwa ont décidé que cet évènement méritait une refonte de la page associée sur le site du HAUM.
+La nouvelle page est dors et déjà en place, décrivant les prochaines conférences qui auront lieu à l'Épicerie du Pré, le 8 Janvier 2016 à partir de 19H.
+
+Tombé d'affiche
+---------------
+
+20h33, fidèle à son habitude de début de séance, l'affiche du dHAUM pour le festival Teriaki tombe.
+
+Shell script IRC
+----------------
+
+Dans l'objectif d'automatiser le plus possible l'ouverture du local sur le site du HAUM, seb_vallee a tenté de faire un script shell 
+(à destination de la NeufBox) qui enverrait la commande attendue par Com`Bot, notre serviteur virtuel sur IRC, pour déclencher et afficher 
+l'ouverture du local sur IRC, Twitter et le site du HAUM.
+
+Fabrication LightStep
+---------------------
+
+Jblb et matael ont tous les deux reprogrammé l'arduino contenu dans Luz, la lampe de neomillium, afin qu'elle affiche des patterns prédéfinis 
+et harmonieux, ce qui était loin d'être évident au début de la séance!
