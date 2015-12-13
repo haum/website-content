@@ -1,0 +1,79 @@
+==========================
+Séance du 10 décembre 2015
+==========================
+
+:date: 2015-12-10 23:59
+:tags: seances
+:category: news
+:slug: seance_20151210
+:authors: MicroJoe, neomilium et autres présents
+:summary: Résumé de la séance du 10 décembre 2015
+
+Résumé
+======
+
+Le HAUM s’est improvisé une séance ce jeudi afin de faire avancer certains
+projets en dehors des traditionelles sessions du mardi soir.
+
+Séance
+======
+
+Kanban
+------
+
+Afin d’avoir une meilleure visibilité sur l’évolution des différents projets
+ainsi que de permettre de répartir plus facilement le travail sur ceux-ci en
+fonction des affinités des membres, nos bricoleurs on mis en place un
+`Kanban`_.
+
+.. container:: aligncenter
+
+    [flickr:id=23570607322]
+
+Le principe est simple : une note collante par projet, et cette note se déplace
+dans les différentes colonnes prévues en fonction de son avancement et de qui
+est en train de travailler dessus en séance (colonne *WIP* : *work in
+progress*).
+
+Il faut cependant réfléchir à un meilleur moyen de fixation car le double face
+peine à maintenir la grande feuille correctement sur le mur…
+
+
+Haumbotox
+---------
+
+Le petit `haumbotox`_ est un nouveau venu dans la famille de nos bots IRC.
+
+.. container:: aligncenter
+
+    [flickr:id=23383599760]
+
+Le rôle de celui-ci est de venir parler avec Twaum (le bot Twitter) afin
+d’indiquer les ouvertures et fermeture du local sur le compte Twitter du HAUM
+lors de l’appui sur le bouton de la box.
+
+En effet, actuellement l’appui change en effet l’état d’ouverture du local mais
+ne tweete pas automatiquement cette ouverture ; c’est désormais bientôt du
+passé, et tout le monde sera prévenu par Twitter (et IRC vu qu’on verra le bot
+se connecter pour demander de tweeter).
+
+Nouvelle imprimante
+-------------------
+
+Enfin, nous avons récupéré et réussi à faire fonctionner une nouvelle
+imprimante laser.
+
+Celle-ci n’est pas banale car en effet elle permet, en naviguant dans ses
+menus, d’imprimer des sudokus ainsi que leur solution (sur deux pages
+distinctes) ainsi que… des calendriers, le tout sans brancher le moindre
+ordinateur derrière !
+
+Il reste donc à l’installer pour remplacer l’autre imprimante, qui n’imprimait
+pas assez noir lorsque l’on s’en servait pour faire des PCBs (nous devions
+repasser au crayon sur les pistes).
+
+Une note a donc été ajoutée sur le Kanban afin de remplacer l’ancienne
+imprimante par cette nouvelle machine… Au boulot !
+
+.. _Kanban: https://fr.wikipedia.org/wiki/Kanban_%28d%C3%A9veloppement%29
+.. _haumtobox: https://github.com/haum/vushaum/tree/master/irc4nb

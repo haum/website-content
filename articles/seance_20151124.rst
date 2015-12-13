@@ -1,0 +1,105 @@
+==========================
+Séance du 24 novembre 2015
+==========================
+
+:date: 2015-11-24 23:59
+:tags: seances
+:category: news
+:slug: seance_20151124
+:authors: MicroJoe
+:summary: Résumé de la séance du 24 novembre 2015
+
+Résumé
+======
+
+Une nouvelle séance bien remplie s’est déroulée hier ; pas mal de personnes
+présentes pour discuter et mener à bien divers projets et hacks en tous genres.
+
+Séance
+======
+
+Réparation de smartphones
+-------------------------
+
+Un smartphone cassé + un autre smartphone cassé = un smartphone réparé,
+c’est la formule qui a servi plusieurs membres du HAUM afin de recomposer des
+téléphones fonctionnels.
+
+Installation d’Archlinux
+------------------------
+
+NeodarZ c’est amusé a installer Archlinux en suivant étape par étape le guide
+et en s’appuyant sur l’expérience de certains membres afin de le guider dans
+cette installation. Même si celle-ci n’a pas complètement abouti, la discussion
+sur l’UEFI a permis de mettre au clair le fonctionnement de cette technologie et
+son utilisation.
+
+Maintenant que les étapes sont plus claires, la prochaine tentative
+d’installation a de grandes chances d’aboutir au succès !
+
+Tentative de réparation de l’imprimante 3D
+------------------------------------------
+
+Afin de pouvoir faire un bilan de l’état le l’imprimante 3D qui est hors
+d’usage depuis quelques temps, plusieurs membres ont analysé ses méandres. Bien
+que très instructive, cette analyse laisse à penser que la machine est belle et
+bien hors d’usage et qu’il ne sera pas si simple de la réparer à l’aide d’un
+simple hack.
+
+Réalisation de PCB… et extraction de caoutchouc ?
+-------------------------------------------------
+
+La réalisation de deux circuits imprimés était prévue ce soir mais seul un des deux a pu être réalisé. La raison ? Un gros problème au niveau de la `PCBlastifieuse`_.
+
+Après avoir un peu trop chauffé et mangé une plaque de PCB de travers, la
+machine s’est mise à fumer. Une fois le démontage de la machine terminé afin de
+débloquer la plaque, nous nous sommes rendu compte que le caoutchouc permettant
+l’entrainement − sans doute trop usé de par la chaleur et l’insertion de
+circuits − s’était complètement dissocié du rouleau.
+
+.. _PCBlastifieuse: /pages/pcblastifieuse.html
+
+.. container:: aligncenter
+
+    [flickr:id=23007290200][flickr:id=23194791982]
+
+Nous allons donc devoir trouver un moyen de réparer la machine en dimensionnant
+un nouveau rouleau ou en créant une autre machine de ce genre supportant la
+chaleur dégagée (à partir d’un four d’imprimante laser par exemple).
+
+PianoStairs
+-----------
+
+La rénovation du PianoStairs s’est poursuivi ce soir, mais n’est toujours pas
+terminée. En effet, seulement une marche a été réalisée. Il reste donc un
+dernier petit effort à fournir afin de finaliser cette rénovation !
+
+Amélioration du logo
+--------------------
+
+Vu les opérations de plus en plus nombreuses de communication de l’association,
+notamment lors d’événements, il a été décidé de revoir le logo afin de le
+rendre plus moderne.
+
+Cette étape passe notamment par la colorisation du logo (afin de pouvoir se
+passer du logo monochrome que nous utilisons actuellement) ainsi que l’ajout
+d’éléments graphiques simples permettant d’augmenter celui-ci (courbes, …).
+
+Tombé d’affiche
+---------------
+
+À 22h18, l’affiche Teriaki du PongGéant tombe. Il se fait tard et il est temps
+de prendre la décision qui se fait attendre avant de clore la séance.
+
+Choix d’un nouveau fer à souder
+-------------------------------
+
+Ou plutôt choix d’une nouvelle station de soudage pour être exact.
+
+Après un long débat pesant les pour et les contres des solutions à notre
+disposition et rentrant dans le budget, le choix s’est porté sur le kit proposé
+par l’Electrolab à monter soi-même qui sera donc acheté cette semaine.
+
+La prochaine séance devrait donc en partie se concentrer sur le montage de
+celui-ci, mais également sur plein d’autres hacks et projets, alors venez
+nombreux !

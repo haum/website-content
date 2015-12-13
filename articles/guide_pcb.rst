@@ -14,10 +14,36 @@ pour but de détailler des différentes étapes de réalisation de circuits
 imprimés en utilisant la méthode du transfert de toner.
 
 Attention : ce guide évoque l’utilisation de produits chimiques qui sont
-dangeureux et quit doivent être manipulés avec précaution. Vous êtes
+dangeureux et qui doivent être manipulés avec précaution. Vous êtes
 responsables de vos faits et gestes lors de leur utilisation, le mieux étant de
 se faire accompagner par des personnes ayant déjà utilisé ce procédé dans un
 premier temps.
+
+Liste des précautions
+---------------------
+
+Avant tout, merci de lire la liste de précautions à prendre :
+
+ - Utiliser des gants, des lunettes de protection, ne pas faire tomber de
+   réactif par terre (vous êtes responsable de vos faits et gestes).
+
+ - Toujours verser de l'acide dans de l'eau et pas l'inverse car il y a risque
+   d'éclaboussure ("explosion").
+
+ - L'acide chorydrique est dangereur (mains, yeux). A manier avec précaution et
+   avec les protections adaptées.
+
+ - L'eau oxygénée est dangereuse du fait de sa concentration. Ne pas fermer
+   la bouteille trop fort (risque d'explosion)
+
+ - Le mélange acétone / eau oxygénée est dangereux : faites attention dans vos
+   manipulations.
+
+ - Aller dehors, ne pas respirer les émanations résultantes de la réaction.
+
+ - La réaction produit du Dichlore un gaz jaune-vert. Il est 2,5 fois plus
+   dense que l'air. Il a une odeur suffocante très désagréable et est
+   extrêmement toxique.
 
 
 Conception du circuit
@@ -30,6 +56,10 @@ la composent.
 
 .. _KiCAD: http://kicad-pcb.org/
 
+.. container:: aligncenter
+
+    [flickr:id=22925193186]
+
 Si vous voulez utiliser une carte déjà réalisée par quelqu’un d’autre, assurez
 vous qu’elle ne soit pas en négatif (technique utilisée pour la gravure avec
 une autre méthode que celle présentée dans ce guide) et passez directement à
@@ -41,6 +71,10 @@ Impression du motif
 Il va falloir imprimer le motif du circuit sur un papier spécial qui va
 permettre de transférer le toner de l’imprimante sur la plaque de cuivre
 facilement.
+
+.. container:: aligncenter
+
+    [flickr:id=22322864273] [flickr:id=22930589112]
 
 Plusieurs types de papiers peuvent être utilisés, nottament le PNP Blue
 (Peel'n'Pick) ou d’autres papiers spécialisés. Ceux-ci ont un côté imprimable
@@ -85,6 +119,12 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
 imprimé.
 
+.. container:: aligncenter
+
+    [flickr:id=22930586852] [flickr:id=22321275904]
+
+Étapes à suivre :
+
  - Mettre le morceau de PNP contre la plaque de cuivre de façon à ce que le
    côté imprimé soit en contact avec la plaque.
  - Fixer le morceau de PNP pour bien qu’il appuie sur la plaque avec du scotch
@@ -105,6 +145,12 @@ Nous allons considérer ici l’utilisation d’un appareil de type
 `PCBlastifieuse`_ pour effectuer le transfert mais sachez qu’il est possible
 (bien que pénible) de le faire à l’aide d’un fer à repasser classique.
 
+.. container:: aligncenter
+
+    [flickr:id=22918010446] [flickr:id=22525696458]
+
+Étapes :
+
  - Mettre l’appareil en route et attendre qu’il atteigne une température
    suffisamment élevée (au moins 180°C).
  - Passer la plaque plusieurs fois dans le « four », jusqu’à ce que le toner
@@ -117,6 +163,10 @@ Nous allons considérer ici l’utilisation d’un appareil de type
  - Retirer très délicatement le film de PNP, les pistes doivent se retrouver
    sur le circuit et le PNP doit devenir transparent à ces endroits.
 
+.. container:: aligncenter
+
+    [flickr:id=22551834459] [flickr:id=22551831489]
+
 Si certains morceaux de piste n’ont pas été totalement transférés, il serait
 possible de rattraper le coup en utilisant un marqueur permanent pour combler
 certains passages ; par contre si seulement la moitié du motif se décolle ce
@@ -126,6 +176,10 @@ basse ? pas assez de passes pour permettre la fonte ? PNP qui ne touche pas
 correctement la plaque ? plaque pas assez refroidie ? retirage trop brusque du
 PNP ?).
 
+.. container:: aligncenter
+
+    [flickr:id=22755974720] [flickr:id=22525681208]
+
 Dissolution du cuivre
 ---------------------
 
@@ -133,7 +187,13 @@ Après l’étape délicate, nous attaquons l’étape la plus sujette à risque
 effet, nous allons ici devoir manipuler des produits chimiques qui peuvent être
 dangereux si on ne prend pas suffisamment de précautions.
 
-Regroupez tout d’abord l’ensemble du matériel nécessaire à l’extérieur :
+Tout d’abord équipez vous du matériel de protection nécessaire :
+
+ - Blouse en coton ;
+ - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
+ - Lunettes de protection ;
+
+Ensuite regroupez l’ensemble du matériel nécessaire à l’extérieur :
 
  - Bouteille d’eau oxygénée ;
  - Bouteille d’acide chlorhydrique ;
@@ -142,12 +202,6 @@ Regroupez tout d’abord l’ensemble du matériel nécessaire à l’extérieur
  - Une bouteille de récupération pour la solution usagée ;
  - Le futur PCB.
 
-Puis équipez vous du matériel de protection nécessaire :
-
- - Blouse en coton ;
- - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
- - Lunettes de protection ;
-
 Dans le récipient qui va accueillir la plaque, préparez la solution suivante en
 prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
 
@@ -155,9 +209,17 @@ prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
  - 1/3 d’acide chlorydhrique ;
  - 1/3 d’eau oxygénée.
 
+.. container:: aligncenter
+
+    [flickr:id=22955115671] [flickr:id=22321241694]
+
 Arrive maintenant le moment de vérité : plongez la plaque à plat dans la
 solution et éloignez vous du récipient car des émanations toxiques (dichlore)
 vont être produites pendant la réaction.
+
+.. container:: aligncenter
+
+    [flickr:id=22917975576] [flickr:id=22930543702]
 
 Une fois que la réaction est devenue moins violente, controlez à intervalles
 régulier l’état de la plaque en la sortant de la solution avec des pincettes en
@@ -191,6 +253,10 @@ Conclusion
 
 Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
 (mais pas forcément des PCBs propres par contre, ça viendra avec la pratique).
+
+.. container:: aligncenter
+
+    [flickr:id=22329500133]
 
 Étant donné la non-réutilisabilité de la solution, il parrait intéressant de
 procéder à cette réalisation de PCBs par batchs de plusieurs plaques pour
