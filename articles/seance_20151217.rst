@@ -23,7 +23,7 @@ Lightstep
 
 Cette séance étant essentiellement orientée autour de LightStep, le projet a fait un bon en avant.
 
-Suite aux avancées des précédentés séances, plusieurs animations ont été mises en place et la lampe affiche maintenant
+Suite aux avancées des précédentes séances, plusieurs animations ont été mises en place et la lampe affiche maintenant
 un répertoire assez varié.
 
 Les marches sont elles aussi prêtes et le code pour coupler les deux est déjà implémenté ! On commence à entrevoir le
