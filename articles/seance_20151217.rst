@@ -1,0 +1,71 @@
+==========================
+Séance du 17 décembre 2015
+==========================
+
+:date: 2015-12-17 23:59
+:tags: seances
+:category: news
+:slug: seance_20151217
+:authors: Sébastien, Florent, Romuald, Tifenn, Jean-Marc, Mathieu
+:summary: Résumé de la séance du 17 décembre 2015
+
+Résumé
+======
+
+Le HAUM s’est improvisé une séance ce jeudi afin de faire avancer certains
+projets en dehors des traditionelles sessions du mardi soir.
+
+Séance
+======
+
+Lightstep
+---------
+
+Cette séance étant essentiellement orientée autour de LightStep, le projet a fait un bon en avant.
+
+Suite aux avancées des précédentés séances, plusieurs animations ont été mises en place et la lampe affiche maintenant
+un répertoire assez varié.
+
+Les marches sont elles aussi prêtes et le code pour coupler les deux est déjà implémenté ! On commence à entrevoir le
+bout du projet !
+
+Marches et bobines
+------------------
+
+Depuis la rénovation des marches du PianoStairs, les fils s'entremêlent au local. Tifenn a pris sur elle de nous
+construire une floppée de petites bobines individuelles pour remédier au problème !
+
+Rangement & Balai
+-----------------
+
+Après de nombreuses semaines de bazar ambiant au local, de valeureux hackers se sont attaqués à la tâche de ranger le
+HAUM.
+
+Désormais, l'établi dispose de compartiments dans les tiroirs pour stocker des pièces et les outils. Établi qu'il est
+désormais possible d'utiliser dans de bonnes conditions.
+
+Un coup de balai a aussi permis de retrouver la couleur du sol !
+
+Imprimante
+----------
+
+Alors que l'imprimante imprimait... une nouvelle imprimante est arrivée. Avec des noirs plus noir que noir, des scans,
+des sudoku et des calendrier (de l'après... changement), elle a tout pour plaire.
+
+Quand la nouvelle version de la plastifieuse sera fonctionnelle, nous aurons donc de quoi réaliser des transferts encore
+plus nets qu'avant.
+
+Haumbotox
+---------
+
+Haumbotox, dernier né de la tribu des *bots* du HAUM a été mis en place. Installé près de Luci, Haumbotox la gardera
+jeune et pourra aussi discuter avec Combot et Twaum pour changer le statut d'ouverture du local et tweeter dans la
+volée !
+
+FreeToHack
+----------
+
+Si vous avez lu jusque là, c'est que le hack vous intéresse (et ce qu'on fait aussi) ! Le HAUM dispose d'un veritable
+stock de pièces en **Free to Hack** !
+
+N'hésitez pas à vous servir !
