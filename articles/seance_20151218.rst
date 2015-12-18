@@ -1,0 +1,42 @@
+==========================
+Séance du 18 décembre 2015
+==========================
+
+:date: 2015-12-18 23:59
+:tags: seances
+:category: news
+:slug: seance_20151218
+:authors: Sébastien, Florent, Romuald
+:summary: Résumé de la séance du 18 décembre 2015
+
+Résumé
+======
+
+Le HAUM s’est improvisé une séance ce vendredi afin de faire avancer certains
+projets (particulièrement LightStep) en dehors de l'habituelle session du mardi soir.
+
+Séance
+======
+
+Lightstep
+---------
+
+Cette séance étant (encore) essentiellement orientée autour de LightStep, le projet a (encore) fait un bon en avant.
+
+De nouveau, des animations ont vu le jour au sein du code de LightStep, et, doucement mais surement, le projet se remplit
+d'animations toutes plus amusantes les unes que les autres.
+
+Haumbotox
+---------
+
+Dernier correctif sur Haumbotox, afin de pouvoir choisir ce qu'il va dire sur le canal IRC. L'idée étant qu'il soit capable
+de publier des informations importantes du HAUM de façon automatisée sur le canal IRC (les résumés de séances, par exemple ?).
+Le code a aussi été réorganisé pour que les variables de configuration soient isolées dans un fichier séparé, et ainsi faciliter
+son administration.
+
+Publications automatiques
+-------------------------
+
+Rebrec a souhaité contribuer au HAUM en commençant à tavailler sur un système de publication automatisé pour permettre une
+meilleure communication du HAUM. En effet, ce système devrait permettre d'avoir une publication des nouveaux articles du site web 
+du HAUM, en direct et simultané sur IRC, la mailing-list, Twitter et Facebook.
