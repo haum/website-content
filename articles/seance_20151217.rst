@@ -44,6 +44,9 @@ HAUM.
 Désormais, l'établi dispose de compartiments dans les tiroirs pour stocker des pièces et les outils. Établi qu'il est
 désormais possible d'utiliser dans de bonnes conditions.
 
+De même en réutilisant quelques cartons, il a été possible de mettre en place des boîtes de projet ! Fini les projets
+qui traînent sur l'établi, attendant leur heure de gloire !
+
 Un coup de balai a aussi permis de retrouver la couleur du sol !
 
 Imprimante
@@ -62,6 +65,12 @@ Haumbotox, dernier né de la tribu des *bots* du HAUM a été mis en place. Inst
 jeune et pourra aussi discuter avec Combot et Twaum pour changer le statut d'ouverture du local et tweeter dans la
 volée !
 
+Reddit
+------
+
+Le HAUM s'est muni d'un `sous-reddit`_ que chacun peut utiliser pour partager des liens ! A terme, ces liens seront peut
+être mêmes envoyés automatiquement sur le site ou la ML...
+
 FreeToHack
 ----------
 
@@ -69,3 +78,5 @@ Si vous avez lu jusque là, c'est que le hack vous intéresse (et ce qu'on fait 
 stock de pièces en **Free to Hack** !
 
 N'hésitez pas à vous servir !
+
+.. _sous-reddit: http://reddit.com/r/haum
