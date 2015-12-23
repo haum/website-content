@@ -19,10 +19,10 @@ LightStep
 =========
 
 Après les dernières et nombreuses séances autour de ce projet, l'heure était aux tests. Bonds, pas et piétinnements se sont
-succèdés sur les marches et là.... c'est le drame. La lampe *freeze* de manière assez aléatoire.
+succédés sur les marches et là.... c'est le drame. La lampe *freeze* de manière assez aléatoire.
 
 Plusieurs hypothèses ont été formulées pour expliquer ce comportement, le *watchdog* a même été utilisé pour redémarrer
-la carte en cas de bug... mais toutes ces tentaives restèrent vaines.
+la carte en cas de bug... mais toutes ces tentatives restèrent vaines.
 
 .. container:: aligncenter
 
