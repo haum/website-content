@@ -24,6 +24,10 @@ succèdés sur les marches et là.... c'est le drame. La lampe *freeze* de mani�
 Plusieurs hypothèses ont été formulées pour expliquer ce comportement, le *watchdog* a même été utilisé pour redémarrer
 la carte en cas de bug... mais toutes ces tentaives restèrent vaines.
 
+.. container:: aligncenter
+
+    [flickr:id=23898251906]
+
 Finalement, dans un accès de magie noire, le projet a décidé de fonctionner pas trop mal (validé suite au *stress-test*
 ridicule que lui a fait subir un des vice-président). Le point qui a changé ? La version de la chaine de compilation
 Arduino. Le projet fonctionne donc avec la 1.0.5 et la 1.6.5 mais pas la 1.0.6... étrange...
