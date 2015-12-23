@@ -1,0 +1,86 @@
+==========================
+Séance du 22 décembre 2015
+==========================
+
+:date: 2015-12-22 23:59
+:tags: seances
+:category: news
+:slug: seance_20151222
+:authors: Sébastien, Mathieu
+:summary: Résumé de la séance du 22 décembre 2015
+
+Résumé
+======
+
+Un peu de bots, beaucoup de rangement, un zeste de station de soudage, un soupçon de graphisme, le tout pour compléter une
+séance déjà bien remplie par les finitions de LightStep (et ses bugs de dernières minutes) !
+
+LightStep
+=========
+
+Après les dernières et nombreuses séances autour de ce projet, l'heure était aux tests. Bonds, pas et piétinnements se sont
+succèdés sur les marches et là.... c'est le drame. La lampe *freeze* de manière assez aléatoire.
+
+Plusieurs hypothèses ont été formulées pour expliquer ce comportement, le *watchdog* a même été utilisé pour redémarrer
+la carte en cas de bug... mais toutes ces tentaives restèrent vaines.
+
+Finalement, dans un accès de magie noire, le projet a décidé de fonctionner pas trop mal (validé suite au *stress-test*
+ridicule que lui a fait subir un des vice-président). Le point qui a changé ? La version de la chaine de compilation
+Arduino. Le projet fonctionne donc avec la 1.0.5 et la 1.6.5 mais pas la 1.0.6... étrange...
+
+Prochaine étape, installer le tout sur le lieu de présentation !
+
+Bots et Reddit
+==============
+
+Sébastien était rentré il y a quelques temps en rage berserk pour faire tourner sur IRC un bot écrit en sh.... oui, en
+sh, cette fois, c'est François qui a amélioré Combot, notre serviteur partagé. Maintenant il sait choisir comme un
+grand une phrase au hasard pour les séances dans l'agenda !
+
+Romain a aussi mis la main à la pâte en sortant de son chapeau (et un peu de son Archlinux) un bot Python pour relier
+Reddit_ à IRC ! Welcome home *reddithaum* !
+
+.. _Reddit: http://reddit.com/r/haum
+
+Logo
+====
+
+Notre vieux logo, on l'aime mais on l'améliore. Avant tout, le *kerning* (espacement entre les caractères) et
+l'épaisseur de trait ont été modifiés pour que le logo soit cohérent graphiquement.
+
+D'autres modifications sont envisagées mais avant tout il faudra envoyer le nouveau logo un peu partout !
+
+Pong
+====
+
+De nouvelles manettes ont été imprimées il y a longtemps pour remplacer les vielles manettes blanches et hackées à la
+scie. Après quelques points de soudure et 4 vis, les nouvelles manettes sont opérationnelles !
+
+Ce projet sort du Kanban !
+
+Rangement (again)
+=================
+
+Alors que la nuit enveloppe la ville et que le local se vide de ses hackers... deux irréductibles entreprennent un
+projet fou : déplacer de 20cm l'établi... Non seulement cela entraîne un gain phénoménal de place (en tout cas au niveau
+perceptif) mais en plus un rangement *express* des étagères de l'établi s'en suit.
+
+Désormais, il est tout beau et tout propre !
+
+Administratif
+=============
+
+Tifenn a bravé la bureaucratie et fait les papiers nécessaires à la mise à jour de l'enregistrement de l'asso. Elle a en
+même temps rempli le formulaire pour les changements de procuration sur les comptes. Enfin, aidée d'autres membres, elle
+a entré toutes les données de gestion dans un logiciel fait pour ça.
+
+Merci à elle, tout ça devrait simplifier la suite !
+
+Station de Soudage
+==================
+
+Suite au mail de Mehdi, qui a la responsabilité de ce projet, nous avons vérifié le contenu du colis, imprimé le schéma
+de la carte pour préparer la soudure et laissé le tout bien en évidence sur l'établi (rangé).
+
+Avis aux amateurs !
+
