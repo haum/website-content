@@ -1,0 +1,79 @@
+========================
+Séance du 5 janvier 2016
+========================
+
+:date: 2016-01-05 23:59
+:tags: seances
+:category: news
+:slug: seance_20160105
+:authors: MicroJoe
+:summary: Résumé de la séance du 5 janvier 2016
+
+Résumé
+======
+
+Nos hackeurs se sont de nouveau retrouvés en cette rentrée de janvier afin de
+faire avancer les diverses tâches apposées au Kanban… mais aussi pour d’autres
+projets !
+
+Serveur IBM
+===========
+
+Romain s’est amusé à remettre en fonctionnement un serveur IBM de 2005 qui
+trainait dans un coin du local dans le but de le faire travailler sur des
+builds Jenkins.
+
+Après avoir appuyé sur une barrette de RAM mal enfoncée et configuré quelques
+paramètres système, le serveur était reparti et a réussi à démarrer sur une clé
+USB contenant un Linux.
+
+Tobeca
+======
+
+Fabien et Jean-Marc se sont attelés au remontage de la Tobeca. Après avoir mis
+la main sur le sac contenant la visserie de la machine, plus rien n’a arrêté
+les deux membres qui se sont empressés de remonter divers axes et ventilateurs
+de la machine.
+
+Il leur reste néanmoins à trouver une solution à une des courroies qui frotte
+sur la machine…
+
+Station de soudage
+==================
+
+Mehdi s’est attaqué à notre toute nouvelle station de soudage en kit (à l’aide
+d’une autre station de soudage pour la monter).
+
+Les composants CMS étaient de la partie mais n’ont néanmoins pas réussi à
+décourager notre responsable de projet poste à souder.
+
+Affiches
+========
+
+Florent, accompagné de Mathieu et Laurent, se sont lancé dans la réalisation
+d’affiches afin de présenter le HAUM ainsi que les HAUMTalks qui auront lieu
+vendredi prochain.
+
+Publication automatique
+=======================
+
+Romain et François se sont penché sur la problématique de la publication
+automatique (utile pour les rapports de séance comme celui-ci par exemple).
+
+Ils ont identifié les différents canaux de communication à cibler, à savoir :
+
+- La `*mailing-list* du HAUM <http://lists.haum.org/mailman/listinfo>`_
+- Le `compte Twitter de l’association <https://twitter.com/haum72>`_
+- La toute nouvelle `page Facebook <https://www.facebook.com/haum72/>`_
+
+Il faudra donc réussir à mettre en place un programme capable de publier sur
+ces différents canaux.
+
+Réparation de Teensylu
+======================
+
+Jean-Marc, aidé de Florent, s’est attelé à réparer sa carte Teensylu pour son
+imprimante 3D. Ils ont notamment réparé une soudure défectueuse ainsi que
+repassé un coup sur quelques soudures pas très propres.
+
+Reste donc à savoir si la carte fonctionnera mieux désormais.
