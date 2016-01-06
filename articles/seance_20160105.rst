@@ -6,7 +6,7 @@ Séance du 5 janvier 2016
 :tags: seances
 :category: news
 :slug: seance_20160105
-:authors: MicroJoe
+:authors: MicroJoe et matael
 :summary: Résumé de la séance du 5 janvier 2016
 
 Résumé
@@ -27,6 +27,8 @@ Après avoir appuyé sur une barrette de RAM mal enfoncée et configuré quelque
 paramètres système, le serveur était reparti et a réussi à démarrer sur une clé
 USB contenant un Linux.
 
+L'installation devrait bientôt suivre !
+
 Tobeca
 ======
 
@@ -36,7 +38,7 @@ les deux membres qui se sont empressés de remonter divers axes et ventilateurs
 de la machine.
 
 Il leur reste néanmoins à trouver une solution à une des courroies qui frotte
-sur la machine…
+sur la buse…
 
 Station de soudage
 ==================
@@ -77,3 +79,9 @@ imprimante 3D. Ils ont notamment réparé une soudure défectueuse ainsi que
 repassé un coup sur quelques soudures pas très propres.
 
 Reste donc à savoir si la carte fonctionnera mieux désormais.
+
+Club-Mate
+==========
+
+Le HAUM est désormais hôte d'une caisse de Club-Mate paré pour la revente. Vous pourrez vous shooter avec cette boisson énergisante naturelle à partir de 2€50 la bouteille !
+Si vous aussi vous avez raté le 32c3 et les nuits Allemandes au Club-Mate, vous pourrez vous rattraper !
