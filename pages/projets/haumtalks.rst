@@ -53,8 +53,8 @@ Intervenant : Yannick
 Dans tous les secteurs de la sociétés actuels (Informatique, politique, énergie, éducation, économique, monétaire, santé...), nous passons d'un modèle centralisé, hiérarchique à un modèle "distribué" fonctionnant en "pair à pair" (peer to peer pour les intimes...). Or, les logiciels que nous utilisons actuellement (centralisés et en silo), ne sont pas adaptés à ces nouveaux modes d'organisation.
 Je vous présenterai un logiciel web d'organisation d'information libre, open-source, et bientôt "distribué", qui souhaite répondre aux besoins de la société de demain.
 
-Talk : Pourquoi faut-il rater
-"""""""""""""""""""""""""""""
+Talk : Pourquoi faut-il rater ?
+"""""""""""""""""""""""""""""""
 Intervenant : Florent
 
 Talk : Talk surprise !
