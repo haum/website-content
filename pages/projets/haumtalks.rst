@@ -57,9 +57,19 @@ Talk : Pourquoi faut-il rater ?
 """""""""""""""""""""""""""""""
 Intervenant : Florent
 
-Talk : Talk surprise !
-""""""""""""""""""""""
+#ParisAttacks : A pretext to sentiment analysis on social media
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Intervenant : Mathieu
+
+Les évènements de novembre 2015 à Paris ont déclenché une vague de messages sur Twitter. Le mot-dièse *#ParisAttacks*
+servant de lien entre ces tweets, il est possible (dans une certaine mesure) de l'utiliser pour accéder à un
+"instantanné" de l'état d'esprit général. Ce talk évoque bien sûr l'analyse du sentiment, mais aussi la définition de
+temps caractéristiques permettant de distinguer les changements d'état d'esprit au cours des jours suivant les attaques.
+
+`Diaporama #ParisAttacks (fr)`_
+
+
+.. _Diaporama #ParisAttacks (fr) : /images/talks/parisattacks_social_analysis.pdf
 
 
 Retour sur quelques talks
