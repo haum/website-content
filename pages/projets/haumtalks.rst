@@ -42,6 +42,8 @@ accessible depuis Internet, très pratique pour les itinérants qui
 veulent avoir accès à leur parc de machines (éventuellement réparties
 sur le globe) simplement.
 
+`Lien vers le diaporama (PDF) <http://haum.org/images/talks/un_vpn_pourquoi_comment.pdf>`_
+
 Talk : Un logiciel web pour gérer une organisation PAIR à PAIR
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Date du talk : 08/01/2016 (session 3)
