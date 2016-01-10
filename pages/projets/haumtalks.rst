@@ -4,10 +4,6 @@ HAUMTalks
 
 :slug: haumtalks
 
-.. image:: /images/talks/nextevent.png
-
-`Programme du 8 janvier 2016`_
-
 
 .. image:: /images/bannieres_projets/haumtalks.1.jpg
 
@@ -20,14 +16,13 @@ Chaque session est composée de 4 à 6 interventions d'une quinzaine de minutes 
 
 Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un exposé sur le sujet de votre choix.
 
-.. _Programme du 8 janvier 2016:
 
-Programme du 8 janvier 2016
----------------------------
-à 19h00 à l'`Épicerie du pré`_
+Retour sur quelques talks
+-------------------------
 
 Talk : (Re)Découverte du courriel
 """""""""""""""""""""""""""""""""
+Date du talk : 08/01/2016 (session 3)
 Intervenant : Romuald
 
 Chaque jour, des millions de mails nous servent à établir nos
@@ -38,6 +33,7 @@ a-t-il était conçu ?
 
 Talk : Un VPN, pourquoi, comment
 """"""""""""""""""""""""""""""""
+Date du talk : 08/01/2016 (session 3)
 Intervenant : Romain
 
 Imaginez un réseau informatique bien à vous accessible partout dans le
@@ -48,13 +44,17 @@ sur le globe) simplement.
 
 Talk : Un logiciel web pour gérer une organisation PAIR à PAIR
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Date du talk : 08/01/2016 (session 3)
 Intervenant : Yannick
 
 Dans tous les secteurs de la sociétés actuels (Informatique, politique, énergie, éducation, économique, monétaire, santé...), nous passons d'un modèle centralisé, hiérarchique à un modèle "distribué" fonctionnant en "pair à pair" (peer to peer pour les intimes...). Or, les logiciels que nous utilisons actuellement (centralisés et en silo), ne sont pas adaptés à ces nouveaux modes d'organisation.
 Je vous présenterai un logiciel web d'organisation d'information libre, open-source, et bientôt "distribué", qui souhaite répondre aux besoins de la société de demain.
 
+`Retrouvez la présentation ici`_
+
 Talk : Pourquoi faut-il rater ?
 """""""""""""""""""""""""""""""
+Date du talk : 08/01/2016 (session 3)
 Intervenant : Florent
 
 #ParisAttacks : A pretext to sentiment analysis on social media
@@ -70,10 +70,7 @@ temps caractéristiques permettant de distinguer les changements d'état d'espri
 
 
 .. _Diaporama #ParisAttacks (fr) : /images/talks/parisattacks_social_analysis.pdf
-
-
-Retour sur quelques talks
--------------------------
+.. _Retrouvez la présentation ici : https://fluidlog.hackpad.com/Talk-Carto-PAIR-PAIR-kSoqSo169Af
 
 `Introduction au chiffrement de ses mails`_
 
