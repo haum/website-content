@@ -20,6 +20,24 @@ Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un e
 Retour sur quelques talks
 -------------------------
 
+
+`(Re)Découverte du courriel`_
+
+`Un VPN, pourquoi, comment`_
+
+`Un logiciel web pour gérer une organisation PAIR à PAIR`_
+
+`Pourquoi faut-il rater ?`_
+
+`#ParisAttacks A pretext to sentiment analysis on social media`_
+
+`Introduction au chiffrement de ses mails`_
+
+`Décryptez vos albums de Ravi Shankar`_
+
+
+.. _(Re)Découverte du courriel:
+
 Talk : (Re)Découverte du courriel
 """""""""""""""""""""""""""""""""
 Date du talk : 08/01/2016 (session 3)
@@ -30,6 +48,8 @@ correspondances... Mais concrètement, qu'est ce que c'est un email ? Comment
 se propage-t-il de son expéditeur à son destinataire ? Pour quels usages le mail
 a-t-il était conçu ?
 15 minutes pour se souvenir ou apprendre ce qu'est un courriel.
+
+.. _Un VPN, pourquoi, comment:
 
 Talk : Un VPN, pourquoi, comment
 """"""""""""""""""""""""""""""""
@@ -42,7 +62,9 @@ accessible depuis Internet, très pratique pour les itinérants qui
 veulent avoir accès à leur parc de machines (éventuellement réparties
 sur le globe) simplement.
 
-`Lien vers le diaporama (PDF) <http://haum.org/images/talks/un_vpn_pourquoi_comment.pdf>`_
+`Lien vers le diaporama (PDF) </images/talks/un_vpn_pourquoi_comment.pdf>`_
+
+.. _Un logiciel web pour gérer une organisation PAIR à PAIR:
 
 Talk : Un logiciel web pour gérer une organisation PAIR à PAIR
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -54,13 +76,17 @@ Je vous présenterai un logiciel web d'organisation d'information libre, open-so
 
 `Retrouvez la présentation ici`_
 
+.. _Pourquoi faut-il rater ?:
+
 Talk : Pourquoi faut-il rater ?
 """""""""""""""""""""""""""""""
 Date du talk : 08/01/2016 (session 3)
 Intervenant : Florent
 
-#ParisAttacks : A pretext to sentiment analysis on social media
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+.. _#ParisAttacks A pretext to sentiment analysis on social media:
+
+Talk : #ParisAttacks : A pretext to sentiment analysis on social media
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Intervenant : Mathieu
 
 Les évènements de novembre 2015 à Paris ont déclenché une vague de messages sur Twitter. Le mot-dièse *#ParisAttacks*
@@ -74,17 +100,13 @@ temps caractéristiques permettant de distinguer les changements d'état d'espri
 .. _Diaporama #ParisAttacks (fr) : /images/talks/parisattacks_social_analysis.pdf
 .. _Retrouvez la présentation ici : https://fluidlog.hackpad.com/Talk-Carto-PAIR-PAIR-kSoqSo169Af
 
-`Introduction au chiffrement de ses mails`_
-
-`Décryptez vos albums de Ravi Shankar`_
-
 .. _Introduction au chiffrement de ses mails:
 
 Talk : Introduction au chiffrement de ses mails
 """""""""""""""""""""""""""""""""""""""""""""""
 
 Date du talk : 15/10/2014 (session 2).
-Intervenant : Microjoe.
+Intervenant : Romain.
 
 .. container:: aligncenter
 
@@ -92,9 +114,7 @@ Intervenant : Microjoe.
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/2PrsVkCQ9dU" frameborder="0" allowfullscreen></iframe>
 
-`Diaporama de la présentation`_
-
-.. _Diaporama de la présentation : /images/talks/chiffrement_mails_presentation.pdf
+`Diaporama de la présentation </images/talks/chiffrement_mails_presentation.pdf>`_
 
 Introduction
 ************
