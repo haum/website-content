@@ -16,6 +16,11 @@ L'imprimante DELL prenait de la place, trop de place. C'en était trop ! Vu l'im
 récuperer ce qui pouvait l'être et mettre au rebus le reste. Nous avons donc désormais plus de place, et quelques pièces qui devrait finir sur ebay, pour financer (en 
 partie au moins) quelques projets futurs.
 
+.. container:: aligncenter
+
+    [flickr:id=24498318855] [flickr:id=24498223125]
+
+
 Remontage de la Tobeca - Suite (et fin?)
 ========================================
 
@@ -23,6 +28,10 @@ Jean-Marc continue avec le remontage de la Tobeca, au début aidé de Matthieu (
 faire bouger cette imprimante 3D et redonner l'espoir de pouvoir réimprimer de nouvelles pieces en 3D, un jour prochain !
 
 En fin de séance, l'imprimante bougeait, chauffait et a même extrudé quelques timides millimètres de filament !
+
+.. container:: aligncenter
+
+    [flickr:id=24472126186]
 
 24H du Code
 ===========
