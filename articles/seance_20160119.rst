@@ -1,0 +1,59 @@
+=========================
+Séance du 19 Janvier 2016
+=========================
+
+:date: 2016-01-19 23:59
+:tags: seances
+:category: news
+:slug: seance_20160119
+:authors: matael, Jean-Marc, Mehdi, seb_vallee
+:summary: Résumé de la séance du 19 janvier 2016
+
+Dezinguage de l'imprimante Dell
+===============================
+
+L'imprimante DELL prenait de la place, trop de place. C'en était trop ! Vu l'impossibilité de la remettre en état de fonctionner, il a été décidé de la désosser pour 
+récuperer ce qui pouvait l'être et mettre au rebus le reste. Nous avons donc désormais plus de place, et quelques pièces qui devrait finir sur ebay, pour financer (en 
+partie au moins) quelques projets futurs.
+
+Remontage de la Tobeca - Suite (et fin?)
+========================================
+
+Jean-Marc continue avec le remontage de la Tobeca, au début aidé de Matthieu (le vice trésorier, pas le vice président ; ne pas confondre !), puis seul, et fini par 
+faire bouger cette imprimante 3D et redonner l'espoir de pouvoir réimprimer de nouvelles pieces en 3D, un jour prochain !
+
+En fin de séance, l'imprimante bougeait, chauffait et a même extrudé quelques timides millimètres de filament !
+
+24H du Code
+===========
+
+Dernière ligne droite pour l'équipe proposant un sujet pour les `24H du Code 2016`_, qui se déroulent ce week end du Samedi 23 Janvier 2016 à 10H au Dimanche 24 
+Janvier 2016 à 10H !
+Le sujet et la doc sont prêts, les esprits sont rodés, il ne reste plus que le sommeil à rattraper pour être d'attaque (utopiste, vous dites?)
+
+De superbes tee-shirts seront même au rendez vous pour que chacun puisse reconnaitre les membres du HAUM pendant la compétition :)
+
+.. _24H du code 2016: http://les24hducode.fr
+
+Talks (montage video)
+=====================
+
+Romain s'est lancé le défi de monter les vidéos des Talks_ organisés le 8 Janvier avant le 2 Février. C'est un beau défi, que nous comptons suivre avec grande 
+attention !
+Vous pourrez alors écouter ce qu'ont raconté nos valeureux hackers !
+
+.. _talks: /pages/haumtalks.html
+
+Station de soudage
+==================
+
+Mehdi a continué le montage de la station de soudage, malgré l'absence de la station de soudage de Romuald, et approche doucement de la fin de cette construction
+La remise en état de l'imprimante devrait permettre d'imprimer les pieces nécessaires pour son bon fonctionnement.
+
+Affiche pour la promotion du HAUM
+=================================
+
+Les affiches_ faisant la promotion du HAUM sont prêtes ! Imaginées à l'occasion des Talks, ces affiches ont vocation a être utilisées en toutes occasions pour 
+promouvoir le HAUM et expliquer le but de l'association.
+
+.. _affiches: https://github.com/haum/communication/raw/master/affiches/affiche_photos_2015/affiche_photos_2015.pdf
