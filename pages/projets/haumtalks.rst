@@ -20,6 +20,7 @@ Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un e
 Retour sur quelques talks
 -------------------------
 
+`Session N°3 (08/01/2016)`_ :
 
 `(Re)Découverte du courriel`_
 
@@ -31,10 +32,18 @@ Retour sur quelques talks
 
 `#ParisAttacks A pretext to sentiment analysis on social media`_
 
+`Session N°2 (15/10/2014)`_ :
+
 `Introduction au chiffrement de ses mails`_
+
+`Session N°1 (fin Mai 2014)`_ :
 
 `Décryptez vos albums de Ravi Shankar`_
 
+.. _Session N°3 (08/01/2016):
+
+Session N°3
+-----------
 
 .. _(Re)Découverte du courriel:
 
@@ -97,6 +106,7 @@ Intervenant : Florent
 
 Talk : #ParisAttacks : A pretext to sentiment analysis on social media
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Date du talk : 08/01/2016 (session 3)
 Intervenant : Mathieu
 
 Les évènements de novembre 2015 à Paris ont déclenché une vague de messages sur Twitter. Le mot-dièse *#ParisAttacks*
@@ -110,11 +120,15 @@ temps caractéristiques permettant de distinguer les changements d'état d'espri
 .. _Diaporama #ParisAttacks (fr) : /images/talks/parisattacks_social_analysis.pdf
 .. _Retrouvez la présentation ici : https://fluidlog.hackpad.com/Talk-Carto-PAIR-PAIR-kSoqSo169Af
 
+.. _Session N°2 (15/10/2014):
+
+Session N°2
+-----------
+
 .. _Introduction au chiffrement de ses mails:
 
 Talk : Introduction au chiffrement de ses mails
 """""""""""""""""""""""""""""""""""""""""""""""
-
 Date du talk : 15/10/2014 (session 2).
 Intervenant : Romain.
 
@@ -155,12 +169,15 @@ Voici un petit résumé du talk :
  - Révocation de clé.
  - Signature de clé.
 
+.. _Session N°1 (fin Mai 2014):
+
+Session N°2
+-----------
 
 .. _Décryptez vos albums de Ravi Shankar:
 
 Talk : Décryptez vos albums de Ravi Shankar
 """""""""""""""""""""""""""""""""""""""""""
-
 Date du talk : fin mai 2014 (session 1).
 Intervenants : Lucas et Alice.
 
