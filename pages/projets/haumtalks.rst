@@ -62,6 +62,16 @@ accessible depuis Internet, très pratique pour les itinérants qui
 veulent avoir accès à leur parc de machines (éventuellement réparties
 sur le globe) simplement.
 
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/4_vpn_720p.mp4" type="video/mp4">
+        </video>
+
+
 `Lien vers le diaporama (PDF) </images/talks/un_vpn_pourquoi_comment.pdf>`_
 
 .. _Un logiciel web pour gérer une organisation PAIR à PAIR:
