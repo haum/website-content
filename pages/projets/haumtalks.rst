@@ -171,7 +171,7 @@ Voici un petit résumé du talk :
 
 .. _Session N°1 (fin Mai 2014):
 
-Session N°2
+Session N°1
 -----------
 
 .. _Décryptez vos albums de Ravi Shankar:
