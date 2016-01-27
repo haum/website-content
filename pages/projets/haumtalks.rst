@@ -58,6 +58,14 @@ se propage-t-il de son expéditeur à son destinataire ? Pour quels usages le ma
 a-t-il était conçu ?
 15 minutes pour se souvenir ou apprendre ce qu'est un courriel.
 
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/3_mails_720p.mp4" type="video/mp4">
+        </video>
+
 .. _Un VPN, pourquoi, comment:
 
 Talk : Un VPN, pourquoi, comment
