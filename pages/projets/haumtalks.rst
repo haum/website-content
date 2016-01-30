@@ -106,7 +106,7 @@ Je vous présenterai un logiciel web d'organisation d'information libre, open-so
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/3_mails_720p.mp4" type="video/mp4">
+            <source src="http://haum.svallee.fr/5_pairapair_720p.mp4" type="video/mp4">
         </video>
 
 `Retrouvez la présentation ici`_
