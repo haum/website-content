@@ -118,6 +118,15 @@ Talk : Pourquoi faut-il rater ?
 Date du talk : 08/01/2016 (session 3)
 Intervenant : Florent
 
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+            <audio src="http://haum.svallee.fr/2_rater_audio.mp3" controls>
+                <a href="http://haum.svallee.fr/2_rater_audio.mp3">Télécharger la bande son</a>
+            </audio>
+
 .. _#ParisAttacks A pretext to sentiment analysis on social media:
 
 Talk : #ParisAttacks : A pretext to sentiment analysis on social media
