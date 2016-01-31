@@ -130,6 +130,14 @@ servant de lien entre ces tweets, il est possible (dans une certaine mesure) de 
 "instantanné" de l'état d'esprit général. Ce talk évoque bien sûr l'analyse du sentiment, mais aussi la définition de
 temps caractéristiques permettant de distinguer les changements d'état d'esprit au cours des jours suivant les attaques.
 
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/1_twitter_720p.mp4" type="video/mp4">
+        </video>
+
 `Diaporama #ParisAttacks (fr)`_
 
 
