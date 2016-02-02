@@ -5,7 +5,7 @@ Séance du 2 Février 2016
 :date: 2016-02-02 23:59
 :tags: seances
 :category: news
-:slug: seance_20160119
+:slug: seance_20160202
 :authors: MicroJoe, matael, Jean-Marc, Mehdi
 :summary: Résumé de la séance du 2 février 2016
 
