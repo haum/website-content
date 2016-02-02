@@ -1,0 +1,93 @@
+========================
+Séance du 2 Février 2016
+========================
+
+:date: 2016-02-02 23:59
+:tags: seances
+:category: news
+:slug: seance_20160119
+:authors: MicroJoe, matael, Jean-Marc, Mehdi
+:summary: Résumé de la séance du 2 février 2016
+
+Au menu du jour, pas de burger mais plein d'avancées sur plein de projets !
+
+La Tobeca fonctionne, la STM32 clignote, les jeux vont bon train et les cartes élec se vendent. Enfin, les talks sont
+sortis !
+
+STM32
+=====
+
+Compile... Toolchain Opensource... F**king STDLib... Flash... Debug.
+
+Nos vaillants hackers ont non seulement réussi à compiler du code à destination de microcontrôleurs STM32 mais surtout à le
+faire avec une toolchain libre !
+
+Après s'être bâtus avec la compilation (croisée) de la bibliothèque standard adaptée (parce que l'autre sapucépalibre),
+ils ont atteint le but ultime lors de la prise de la prise en main d'une carte, le *hello world* de l'embarqué.... le
+*blink*.
+
+Tout engaillardis par un *flash* réussi et une LED qui clignote (il leur en faut peu), ils se sont décidés à mettre en place
+les outils nécessaires au *debug* en direct sur la carte.
+
+Plus (et un gros article sur tout ça) à venir !
+
+Tobeca
+======
+
+Jean-Marc, après avoir répondu aux questions de Marc sur l'impression 3D, a continué son travail sur la Tobeca.
+Au menu, calibration de l'axe z et première impression test : un dôme de calibration en PLA (qui ressemble à une boule
+choco).
+
+L'impression à tellement bien fonctionné que le plateau n'a pas voulu la lâcher facilement !
+
+A bientôt pour d'autres impressions pour tester indépendamment les axes et calibrer l'extrusion.
+
+Talks
+=====
+
+Suite et fin de l'édition #Janvier2016 !
+
+Romain a réussi son défi et a fini l'encodage complet et la mise en ligne des talks !
+
+Pour rappel, les sujets étaient :
+
+- (Re)Découverte du courriel
+- Un VPN, pourquoi, comment
+- Un logiciel web pour gérer une organisation PAIR à PAIR
+- Pourquoi faut-il rater ?
+- #ParisAttacks A pretext to sentiment analysis on social media
+
+Vous pourrez trouver `tout ça ici`_ !
+
+.. _tout ça ici: /pages/haumtalks.html
+
+Inscriptions
+============
+
+La fiche d'inscription avait vieilli et contenait des fautes d'orthographe : Romuald & Mathieu se sont attaqués à la
+nouvelle version !
+
+Adhérez au HAUM pour la découvrir :)
+
+En 2016, l'adhésion pour l'année complète sera à 30€.
+
+Ebay
+====
+
+Wojciech & NeodarZ ont préparé les annonces Ebay pour la revente des pièces de l'imprimante Dell *dézinguée* quelques
+semaines plus tôt.
+
+Photos, textes, prix, Colissimo, tout est prêt pour faire rentrer des sous dans les caisses. Reste à paramètrer.... la
+carte bleue.
+
+GlobalGameJam
+=============
+
+Après un week-end passé à créer `un jeu`_ lors de la GlobalgameJam_, un vaillant Ludo-Hacker, Laurent, a continué à
+travailler sur le jeu Initiati.
+
+Il est déjà jouable et l'équipe du week-end travaille à le rendre sexy !
+
+.. _GlobalGameJam: http://globalgamejam.org/
+.. _un jeu: https://github.com/haum/initiati
+
