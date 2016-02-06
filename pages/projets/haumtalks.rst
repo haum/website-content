@@ -158,17 +158,6 @@ Talk : Introduction au chiffrement de ses mails
 Date du talk : 15/10/2014 (session 2).
 Intervenant : Romain.
 
-.. container:: aligncenter
-
-    .. raw:: html
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/2PrsVkCQ9dU" frameborder="0" allowfullscreen></iframe>
-
-`Diaporama de la présentation </images/talks/chiffrement_mails_presentation.pdf>`_
-
-Introduction
-************
-
 J’ai décidé de faire ce talk dans un but de sensibilisation en montrant que les
 mails n’étaient pas sécurisés et qu’il était facile d’usurper une identité ou
 lire les mails d’autres personnes sans qu’elles le sachent.
@@ -176,9 +165,6 @@ lire les mails d’autres personnes sans qu’elles le sachent.
 Heureusement, il existe des parades afin de rendre tout cela plus sécurisé mais
 elles restent encore peu connues du grand public ; nous allons donc également
 voir comment utiliser tout ça !
-
-Contenu
-*******
 
 Voici un petit résumé du talk :
 
@@ -195,6 +181,15 @@ Voici un petit résumé du talk :
  - Révocation de clé.
  - Signature de clé.
 
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2PrsVkCQ9dU" frameborder="0" allowfullscreen></iframe>
+
+`Diaporama de la présentation </images/talks/chiffrement_mails_presentation.pdf>`_
+
+
 .. _Session N°1 (fin Mai 2014):
 
 Session N°1
@@ -206,9 +201,6 @@ Talk : Décryptez vos albums de Ravi Shankar
 """""""""""""""""""""""""""""""""""""""""""
 Date du talk : fin mai 2014 (session 1).
 Intervenants : Lucas et Alice.
-
-Contenu
-*******
 
 Ce talk est une introduction à la musique indienne traditionnelle et notamment aux notions de ragas et de talas. Une liste non-exhaustive des instruments de musique est dressée, ainsi que qu'une présentation d'un concert type.
 
