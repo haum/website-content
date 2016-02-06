@@ -118,7 +118,7 @@ Talk : Pourquoi faut-il rater ?
 Date du talk : 08/01/2016 (session 3)
 Intervenant : Florent
 
-L'erreur semle être un sujet taboo dans notre société et en ce sens est mal vécue par ceux qui s'y trouvent confrontés. Ainsi se développent des stratégies pour taire la faute, masquer l'erreur ou tenter d'en diminuer l'apparrence. C'est pourtant en la regardant, sans pour autant en faire un sujet en elle-même, qu'il est possible de la prendre en compte et éventuellement diminuer ses effets ou travailler sur les causes. Elle fait partie des processus, il ne faut pas en avoir peur.
+L'erreur semle être un sujet tabou dans notre société et en ce sens est mal vécue par ceux qui s'y trouvent confrontés. Ainsi se développent des stratégies pour taire la faute, masquer l'erreur ou tenter d'en diminuer l'apparrence. C'est pourtant en la regardant, sans pour autant en faire un sujet en elle-même, qu'il est possible de la prendre en compte et éventuellement diminuer ses effets ou travailler sur les causes. Elle fait partie des processus, il ne faut pas en avoir peur.
 
 .. _#ParisAttacks A pretext to sentiment analysis on social media:
 
