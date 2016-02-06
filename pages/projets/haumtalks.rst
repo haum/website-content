@@ -98,7 +98,7 @@ Talk : Un logiciel web pour gérer une organisation PAIR à PAIR
 Date du talk : 08/01/2016 (session 3)
 Intervenant : Yannick
 
-Dans tous les secteurs de la sociétés actuels (Informatique, politique, énergie, éducation, économique, monétaire, santé...), nous passons d'un modèle centralisé, hiérarchique à un modèle "distribué" fonctionnant en "pair à pair" (peer to peer pour les intimes...). Or, les logiciels que nous utilisons actuellement (centralisés et en silo), ne sont pas adaptés à ces nouveaux modes d'organisation.
+Dans tous les secteurs de la société actuelle (informatique, politique, énergie, éducation, économique, monétaire, santé...), nous passons d'un modèle centralisé hiérarchique, à un modèle "distribué" fonctionnant en "pair à pair" (peer to peer pour les intimes...). Or, les logiciels que nous utilisons actuellement (centralisés et en silo), ne sont pas adaptés à ces nouveaux modes d'organisation.
 Je vous présenterai un logiciel web d'organisation d'information libre, open-source, et bientôt "distribué", qui souhaite répondre aux besoins de la société de demain.
 
 .. container:: aligncenter
