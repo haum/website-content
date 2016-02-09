@@ -41,6 +41,19 @@ Retour sur quelques talks
 
 `Décryptez vos albums de Ravi Shankar`_
 
+.. _Session N°4 (18/02/2016):
+
+Session N°4
+-----------
+
+Pour cette séance, 4 talks seront proposés :
+
+- Le prix libre, par Vincent J.
+- Conseils pratiques pour améliorer ses photographies, par Florent T.
+- AMAP : Comment le bio va nourrir le monde ?, par Simon D.
+- Le modèle et les erreurs dans les sciences, par Mathieu G.
+
+
 .. _Session N°3 (08/01/2016):
 
 Session N°3
