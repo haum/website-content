@@ -4,6 +4,7 @@ HAUMTalks
 
 :slug: haumtalks
 
+.. image:: /images/talks/nextevent.png
 
 .. image:: /images/bannieres_projets/haumtalks.1.jpg
 

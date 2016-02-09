@@ -1308,19 +1308,19 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.6876548"
      inkscape:cx="789.44297"
-     inkscape:cy="308.6555"
+     inkscape:cy="541.33038"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8323"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1918"
+     inkscape:window-height="1078"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1329,7 +1329,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1344,13 +1344,16 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#204954;fill-opacity:0.67326732;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4172);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscccccsscccccs" />
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 146.01758,74.037109 c -42.15567,0 -76.093752,33.938081 -76.093752,76.093751 l 0,59.64062 0,234.44797 0,76.09375 76.093752,0 1386.13092,0 92.5449,0 c 42.1557,0 76.0938,-33.93808 76.0938,-76.09375 l 0,-22.62179 0,-271.4668 0,-76.093751 -76.0938,0 -828.79887,0 z"
-       id="rect4152"
-       transform="translate(0,-648.4252)"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscccccsscccccs" />
+    <g
+       id="g8323">
+      <path
+         sodipodi:nodetypes="sscccccsscccccs"
+         inkscape:connector-curvature="0"
+         transform="translate(0,-648.4252)"
+         id="rect4152"
+         d="m 146.01758,74.037109 c -42.15567,0 -76.093752,33.938081 -76.093752,76.093751 l 0,59.64062 0,234.44797 0,76.09375 76.093752,0 1386.13092,0 92.5449,0 c 42.1557,0 76.0938,-33.93808 76.0938,-76.09375 l 0,-22.62179 0,-271.4668 0,-76.093751 -76.0938,0 -828.79887,0 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:104.04829407px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1365,14 +1368,14 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:104.04829407px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">Prochains HAUMtalks</tspan><tspan
          sodipodi:role="line"
          x="142.35986"
-         y="-306.39059"
+         y="-304.87024"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.48737335px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d7eef4"
-         id="tspan4140">Ven. 8 janvier 2016, 19h</tspan><tspan
+         id="tspan4140">Jeu. 18 février, 18h30</tspan><tspan
          sodipodi:role="line"
          x="142.35986"
-         y="-202.1582"
+         y="-201.5416"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.92645264px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d7eef4"
-         id="tspan4146">À l'Épicerie du Pré</tspan></text>
+         id="tspan4146">À La Ruche Numérique</tspan></text>
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient6823);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4176"
