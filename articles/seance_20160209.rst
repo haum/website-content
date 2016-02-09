@@ -1,0 +1,66 @@
+Séance du 9 février 2016
+########################
+
+:date: 2016-02-09 23:59
+:tags: seances
+:category: news
+:slug: seance_20160209
+:authors: matael, Wojciech, Romain, Jérome
+:summary: Résumé de la séance du 9 février 2016
+
+Talks #4
+========
+
+Les `talks du 8 janvier`_ ont été un véritable succès. Beaucoup de présents et pas mal de retour sur les vidéos après coup !
+
+Heureux de ce constat, nous remettons ça avec une nouvelle session de talks le 18 février prochain !
+
+Au menu :
+
+- Le prix libre, par Vincent J.
+- Conseils pratiques pour améliorer ses photographies, par Florent T.
+- AMAP : Comment le bio va nourrir le monde ?, par Simon D.
+- Le modèle et les erreurs dans les sciences, par Mathieu G.
+
+On se retrouve à la **Ruche Numérique** le **18 février 2016** vers 18h30 pour discuter de tout ça.
+
+.. _talks du 8 janvier: /pages/haumtalks.html#session-n3-08-01-2016
+
+Ebay
+====
+
+Suite à la création des brouillons pour la vente des pièces la `semaine précédente`_, il est nécessaire de de lier une carte bancaire ou peut-être un compte bancaire à l'aide d'un RIB au compte Paypal pour mettre les objets en vente. La prochaine étape est donc de récupérer ce RIB et de rendre la mise en vente effective.
+
+Il est également intéressant de rappeler que les brouillons Ebay expirent un mois après leur création, les menaçant d'une destinée inaccomplie.
+
+.. _semaine précédente: /seance_20160202.htmli
+
+Lightstep
+=========
+
+Le projet LightStep_ est une magnifique lampe comportant 25 pixels LED contrôlés par les marches du PianoStairs_. Destinée initialement à être installée dans un bar du Mans, elle n'aura probablement jamais cette chance à cause d'un concours de circonstances malheureux.
+
+En attendant, vous pouvez regarder le `dépôt GitHub du projet`_ et hacker ce qu'on a fait dans notre coin !
+
+.. _LightStep: /pages/lightstep.html
+.. _PianoStairs: /pages/pianostairs.html
+.. _Dépôt GitHub du projet: https://github.com/haum/lightstep
+
+Gamer Assemby
+=============
+
+Invités par Rurart_ à la `Gamer Assembly 2016`_ les hackers manceaux se déplaceront du 26 au 28 mars prochain accompagnés de leur fidèle Pong à une dimension !
+
+Si vous comptez passer par là-bas, venez nous dire bonjour sur le village Maker !
+
+.. _Rurart: http://www.rurart.org/
+.. _Gamer Assembly 2016: http://www.gamers-assembly.net/fr
+
+PCBlatistifeuse
+===============
+
+Après avoir démonté le four de l'imprimante Dell pour récupérer le tube halogène et l'avoir installé dans le four déjà modifié, Jérome et Romain ont réussi à faire chauffer le sus-nommé appareil ! Il a même chauffé tant et si bien que la lampe, plus puissante que celle d'origine, menace le dispositif d'une mort certaine (et semblable à celle de son prédécesseur).
+
+Il va donc falloir prévoir un système à base de variateur de puissance pour la lampe afin de la faire chauffer un peu moins vite afin que la température soit plus facile à stabiliser avec le module PID (chinois).
+
+À jeudi prochain pour une nouvelle soirée bidouille excitante.
