@@ -1,0 +1,53 @@
+=========================
+Séance du 11 février 2016
+=========================
+
+:date: 2016-02-11 23:59
+:tags: seances
+:category: news
+:slug: seance_20160211
+:authors: JackDesBwa
+:summary: Résumé de la séance du 11 février 2016
+
+Quelques mots pour résumer l'activité de cette séance qui a vu quatre axes
+principaux : Un peu d'administratif, des avancées sur la Tobeca (imprimante
+3D), des réflexions sur le site web et la préparation de conférences !
+
+Site web
+========
+
+Nous avons commencé quelques réflexions pour mieux présenter le contenu du site
+internet et mettre en avant les projets. Les membres impliqués souhaient mettre
+davantage en avant les projets réalisés et s'ouvrir vers un public moins hacker
+pour vulgariser nos activités. Cela passera probablement par une refonte
+graphique pour mettre en avant le contenu.
+
+Tobeca
+======
+
+La réparation de l'imprimante 3D Tobeca continue. Ce soir, ce sont surtout des
+essais de calibration et de mesure de performances qui ont été réalisés.
+
+Alors docteur, comment va-t-elle ?
+
+Et bien voyez-vous, elle va beaucoup mieux que le mois dernier. Les progrès
+sont visible et à vrai dire elle imprime désormais des pièces qui ressemblent
+au modèle. Alors certes il y a encore des avancées à faire quant à la précision
+et aux finitions, mais nous paufinons les réglages petit à petit.
+
+Talks
+=====
+
+Ça enchaîne ! Déjà une nouvelle séance des mini-conférences est programmée
+jeudi 18 février à la ruche numérique et un prochain rendez-vous est en
+préparation. Les talks ont du succès.
+
+Ainsi Rebrec a profité de la soirée pour réaliser des essais en vue d'une
+future présentation de la sécurité des réseaux WiFi. Et oui, les ondes
+électromagnétiques traversent les murs et sont reçues par tout le monde
+alentours... alors à quel point est-ce sécurisé ?
+
+Florent, Fabien, Laurent, Jean-Marc et Sébastien ont pour leur part mis en
+commun leur penchants photographiques pour préparer des conseils pour améliorer
+vos photographies. Il y a encore beaucoup de travail mais le sujet est
+dégrossi. Résultat aux prochains talks.
