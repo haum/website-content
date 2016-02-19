@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="nextevent.svg"
-   inkscape:export-filename="/data/projects/haum/website/content/images/talks/nextevent.png"
+   inkscape:export-filename="/home/matael/workspace/hackerspace/website-content/images/talks/nextevent.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1310,7 +1310,7 @@
      inkscape:cx="789.44297"
      inkscape:cy="541.33038"
      inkscape:document-units="px"
-     inkscape:current-layer="g8323"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1318,7 +1318,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="1918"
      inkscape:window-height="1078"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -1368,12 +1368,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:104.04829407px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">Prochains HAUMtalks</tspan><tspan
          sodipodi:role="line"
          x="142.35986"
-         y="-304.87024"
+         y="-306.39059"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.48737335px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d7eef4"
-         id="tspan4140">Jeu. 18 février, 18h30</tspan><tspan
+         id="tspan4140">Jeu. 10 mars, 18h30</tspan><tspan
          sodipodi:role="line"
          x="142.35986"
-         y="-201.5416"
+         y="-202.1582"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.92645264px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d7eef4"
          id="tspan4146">À La Ruche Numérique</tspan></text>
     <circle
