@@ -49,9 +49,44 @@ Session N°4
 Pour cette séance, 4 talks seront proposés :
 
 - Le prix libre, par Vincent J.
-- Conseils pratiques pour améliorer ses photographies, par Florent T.
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks4/1_prix_libre.mp4" type="video/mp4">
+        </video>
+
 - AMAP : Comment le bio va nourrir le monde ?, par Simon D.
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks4/2_amap.mp4" type="video/mp4">
+        </video>
+
 - Le modèle et les erreurs dans les sciences, par Mathieu G.
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks4/3_erreurs.mp4" type="video/mp4">
+        </video>
+
+- Conseils pratiques pour améliorer ses photographies, par Florent T.
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks4/4_photo.mp4" type="video/mp4">
+        </video>
 
 
 .. _Session N°3 (08/01/2016):
