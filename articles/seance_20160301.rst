@@ -1,0 +1,100 @@
+=====================
+Séance du 1 mars 2016
+=====================
+
+:date: 2016-03-01 23:59
+:tags: seances
+:category: news
+:slug: seance_20160301
+:authors: Romain, Wojciech, Mehdi et jerome
+:summary: Résumé de la séance du 1 mars 2016
+
+
+Dossier
+=======
+
+Romuald et Florent, rejoins plus tard par Seb, ont effectué un gros travail de
+rédaction suite à la reprise de tout ce qui avait été noté la semaine dernière
+pour notre contribution à la cité de l’innovation.
+
+Le document a été finalisé et relu par ceux qui était encore là en fin de séance.
+
+Simon32
+=======
+
+Marc a travaillé sur la carte à base de STM32 made in HAUM et notamment sur la
+création d’un PCB afin de relier le microcontrolleur à tous les périphériques
+externes.
+
+PCBlastifieuse v2.1
+===================
+
+Premiers transferts à l'aide de la nouvelle PCBlastifieuse v2.1 (car la 2.0 a
+subi le même sort que son homologue 1.0, à savoir la mort par liquéfaction du a
+une trop importante élévation de sa température interne).
+
+Petit fait intéressant, la plaque "saute" du rouleau une fois la passe
+effectuée avant d'attérir sur le réceptacle en aluminium. Ce petit effet
+imprévu s'est en fait révélé très utile en tant que signal sonore afin de
+pouvoir remettre la plaque à chauffer.
+
+Un tel succès que plusieurs circuits ont été gravés ce soir, parmi lesquels :
+
+- Plusieurs circuits pour l’horloge à LEDs de Fabien
+- Un circuit double face pour Marc avec de petites pistes pour se faire un
+  réveil matin à base de PIC
+
+Les résultats sont très encourageants, le double challenge du circuit double
+face avec de petites pistes n’a posé aucun problème et le circuit réalisé est
+très propre, avec un alignement quasi-parfait des trous entre la face avant et
+la face arrière.
+
+`Les photos`_ sont disponibles sur Flickr.
+
+.. _Les photos: https://www.flickr.com/photos/126718549@N08/albums/72157655287588306
+
+Ebay
+====
+
+Wojciech a mis en ligne de toutes les annonces précédemment rédigées, malgré
+quelques problèmes sur l’IHM de création de commande d’eBay. Les plaques
+devront être envoyées sous les trois jours lorsqu’un acheteur passera commande.
+
+Pour information les plaques se situent en haut de l'établi, et les différentes
+références sont marquées dans les détails de l'annonce. Aussi une annonce reste
+en ligne 10 jours, il faut donc remettre en ligne après coup les cartes
+invendues.
+
+Station de soudage
+==================
+
+Mehdi a soudé une nappe entre la carte électronique de la station de soudage et
+la prise pour le fer qui sera fixée sur le futur boitier. Le connecteur est
+maintenant équipé d'un détrompeur pour éviter les erreurs de branchement.
+
+Un support de fer (tuyau en cuivre relié au standby) a également été ajouté.
+
+La station necessitant une alimentation 12V 5A, il va falloir utiliser une
+alimentation de PC, donc ajouter une charge sur le rail 5V pour que le rail 12V
+soit utilisable, et dessiner un boitier différent de celui de l'electrolab qui
+pourra accueillir l'alim AT(X).
+
+La sortie PWM du circuit électronique a été vérifiée à l’aide d’un oscilloscope
+et se comporte comme prévu.
+
+Il reste donc à réaliser le boitier ainsi que le manche du fer et de les
+fabriquer avant de pouvoir finaliser la station et de la tester avec la panne.
+
+Document type de financement
+============================
+
+Un document type pour les demandes de financement des projets du HAUM a été mis
+en page sous Scribus. Le but étant d'obtenir un document propre en modifiant
+certains champs pour chaque nouvelle demande sans recréer un fichier.
+
+Kebab (chat)
+============
+
+Grâce a un bon repas, la carte de fidélité du HAUM au kebab de la gare est
+presque remplie en une soirée seulement.
+
