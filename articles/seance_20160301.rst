@@ -6,7 +6,7 @@ Séance du 1 mars 2016
 :tags: seances
 :category: news
 :slug: seance_20160301
-:authors: Romain, Wojciech, Mehdi et jerome
+:authors: Romain, Wojciech, Mehdi, Jérome
 :summary: Résumé de la séance du 1 mars 2016
 
 
