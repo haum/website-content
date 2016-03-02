@@ -6,7 +6,7 @@ Séance du 1 mars 2016
 :tags: seances
 :category: news
 :slug: seance_20160301
-:authors: Romain, Wojciech, Mehdi, Jérome
+:authors: Romain, Wojciech, Mehdi, Jérôme
 :summary: Résumé de la séance du 1 mars 2016
 
 
@@ -23,18 +23,18 @@ Simon32
 =======
 
 Marc a travaillé sur la carte à base de STM32 made in HAUM et notamment sur la
-création d’un PCB afin de relier le microcontrolleur à tous les périphériques
+création d’un PCB afin de relier le microcontrôleur à tous les périphériques
 externes.
 
 PCBlastifieuse v2.1
 ===================
 
 Premiers transferts à l'aide de la nouvelle PCBlastifieuse v2.1 (car la 2.0 a
-subi le même sort que son homologue 1.0, à savoir la mort par liquéfaction du a
+subi le même sort que son homologue 1.0, à savoir la mort par liquéfaction dû a
 une trop importante élévation de sa température interne).
 
 Petit fait intéressant, la plaque "saute" du rouleau une fois la passe
-effectuée avant d'attérir sur le réceptacle en aluminium. Ce petit effet
+effectuée avant d'atterir sur le réceptacle en aluminium. Ce petit effet
 imprévu s'est en fait révélé très utile en tant que signal sonore afin de
 pouvoir remettre la plaque à chauffer.
 
@@ -69,12 +69,12 @@ Station de soudage
 ==================
 
 Mehdi a soudé une nappe entre la carte électronique de la station de soudage et
-la prise pour le fer qui sera fixée sur le futur boitier. Le connecteur est
+la prise pour le fer qui sera fixée sur le futur boîtier. Le connecteur est
 maintenant équipé d'un détrompeur pour éviter les erreurs de branchement.
 
 Un support de fer (tuyau en cuivre relié au standby) a également été ajouté.
 
-La station necessitant une alimentation 12V 5A, il va falloir utiliser une
+La station nécessitant une alimentation 12V 5A, il va falloir utiliser une
 alimentation de PC, donc ajouter une charge sur le rail 5V pour que le rail 12V
 soit utilisable, et dessiner un boitier différent de celui de l'electrolab qui
 pourra accueillir l'alim AT(X).
@@ -95,6 +95,6 @@ certains champs pour chaque nouvelle demande sans recréer un fichier.
 Kebab (chat)
 ============
 
-Grâce a un bon repas, la carte de fidélité du HAUM au kebab de la gare est
+Grâce à un bon repas, la carte de fidélité du HAUM au kebab de la gare est
 presque remplie en une soirée seulement.
 
