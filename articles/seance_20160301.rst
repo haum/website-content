@@ -13,16 +13,16 @@ Séance du 1 mars 2016
 Dossier
 =======
 
-Romuald et Florent, rejoins plus tard par Seb, ont effectué un gros travail de
+Romuald et Florent, rejoints plus tard par Seb, ont effectué un gros travail de
 rédaction suite à la reprise de tout ce qui avait été noté la semaine dernière
-pour notre contribution à la cité de l’innovation.
+pour notre contribution à la Cité de l’Innovation.
 
 Le document a été finalisé et relu par ceux qui était encore là en fin de séance.
 
 Simon32
 =======
 
-Marc a travaillé sur la carte à base de STM32 made in HAUM et notamment sur la
+Marc a travaillé sur la carte à base de STM32 *made in* HAUM et notamment sur la
 création d’un PCB afin de relier le microcontrôleur à tous les périphériques
 externes.
 
@@ -38,7 +38,7 @@ effectuée avant d'atterir sur le réceptacle en aluminium. Ce petit effet
 imprévu s'est en fait révélé très utile en tant que signal sonore afin de
 pouvoir remettre la plaque à chauffer.
 
-Un tel succès que plusieurs circuits ont été gravés ce soir, parmi lesquels :
+Le succès était tel que plusieurs circuits ont été gravés ce soir, parmi lesquels :
 
 - Plusieurs circuits pour l’horloge à LEDs de Fabien
 - Un circuit double face pour Marc avec de petites pistes pour se faire un
@@ -77,7 +77,7 @@ Un support de fer (tuyau en cuivre relié au standby) a également été ajouté
 La station nécessitant une alimentation 12V 5A, il va falloir utiliser une
 alimentation de PC, donc ajouter une charge sur le rail 5V pour que le rail 12V
 soit utilisable, et dessiner un boitier différent de celui de l'electrolab qui
-pourra accueillir l'alim AT(X).
+pourra accueillir l'alim AT(X) en plus de l'électronique du fer.
 
 La sortie PWM du circuit électronique a été vérifiée à l’aide d’un oscilloscope
 et se comporte comme prévu.
@@ -90,7 +90,7 @@ Document type de financement
 
 Un document type pour les demandes de financement des projets du HAUM a été mis
 en page sous Scribus. Le but étant d'obtenir un document propre en modifiant
-certains champs pour chaque nouvelle demande sans recréer un fichier.
+certains champs pour chaque nouvelle demande sans re-créer un fichier.
 
 Kebab (chat)
 ============
