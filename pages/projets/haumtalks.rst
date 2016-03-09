@@ -21,6 +21,10 @@ Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un e
 Retour sur quelques talks
 -------------------------
 
+`Session N°5 (10/03/2016)`_ :
+
+`Session N°4 (18/02/2016)`_ :
+
 `Session N°3 (08/01/2016)`_ :
 
 `(Re)Découverte du courriel`_
@@ -40,6 +44,20 @@ Retour sur quelques talks
 `Session N°1 (fin Mai 2014)`_ :
 
 `Décryptez vos albums de Ravi Shankar`_
+
+.. _Session N°5 (10/03/2016):
+
+Session N°5
+-----------
+
+Pour cette séance, 3 talks seront proposés :
+
+- L'ironie de Github par Romain
+
+- Monnaies libres UCoin, Sou, etc... par Yannick
+
+- Pourquoi créer un FAI local au Mans? par Simon 
+
 
 .. _Session N°4 (18/02/2016):
 
