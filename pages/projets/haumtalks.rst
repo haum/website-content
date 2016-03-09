@@ -52,11 +52,11 @@ Session N°5
 
 Pour cette séance, 3 talks seront proposés :
 
-- L'ironie de Github par Romain
+- "L'ironie de Github", par Romain
 
-- Monnaies libres UCoin, Sou, etc... par Yannick
+- "Monnaies libres UCoin, Sou, etc...", par Yannick
 
-- Pourquoi créer un FAI local au Mans? par Simon 
+- "Pourquoi créer un FAI local au Mans ?", par Simon 
 
 
 .. _Session N°4 (18/02/2016):
