@@ -52,6 +52,7 @@ Florent présente OPA, un projet en financement participatif qui vise à offrir 
 
 En quelques dizaines de minutes il a réalisé un exemple d'utilisation de cette carte pour réaliser un instrument de musique piloté par des feuilles de salade. Il présente quelques possibilité du projet et des exemples de bricolages que l'on peut réaliser.
 
+- `Diaporama de la présentation (PDF) </images/talks/opa.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
