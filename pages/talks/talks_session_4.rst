@@ -75,6 +75,14 @@ Conseils pratiques pour améliorer ses photographies
 
 Talk proposé par Florent T.
 
+Cette conférence a été préparée par plusieurs passionnés de photographie du HAUM et propose des conseils pour améliorer vos photographies.
+
+Parmi la multitude de sujets possibles, il a été choisi de présenter des conseils sur l'utilisation du zoom, le point de vue à adopter, le choix d'un sujet, l'utilisation de l'autofocus, le guidage du regard, la gestion du cadre et ses éléments parasites, la perspective, les coupures et le cadrage vertical pour les aspects de composition.
+
+Une démonstration vient ponctuer la présentation avant de passer rapidement sur un autre sujet important qu'est la lumière. Plusieurs conseils sont passés en revue comme les heures pour éviter les lumières trop dures, l'utilisation du flash pour contrer les contrejours, le flash utilisé en lumière indirecte, la gestion des yeux rouges, utilisation du noir et blanc ainsi que l'emploi du correcteur de balance des blancs.
+
+N'oubliez pas que le premier conseil est de bouger, bouger, bouger ; et faites atention à la lumière.
+
 .. container:: aligncenter
 
     .. raw:: html
