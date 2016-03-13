@@ -1,0 +1,40 @@
+======================
+Séance du 11 mars 2016
+======================
+
+:date: 2016-03-11 23:59
+:tags: seances
+:category: news
+:slug: seance_20160311
+:authors: JackDesBwa
+:summary: Résumé de la séance du 12 mars 2016
+
+BienVenus sur Mars
+==================
+
+La préparation de notre nouvelle installation a été un grand sujet de la soirée.
+
+Les premiers tests avec la caméra prêtée par Simon nous ont permis d'invalider celle-ci, notamment à cause de son angle de vision restreint (focale trop longue). Par ailleurs, des premiers essais avec OpenCV nous ont fait réviser nos objectifs.
+
+Plus globalement, nous avons remis en question le principe même envisagé auparavant et avons trouvé un concept techniquement plus simple et davantage interatif. Une sorte de pupitre servira d'interaction avec le public après un passage dans un atelier "mélange de couleurs".
+
+Côté rendu visuel, le principe des boules lumineuses est maintenu. Nous avons d'ailleurs lancé la commande de WeMOS pour piloter ce joli monde sans fil.
+
+Bref, nous avançons lentement mais sûrement.
+
+Nucléos
+=======
+
+En prévision d'ateliers et autres projets farfelus, nous avons effectué un passage en revue des différentes cartes Nucléo disponibles sur le marché afin de déterminer lesquelles pourraient être intéressantes dans nos travaux. Nous avons retenu un modèle "low power" et un modèle "high performance".
+
+Imprimante 3D
+=============
+
+Bientôt de retour ! Lors de la dernière assemblée générale, nous avions indiqué que malgré le décès de l'imprimante 3D précédente, il y avait tout ce qu'il fallait pour remettre sur pieds une telle machine. Quelques courageux ont pris le temps de chouchouter la Tobeca et elle est preque fonctionnelle.
+
+D'après les chirurgiens de la bécane, il ne reste plus qu'à corriger un problème sur l'axe Z. Pour l'oeil non expert, les résultats sont déjà au rendez-vous.
+
+Découpeuse
+==========
+
+L'idée a germé de se procurer une découpeuse numérique pour réaliser des partons, des assemblages, de la découpe de tissus, etc. Le coût n'est pas très onéreux mais un tel achat sur fonds propres handicaperait d'autres projets. Il faudra donc trouver au moins un complément de financement.
