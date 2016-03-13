@@ -37,7 +37,7 @@ au cours des jours suivant les attaques.
             <source src="http://haum.svallee.fr/1_twitter_720p.mp4" type="video/mp4">
         </video>
 
-- `Diaporama #ParisAttacks (fr) </images/talks/parisattacks_social_analysis.pdf>`_
+- `Diaporama #ParisAttacks (PDF) </images/talks/parisattacks_social_analysis.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 

@@ -48,7 +48,7 @@ Voici un petit résumé du talk :
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/2PrsVkCQ9dU" frameborder="0" allowfullscreen></iframe>
 
-- `Diaporama de la présentation </images/talks/chiffrement_mails_presentation.pdf>`_
+- `Diaporama de la présentation (PDF) </images/talks/chiffrement_mails_presentation.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
