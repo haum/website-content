@@ -24,7 +24,7 @@ Au menu :
 
 On se retrouve à la **Ruche Numérique** le **18 février 2016** vers 18h30 pour discuter de tout ça.
 
-.. _talks du 8 janvier: /pages/haumtalks.html#session-n3-08-01-2016
+.. _talks du 8 janvier: /pages/talks_session3.html
 
 Ebay
 ====

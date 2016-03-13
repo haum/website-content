@@ -51,7 +51,7 @@ Romain s'est lancé le défi de monter les vidéos des Talks_ organisés le 8 Ja
 attention !
 Vous pourrez alors écouter ce qu'ont raconté nos valeureux hackers !
 
-.. _talks: /pages/haumtalks.html
+.. _talks: /pages/talks.html
 
 Station de soudage
 ==================

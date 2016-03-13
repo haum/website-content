@@ -59,7 +59,7 @@ Pour rappel, les sujets étaient :
 
 Vous pourrez trouver `tout ça ici`_ !
 
-.. _tout ça ici: /pages/haumtalks.html
+.. _tout ça ici: /pages/talks.html
 
 Inscriptions
 ============

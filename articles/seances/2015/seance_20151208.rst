@@ -58,4 +58,4 @@ et harmonieux, ce qui était loin d'être évident au début de la séance!
 .. _AgileMans: http://agile-mans.org/
 .. _subreddit: http://reddit.com/r/HAUM
 .. _Facebook: http://facebook.com/HAUM72
-.. _page associée: http://haum.org/pages/haumtalks.html
+.. _page associée: http://haum.org/pages/talks.html
