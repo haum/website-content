@@ -17,4 +17,5 @@ sur des sujets variés, choisis librement par les orateurs, suivis par un
 Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un
 exposé sur le sujet de votre choix.
 
-`Session 4 <talks_session4.html>`_
+- `Session 4 (février 2016) <talks_session4.html>`_
+- `Session 3 (janvier 2016) <talks_session3.html>`_
