@@ -25,6 +25,7 @@ La prochaine session des HAUMTalks (#6) se déroulera le 20 avril 2016.
 Sessions précédentes
 --------------------
 
+- `Session 5 (mars 2016) <talks_session5.html>`_
 - `Session 4 (février 2016) <talks_session4.html>`_
 - `Session 3 (janvier 2016) <talks_session3.html>`_
 - `Session 2 (octobre 2014) <talks_session2.html>`_
