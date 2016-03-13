@@ -83,6 +83,7 @@ Talk proposé par Florent T.
             <source src="http://haum.svallee.fr/talks4/4_photo.mp4" type="video/mp4">
         </video>
 
+- `Diaporama de la présentation (PDF) </images/talks/conseils_photos.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
