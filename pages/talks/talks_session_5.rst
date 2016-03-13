@@ -47,6 +47,11 @@ OPA, un véritable synthétiseur pour vos projets
 
 Talk proposé par Florent
 
+Envie de jouer de la musique avec vos projets de bidouilleurs ?
+Florent présente OPA, un projet en financement participatif qui vise à offrir un synthétiseur simple, mais de bonne qualité, en tant que shield Arduino.
+
+En quelques dizaines de minutes il a réalisé un exemple d'utilisation de cette carte pour réaliser un instrument de musique piloté par des feuilles de salade. Il présente quelques possibilité du projet et des exemples de bricolages que l'on peut réaliser.
+
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
