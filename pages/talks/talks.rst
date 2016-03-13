@@ -19,3 +19,4 @@ exposé sur le sujet de votre choix.
 
 - `Session 4 (février 2016) <talks_session4.html>`_
 - `Session 3 (janvier 2016) <talks_session3.html>`_
+- `Session 2 (octobre 2014) <talks_session2.html>`_
