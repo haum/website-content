@@ -44,6 +44,15 @@ L'ironie de Github
 
 Talk proposé par Romain
 
+Un des buts de ce talk est de donner des éléments de réflexion au petit
+*commiteur* curieux qui n’a pas encore totalement vendu corps et âme au service
+Github.
+
+Celui-ci vous propose d’observer d’un œil critique cette plateforme que tout le
+monde idéalise en oubliant que derrière une entreprise fait tout ce qu’elle
+peut pour ramasser les sous, mais également de vous proposer des alternatives
+de plus en plus populaires dans le monde du développement logiciel.
+
 .. container:: aligncenter
 
     .. raw:: html
