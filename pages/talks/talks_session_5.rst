@@ -25,6 +25,14 @@ Monnaies libres UCoin, Sou, etc.
 
 Talk proposé par Yannick
 
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks5/1_monnaie.mp4" type="video/mp4">
+        </video>
+
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
@@ -35,6 +43,15 @@ L'ironie de Github
 ------------------
 
 Talk proposé par Romain
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks5/2_github.mp4" type="video/mp4">
+        </video>
+
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -52,6 +69,15 @@ Florent présente OPA, un projet en financement participatif qui vise à offrir 
 
 En quelques dizaines de minutes il a réalisé un exemple d'utilisation de cette carte pour réaliser un instrument de musique piloté par des feuilles de salade. Il présente quelques possibilité du projet et des exemples de bricolages que l'on peut réaliser.
 
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks5/3_musique.mp4" type="video/mp4">
+        </video>
+
+
 - `Diaporama de la présentation (PDF) </images/talks/opa.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -63,6 +89,15 @@ Pourquoi créer un FAI local au Mans ?
 -------------------------------------
 
 Talk proposé par Simon
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="http://haum.svallee.fr/talks5/4_fai.mp4" type="video/mp4">
+        </video>
+
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
