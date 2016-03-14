@@ -62,6 +62,7 @@ de plus en plus populaires dans le monde du développement logiciel.
         </video>
 
 
+- `Diaporama de la présentation (PDF) </images/talks/ironie_github.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
