@@ -1,0 +1,76 @@
+======================
+Séance du 15 mars 2016
+======================
+
+:date: 2016-03-15 23:59
+:tags: seances
+:category: news
+:slug: seance_20160315
+:authors: JackDesBwa
+:summary: Résumé de la séance du 15 mars 2016
+
+
+Soirée productive au HAUM.
+De nombreux membres étaient présents et nous avons dû annexer le couloir le temps d'une soirée pour accueillir tout le monde dans des conditions de travail acceptables.
+Cela a permis de bien avancer sur plusieurs sujets importants.
+
+Communication
+=============
+
+La communication est encore un point faible de l'association.
+Lors ce cette soirée, nous avons passé un peu de temps à définir plusieurs aspects de ce vaste sujet, que ce soit pour réaliser des dossiers institutionnels ou communiquer envers le public lors d'évènements ponctuels.
+
+En particulier, nous avons revu et mis à jour la pochette de présentation de nos projets.
+Une équipe s'est constituée pour dépoussiérer les quelques feuillets que nous avions déjà et en créer de nouveaux pour les projets récemment réalisés au sein de l'association.
+
+Bien sûr, il a fallu illustrer ces fiches et quelques membres ont entrepris de réaliser une belle photo du projet lightstep. Difficile de prendre en photo des animations lumineuses, mais le résultat est exploitable.
+
+BienVenus sur Mars
+==================
+
+Deux équipes se sont formées pour travailler sur deux aspects encore incertains du projet.
+
+Le premier groupe a conquis l'IOT (Internet des objets) pour préparer des lampions pilotables par réseau.
+Désormais, un bout d'électronique se connecte au réseau du HAUM et fournit un serveur Web à travers lequel il est possible de piloter la couleur de la lampe avec un protocole REST.
+
+D'un autre côté, un travail sur la vision a été réalisé. À la fin de la séance, le logiciel était capable de détecter des disques colorés dans une vidéo et en extraire la position de leur centre et leur couleur.
+
+Toutes les incertitudes ont donc été levées : le projet est concrétisable. Reste à assembler les morceaux et ajouter le crêmage autour de cette ossature technique. Un bien beau projet se prépare !
+
+PCB @ HAUM
+==========
+
+Chaud chaud chaud, la machine à PCB tourne encore !
+
+À n'en point douter, un procédé pour réaliser des cartes électroniques est indispensable au HAUM.
+Nous étions bien peinés suite au décès (fonte?) de la PCBlastifieuse et une version améliorée a été vite imaginée et fabriquée. La nouvelle mouture tire partie de l'expérience et fonctionne très bien. Elle est souvent sollicitée.
+
+Ce soir, le résultat est assez mitigé, mais cela est dû à la manipulation plus qu'au procédé. En effet, une erreur d'alignement sur une carte double-face est fatale... on ne sait pas encore percer en travers, qui plus est dans un support moins épais que la mèche.
+
+Néanmoins, nous avons pu valider que le nouveau support jaune pour le masquage du cuivre est plus efficace que l'anien bleu que nous utilisions. Il faut noter que les plans de potentiel sont mal imprimés par un procédé laser, ce qui se traduit par un mauvais état sur la carte finale. Le procédé chimique, quant à lui, est au point.
+
+C'est un bon outil fabriqué au HAUM et il est très pratique.
+
+Cours ordonnancement et mémoire
+===============================
+
+Au détour d'une discussion sur le microcontrôleur pour les lampions, des questions sur la mémoire se sont posées. Florent a improvisé un cours sur la gestion mémoire en C puis de fil en aiguilles, au gré des questions, quelques notions de temps-réel et de micro-noyau sont entrées dans la discussion.
+
+C'est aussi ça le HAUM, des échanges de connaissances, des sachants expliquant aux questionneux.
+
+Imprimante 3D
+=============
+
+Un pas en avant, un pas en arrière. Décidément, il ne manque plus grand chose pour faire fonctionner cette sacrée machine !
+
+L'axe Z imprimait trop bas et écrasait la pièce. À la fin de la séance il imprimait trop haut ! Puis de nouveau trop bas.
+
+Un nouvelle stratégie est prête pour la prochaine tentative de réglage... espérons que ce sera la bonne approche.
+
+Divers
+======
+
+Certains sont revenus avec une boisson jaune orangée à partager. De l'avis de ceux qui ont goûté : "on a bu un truc louche !". Manifestement le Hawai ne fait pas l'unanimité.
+
+Enfin une petite bidouille en LUA sur console PSP et des travaux sur PC ont occupé d'autres personnes.
+
