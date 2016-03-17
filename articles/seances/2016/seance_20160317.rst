@@ -1,0 +1,36 @@
+======================
+Séance du 17 mars 2016
+======================
+
+:date: 2016-03-17 23:59
+:tags: seances
+:category: news
+:slug: seance_20160317
+:authors: JackDesBwa
+:summary: Résumé de la séance du 17 mars 2016
+
+
+Nostalgie
+=========
+
+Le HAUM a grandi, vite, et ce soir nous avons eu un temps pour nous remémorer certains projets passés...
+haumelitta, la cafetière qui écoute Twitter pour démarrer et gazouille pour indiquer que le café est prêt ;
+les flexagones, ces pliages étranges dont le virus a de nouveau été éssaimé ;
+le pong, jeu géant qui suscite encore et toujours la curiosité ;
+monnaies libres, un talk qui a suscité bien des questions...
+probablement d'autres sujet aussi.
+
+OpenCV
+======
+
+Pour le projet de lampes orbitales, un portage de l'exemple proposé par Wojciech a été partiellement réalisé en python, langage plus haut-niveau facilitant l'interconnexion à travers le réseau. Un filtre a par ailleurs été ajouté pour ne pas perdre les points suivis lorsque l'image est ponctuellement altérée.
+
+Palettes
+========
+
+Palettes, en veux-tu, en voilà ! Quelques palettes ont été récupérées et montées à bouts de bras jusqu'au local. Nous pourrons certainement les utiliser pour réaliser des meubles.
+
+Libre en fête
+=============
+
+À l'occasion de "Libre en fête" à Chemillé (49) ayant lieu les 18 et 19 mars, notre Pong1D s'est fait la malle, emportant Yannick dans ses bagages pour une représentation du HAUM à cet évènement. Merci Yannick pour ta disponibilité !
