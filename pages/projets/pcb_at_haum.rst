@@ -7,4 +7,6 @@ PCB @ HAUM
 Qu'est ce que c'est ?
 =====================
 
-Faire des PCBs au HAUM.
+La création d'objet necessite parfois une composante électronique. Pour
+prototyper rapidement ces circuits imprimés, le HAUM a élaboré outils et
+procédés permettant à chacun de réaliser rapidement ses projets.
