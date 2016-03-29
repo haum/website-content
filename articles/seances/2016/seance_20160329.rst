@@ -1,0 +1,35 @@
+======================
+Séance du 29 mars 2016
+======================
+
+:date: 2016-03-29 23:59
+:tags: seances
+:category: news
+:slug: seance_20160329
+:authors: NeodarZ
+:summary: Résumé de la séance du 29 mars 2016
+
+Amélioration continue
+=====================
+
+Nous avons mené une réflexion principalement sur le fonctionnement de la
+communication autour des projets ainsi que sur les possibilités pour favoriser
+l'implication des membres.
+
+Tobeca
+======
+
+La Tobeca est toujours en cours de réparation. L'identification jeudi dernier d'un
+problème d'écrou qui avait un grand jeu dans son logement a mené aujourd'hui au
+démontage des écrous incriminés. Une réflexion sur les moyens de corrections a
+été commencée.
+
+Lampes Orbitales
+================
+
+D'un côté, JackDesBwa et Rebrec ont testé le code sur une autre machine que celle
+de développement mais ont rencontré un problème de communication et des plantages
+intempestifs.
+
+De l'autre côté, Jblb et Neomilium ont rencontré des problèmes de parasites (affichage
+erratique) sur un des prototypes de Lampion qui a peut être (largement ?) été localisé.
