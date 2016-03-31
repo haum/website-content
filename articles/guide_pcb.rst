@@ -39,7 +39,7 @@ Avant tout, merci de lire la liste de précautions à prendre :
  - Le mélange acétone / eau oxygénée est dangereux : faites attention dans vos
    manipulations.
 
- - Aller dehors, ne pas respirer les émanations résultantes de la réaction.
+ - Travaillez dans un endroit aéré ou sous hotte aspirante, il ne faut pas respirer les émanations résultantes de la réaction.
 
  - La réaction produit du Dichlore un gaz jaune-vert. Il est 2,5 fois plus
    dense que l'air. Il a une odeur suffocante très désagréable et est
@@ -88,8 +88,10 @@ Voici la procédure à suivre :
  - Ensuite, découpez un morceau de PNP Blue un peu plus grand quel a taille du
    motif et collez le sur la feuille que vous venez d’imprimer au niveau du
    motif avec du scotch facilement retirable (n’oubliez pas de placer le côté
-   papier à l’extérieur.
+   papier à l’extérieur. L'ideal est du scotch de tapissier / scotch de masquage.
 
+ - Le toner est déposé côté rugueux de la feuille de PnP.
+ 
  - En remettant la feuille dans le sens qui convient dans le bac, il suffit de
    relancer l’impression du motif pour que celui-ci soit cette fois ci déposé
    sur le bout de PNP Blue que l’on pourra détacher de la feuille par la suite.
@@ -116,6 +118,16 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
    hésiter à utiliser plusieurs feuilles pour toujours frotter avec quelque
    chose de propre, en utilisant de l’acétone à chaque fois).
 
+ - le brossage à la paille de fer peut etre remplacé par un poncage à l'eau et avec du papier de verre fin (600).
+ 
+ - le brossage permet aussi de creer des aspérités sur le cuivre et va promouvoir l'adherence du toner sur celui-ci
+ 
+ - afin de garantir un resultat parfait, on peut nettoyer la plaque juste avant tranfert avec de l'alcool isopropylique. Celui ci eliminera toute trace de doigt eventuel.
+ 
+Voici le resultat sur une plaque qui est décapé avec un "tarnish remover" type mirror mais qui n'a pas été frotté:
+
+ [flickr:id=25546035903] 
+
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
 imprimé.
 
@@ -131,9 +143,29 @@ imprimé.
    qui ne craint pas trop la température (éviter de recouvrir la surface du PNP
    contenant des pistes car le scotch va faire comme une sorte de bouclier
    thermique qui va gêner la fonte du toner).
+ - Du Kapton est idéal pour ce type de projet car il est fin et il resiste à la chaleur.
  - Vérifier que le papier appuie bien uniformément sur la plaque (qu’il ne fait
    pas une genre de bosse une fois fixé sur la plaque car sinon le motif ne
-   sera pas transféré).
+   sera pas transféré). Deux morceaux de scotch suffisent, un en haut et un en bas.
+
+Alternative au PnP
+------------------
+
+Le PnP étant onéreux d'autre solution sont également envisagable, cependant le resultat est nettement moins bon.
+Pour 1euros25 on peux se procurer 10 feuilles A4 de papier de transfert sur ebay.
+Le toner est déposé côté lisse.
+Voici le resultat obtenue pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
+
+   [flickr:id=25543915594]
+
+On remarque sur la photo que du toner manque par petit points sur le "thermal pad" du regulateur. En fait c'est une lacune de ce papier. Sur des plans le resultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche et transfert avec papier jaune à droite:
+
+   [flickr:id=26148688695]
+
+Il semblerais que le PnP depose en plus du toner une petite pelicule plastique qui protege encore mieux le toner lors de la gravure:
+   
+   [flickr:id=25546035613]
+
 
 Transfert du motif
 ------------------
@@ -270,5 +302,12 @@ prochaine fois mais au final inutilisable.
 
 N.B. : Ce guide n’est pas définitif, n’hésitez pas à le modifier afin de
 rajouter des précisions, améliorer sa mise en page ou même l’illustrer !
+
+
+Reference:
+http://www.instructables.com/id/Making-PCB-With-Heart-Toner-Transfer-Paper-and-Lam/step6/null/
+http://www.instructables.com/id/Mostly-easy-PCB-manufacture/step5/Iron/
+https://paulwanamaker.wordpress.com/perfect-single-or-double-sided-pcbs-with-the-toner-transfer-method/
+http://bensdiy.blogspot.fr/2008/10/ralisation-de-circuits-imprims.html
 
 .. _PCBlastifieuse: /pages/pcblastifieuse.html
