@@ -13,37 +13,44 @@ Que vous soyez l’heureux possesseur d’une `PCBlastifieuse`_ ou non, ce guide
 pour but de détailler des différentes étapes de réalisation de circuits
 imprimés en utilisant la méthode du transfert de toner.
 
-Attention : ce guide évoque l’utilisation de produits chimiques qui sont
-dangeureux et qui doivent être manipulés avec précaution. Vous êtes
-responsables de vos faits et gestes lors de leur utilisation, le mieux étant de
-se faire accompagner par des personnes ayant déjà utilisé ce procédé dans un
-premier temps.
+**Attention : ce guide évoque l’utilisation de produits chimiques qui sont
+dangeureux et qui doivent être manipulés avec précaution**.
+
+Vous êtes responsables de vos faits et gestes lors de leur utilisation, le
+mieux étant de se faire accompagner par des personnes ayant déjà utilisé ce
+procédé dans un premier temps.
 
 Liste des précautions
 ---------------------
 
-Avant tout, merci de lire la liste de précautions à prendre :
+Avant tout, merci de lire la liste de précautions à prendre et de bien la
+retenir avant de vous lancer dans la moindre manipulation :
 
- - Utiliser des gants, des lunettes de protection, ne pas faire tomber de
-   réactif par terre (vous êtes responsable de vos faits et gestes).
+ - **Toujours verser de l'acide dans de l'eau** et pas l'inverse car il y a
+   risque d'éclaboussure ("explosion").
 
- - Toujours verser de l'acide dans de l'eau et pas l'inverse car il y a risque
-   d'éclaboussure ("explosion").
+ - L'acide chlorhydrique est dangereux, l’eau oxygénée encore plus (mains, yeux).
+   **Ces produits sont à manier avec précaution et avec les protections
+   adaptées** (gants, lunettes de protection). **Seule la personne équipée
+   peut manipuler les bouteilles et ustensiles** (gouttes sur les bouteilles,
+   reste de réactif sur les ustensiles pas encore nettoyés…)
 
- - L'acide chorydrique est dangereur (mains, yeux). A manier avec précaution et
-   avec les protections adaptées.
+ - **Attention à ne pas renverser de réactif**, que ce soit sur le sol ou pire
+   sur des personnes, protégées ou non. **Celui qui manipule est responsable de
+   ses maladresses**.
 
- - L'eau oxygénée est dangereuse du fait de sa concentration. Ne pas fermer
-   la bouteille trop fort (risque d'explosion)
+ - Ne pas fermer la bouteille d’eau oxygénée trop fort (risque d'explosion du
+   fait de sa forte concentration).
 
- - Le mélange acétone / eau oxygénée est dangereux : faites attention dans vos
-   manipulations.
+ - **Le mélange acétone / eau oxygénée est très dangereux** : faites attention
+   dans vos manipulations à ne pas combiner les deux et à toujours les stocker
+   loin l’un de l’autre pour éviter tout risque d’explosion en cas de fuite ou
+   de renversement.
 
- - Travaillez dans un endroit aéré ou sous hotte aspirante, il ne faut pas respirer les émanations résultantes de la réaction.
-
- - La réaction produit du Dichlore un gaz jaune-vert. Il est 2,5 fois plus
-   dense que l'air. Il a une odeur suffocante très désagréable et est
-   extrêmement toxique.
+ - **Travaillez dans un endroit aéré ou sous hotte aspirante**, il ne faut pas
+   respirer les émanations résultantes de la réaction (elle produit du
+   dichlore, un gaz jaune-vert plus dense que l’air qui possède une odeur
+   suffocante désagréable et est qui est extrêmement toxique).
 
 
 Conception du circuit
