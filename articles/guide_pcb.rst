@@ -133,7 +133,9 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
 
 Voici le resultat sur une plaque qui est décapé avec un "tarnish remover" type mirror mais qui n'a pas été frotté:
 
- [flickr:id=25546035903]
+.. container:: aligncenter
+
+    [flickr:id=25546035903]
 
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
 imprimé.
