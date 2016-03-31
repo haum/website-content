@@ -103,13 +103,13 @@ Cette étape est cruciale car pour que le motif soit correctement transféré su
 la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
 
  - Tout d’abord, afin d’enlever les éventuelles traces d’oxydation et autres
-   saletés sur la plaque, il faut utiliser de la limaille de fer douce afin de
+   saletés sur la plaque, il faut utiliser de la paille de fer douce afin de
    frotter sur la plaque et enlever le gros des saletés.
 
  - Répéter cette étape autant de fois que nécessaire jusqu’à ce que le cuivre
    soit uniforme.
 
- - Une fois les poussières provoquées par la limaille soufflées de la plaque,
+ - Une fois les poussières provoquées par la paille de fer soufflées de la plaque,
    imbiber un morceau d’essuie-tout d’acétone et frotter avec la partie
    cuivrée pour bien dégraisser la plaque.
 
