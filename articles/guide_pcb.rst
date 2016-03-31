@@ -76,7 +76,7 @@ facilement.
 
     [flickr:id=22322864273] [flickr:id=22930589112]
 
-Plusieurs types de papiers peuvent être utilisés, nottament le PNP Blue
+Plusieurs types de papiers peuvent être utilisés, notament le PNP Blue
 (Peel'n'Pick) ou d’autres papiers spécialisés. Ceux-ci ont un côté imprimable
 (papier) et l’autre non (plastique) qu’il faudra donc distinguer.
 
@@ -90,7 +90,7 @@ Voici la procédure à suivre :
    motif avec du scotch facilement retirable (n’oubliez pas de placer le côté
    papier à l’extérieur. L'ideal est du scotch de tapissier / scotch de masquage.
 
- - Le toner est déposé côté rugueux de la feuille de PnP.
+ - Le toner est déposé côté rugueux de la feuille de PNP.
 
  - En remettant la feuille dans le sens qui convient dans le bac, il suffit de
    relancer l’impression du motif pour que celui-ci soit cette fois ci déposé
@@ -148,25 +148,25 @@ imprimé.
    pas une genre de bosse une fois fixé sur la plaque car sinon le motif ne
    sera pas transféré). Deux morceaux de scotch suffisent, un en haut et un en bas.
 
-Alternative au PnP
+Alternative au PNP
 ------------------
 
-Le PnP étant onéreux d'autre solution sont également envisagable, cependant le resultat est nettement moins bon.
-Pour 1euros25 on peux se procurer 10 feuilles A4 de papier de transfert sur ebay.
+Le PNP étant onéreux d'autres solutions sont également envisagables, cependant le résultat est nettement moins bon.
+Pour 1€25 on peux se procurer 10 feuilles A4 de papier de transfert sur eBay.
 Le toner est déposé côté lisse.
-Voici le resultat obtenue pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
+Voici le resultat obtenu pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
 
 .. container:: aligncenter
 
     [flickr:id=25543915594]
 
-On remarque sur la photo que du toner manque par petit points sur le "thermal pad" du regulateur. En fait c'est une lacune de ce papier. Sur des plans le resultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche et transfert avec papier jaune à droite:
+On remarque sur la photo que du toner manque par petits points sur le "thermal pad" du regulateur. En fait, c'est une lacune de ce papier. Sur des plans, le resultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche, papier jaune à droite:
 
 .. container:: aligncenter
 
     [flickr:id=26148688695]
 
-Il semblerais que le PnP depose en plus du toner une petite pelicule plastique qui protege encore mieux le toner lors de la gravure:
+Il semblerait que le PNP depose en plus du toner une petite pelicule plastique qui protege encore mieux le toner lors de la gravure :
 
 .. container:: aligncenter
 
