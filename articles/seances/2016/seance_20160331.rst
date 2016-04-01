@@ -20,7 +20,7 @@ En charge d'améliorer le design du site web, Corentin a commencé à prendre en
 
 
 Déploiement de Taiga
-=====================
+====================
 
 Non, nos vaillants explorateurs que sont Romain et Romuald ne sont pas partis chasser le gnou, perdus dans les steppes de l'Asie centrale (Borodine_ si tu nous entends). Ils se sont plutôt intéressés à Taiga, un logiciel de suivi de projet axé autour d'une dynamique agile (kanban, scrum, etc.), pour le déployer sur le serveur du HAUM.
 
@@ -46,12 +46,12 @@ Laurent a aussi amené son prototype en papier des futurs supports de LEDs. Hél
 
 
 Atelier LaTeX
-==========
+=============
 
 LaTeX a parfois la tête dure comme du bois (du teck, en l'occurence ?), quand il s'agit de faire des choses un peu plus exotiques. Tifenn a donc travaillé sur un document LaTeX qui lui donnait du fil à retordre. 
 
 
 Tobécasse
-======
+=========
 
 Comme depuis de nombreuses semaines, Jean-Marc a continué de remettre la Tobeca en état. Au menu du soir, réinstallation de la poutre X démontée l'avant-veille en supprimant les jeux en Z découverts précédemment et en élargissant les trous inutilement trop petits. A tout hasard, la poulie de l'axe X a été changée puisque l'occasion s'y présentait.
