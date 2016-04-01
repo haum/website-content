@@ -10,33 +10,35 @@ Séance du 31 mars 2016
 :summary: Résumé de la séance du 31 mars 2016
 
 
-A l'aube du premier avril, le HAUM ne prépare pas ses cannes à pêche, mais continue d'avancer sur ses propres projets, avec toujours le même entrain !
+À l'aube du premier avril, le HAUM ne prépare pas ses cannes à pêche, mais continue d'avancer sur ses propres projets, avec toujours le même entrain !
 
 
 Redesign site web
 =================
 
-En charge d'améliorer le design du site web, Corentin a commencé à prendre en main Pelican, le générateur de contenu statique pour site web utilisé par l'asso.
+En charge d'améliorer le design du site web, Corentin a commencé à prendre en main Pelican_, le générateur de contenu statique pour site web utilisé par l'asso.
 
+.. _Pelican : http://getpelican.com
 
 Déploiement de Taiga
 ====================
 
-Non, nos vaillants explorateurs que sont Romain et Romuald ne sont pas partis chasser le gnou, perdus dans les steppes de l'Asie centrale (Borodine_ si tu nous entends). Ils se sont plutôt intéressés à Taiga, un logiciel de suivi de projet axé autour d'une dynamique agile (kanban, scrum, etc.), pour le déployer sur le serveur du HAUM.
+Non, nos vaillants explorateurs que sont Romain et Romuald ne sont pas partis chasser le gnou, perdus dans les steppes de l'Asie centrale (Borodine_ si tu nous entends). Ils se sont plutôt intéressés à Taiga_, un logiciel de suivi de projet axé autour d'une dynamique agile (kanban, scrum, etc.), pour le déployer sur le serveur du HAUM.
 
 .. _Borodine : https://fr.wikipedia.org/wiki/Dans_les_steppes_de_l%27Asie_centrale
+.. _Taiga : https://taiga.io
 
 
 Atelier ESP
 ===========
 
-Fabien a amené un composant à base d'ESP et a initié Suzi-Lou à son utilisation avec Arduino.
+Fabien a amené un composant à base d'ESP8266 et a initié Suzy-Lou à son utilisation avec Arduino.
 
-
+    
 Lampes Orbitales
 ================
 
-Jérôme et Laurent ont sorti le pied-de-biche, ainsi que ses deux acolytes un peu marteaux Tact et Persuasion, pour démonter une des palettes actuellement en stock dans le local. Le but était de récupérer de la matière première pour fabriquer le futur pupitre des Lampes Orbitales.
+Jérôme et Laurent ont sorti le pied-de-biche, ainsi que ses deux acolytes un peu marteaux *Tact* et *Persuasion*, pour démonter une des palettes actuellement en stock dans le local. Le but était de récupérer de la matière première pour fabriquer le futur pupitre des Lampes Orbitales.
 
 Romuald a aussi pratiqué des premiers soins sur Jérôme. Là encore, n'imaginez pas trop de choses, point de bouche-à-bouche mais simplement une extraction d'écharde. La palette ne s'est pas laissée faire !
 
@@ -50,10 +52,13 @@ Laurent a aussi amené son prototype en papier des futurs supports de LEDs. Hél
 Atelier LaTeX
 =============
 
-LaTeX a parfois la tête dure comme du bois (du teck, en l'occurence ?), quand il s'agit de faire des choses un peu plus exotiques. Tifenn a donc travaillé sur un document LaTeX qui lui donnait du fil à retordre. 
+LaTeX_ a parfois la tête dure comme du bois (du teck, en l'occurence ?), quand il s'agit de faire des choses un peu plus exotiques. Tifenn a donc travaillé sur un document LaTeX qui lui donnait du fil à retordre. 
 
+.. _LaTeX : https://en.wikibooks.org/wiki/LaTeX/Introduction#What_is_LaTeX.3F
 
 Tobécasse
 =========
 
-Comme depuis de nombreuses semaines, Jean-Marc a continué de remettre la Tobeca en état. Au menu du soir, réinstallation de la poutre X démontée l'avant-veille en supprimant les jeux en Z découverts précédemment et en élargissant les trous inutilement trop petits. A tout hasard, la poulie de l'axe X a été changée puisque l'occasion s'y présentait.
+Comme depuis de nombreuses semaines, Jean-Marc a continué de remettre la Tobeca_ en état. Au menu du soir, réinstallation de la poutre X démontée l'avant-veille en supprimant les jeux en Z découverts précédemment et en élargissant les trous inutilement trop petits. À tout hasard, la poulie de l'axe X a été changée puisque l'occasion s'y présentait.
+
+.. _Tobeca : https://github.com/pyroboynroses/Tobeca
