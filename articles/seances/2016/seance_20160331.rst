@@ -6,7 +6,7 @@ Séance du 31 mars 2016
 :tags: seances
 :category: news
 :slug: seance_20160331
-:authors: Gras
+:authors: Jean-Marc (Gras)
 :summary: Résumé de la séance du 31 mars 2016
 
 
