@@ -42,7 +42,7 @@ Romuald a aussi pratiqué des premiers soins sur Jérôme. Là encore, n'imagine
 
 .. container:: aligncenter
 
-[flickr:id=26132978296]
+    [flickr:id=26132978296]
 
 Laurent a aussi amené son prototype en papier des futurs supports de LEDs. Hélas, celui-ci s'est avéré un peu trop gros, la faute à une méchante racine carrée de 2.
 
