@@ -11,6 +11,7 @@ Pour cette séance organisée le 15 octobre 2014, 2 talks a été proposés :
 
 - `Introduction au chiffrement de ses mails`_
 - `Une manette Wii pour jouer à des jeux sur émulateur`_
+- `Post Summer RSync`_
 
 .. _Introduction au chiffrement de ses mails:
 
@@ -64,4 +65,21 @@ Aucun enregistrement n’est disponible pour ce talk.
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
+.. _Post Summer RSync:
+
+Post Summer RSync
+-----------------
+
+Talk proposé par Mathieu.
+
+Aucun enregistrement n’est disponible pour ce talk.
+
+Après un été passé au service de la CCI pour la création d'un fablab sur Le mans, l'heure
+est au bilan !
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
+
 .. _Retour à la liste des HAUMTalks: talks.html
+
+
