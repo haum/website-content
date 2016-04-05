@@ -13,6 +13,11 @@ La création d'objet necessite parfois une composante électronique. Pour
 prototyper rapidement ces circuits imprimés, le HAUM a élaboré outils et
 procédés permettant à chacun de réaliser rapidement ses projets.
 
+.. container:: aligncenter
+
+    .. image:: /images/pcb_at_haum/carte_conceptuelle.png
+        :alt: Carte conceptuelle expliquant la composition du projet
+
 Exemples de réalisations
 ========================
 
