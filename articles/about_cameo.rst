@@ -24,9 +24,8 @@ Information : la est dotée de capteurs optiques qui lui permet de calibrer sa c
 Réalisation de la mécanique de la pochette avec QCad
 ----------------------------------------------------
 
-```
+::
 Pochette_A4.dxf
-```
 
 Extraction de chaque couche
 ---------------------------
