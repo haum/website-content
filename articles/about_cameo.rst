@@ -25,7 +25,8 @@ Réalisation de la mécanique de la pochette avec QCad
 ----------------------------------------------------
 
 ::
-Pochette_A4.dxf
+
+  Pochette_A4.dxf
 
 Extraction de chaque couche
 ---------------------------
