@@ -36,7 +36,6 @@ Il faut donc créer des fichiers séparés avec des répères (ex: haut-gauche, 
 
 ```
 Pochette_A4_plis.dxf
-
 Pochette_A4_decoupe.dxf
 ```
 
@@ -47,7 +46,6 @@ Il faut configurer l'import des DXF pour que le logiciel ne modifie pas les dime
 
 ```
 Pochette_A4_plis.dxf
-
 Pochette_A4_decoupe.dxf
 ```
 
@@ -57,7 +55,6 @@ Ensuite on importe les logos et textes (au format image bitmap) :
 
 ```
 Pochette_A4_logo_texte.png
-
 Pochette_A4_logo_feutre.png
 ```
 
