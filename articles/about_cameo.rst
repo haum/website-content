@@ -36,8 +36,8 @@ Il faut donc créer des fichiers séparés avec des répères (ex: haut-gauche, 
 
 ::
 
-Pochette_A4_plis.dxf
-Pochette_A4_decoupe.dxf
+  Pochette_A4_plis.dxf
+  Pochette_A4_decoupe.dxf
 
 Import des éléments dans Silhouette Studio
 ------------------------------------------
@@ -46,8 +46,8 @@ Il faut configurer l'import des DXF pour que le logiciel ne modifie pas les dime
 
 ::
 
-Pochette_A4_plis.dxf
-Pochette_A4_decoupe.dxf
+  Pochette_A4_plis.dxf
+  Pochette_A4_decoupe.dxf
 
 L'alignement se fait avec les outils du logiciel
 
@@ -55,7 +55,7 @@ Ensuite on importe les logos et textes (au format image bitmap) :
 
 ::
 
-Pochette_A4_logo_texte.png
-Pochette_A4_logo_feutre.png
+  Pochette_A4_logo_texte.png
+  Pochette_A4_logo_feutre.png
 
 .. _Dossier Utilisation Caméo : https://github.com/haum/communication/tree/master/Plaquette/Pochette
