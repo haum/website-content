@@ -1,82 +1,55 @@
-=====================
-A propos de LightStep
-=====================
+============================
+A propos de Silhouette Cameo
+============================
 
-:date: 2015-12-13 23:00
-:tags: lightstep
+:date: 2016-04-12 22:00
+:tags: Silhouette Cameo
 :category: projets
-:slug: about-lightstep
+:slug: about-silhouette-cameo
 :authors: HAUM
-:summary: Avancée du projet et Idées
+:summary: Utilisation Silhouette Cameo
 
-Alors que le projet avance petit à petit, les idées autour de LightStep fleurissent.
-Après une refonte du code du projet, certaines nouvelles possibilités s'offrent ainsi à nous.
+Cette article est une simple copie du fichier README.md stocké sur github portant sur la création et la découpe d'une pochette datant du 12/04/2016.
+Le lien direct vers le répertoire distant est le suivant : `Dossier Utilisation Caméo`_
 
-Les idées du tableau
-====================
+# Création et découpe de la pochette #
 
-Dans une première `séance de réflexion`_, plusieurs idées concernant les animations et la manière de les déclencher
-ont été émises. Voici donc une transcription du tableau :
+L'objectif est de créer une pochette imprimée par nos soins puis découper à la machine (Silhouette Cameo).
 
-Animations
-----------
+Pour une meilleure découpe, il faut imprimer l'ensemble avec le logiciel Silhouette Studio afin d'avoir des repères de positionnement pour la machine.
 
-- arbre de Noël stylisé
-- *dimmer*
-- K2000
-- remplissage
-- cercle chromatique
-- fusion de 2 couleurs
-- arc-en-ciel
-- scintillement
+Information : la est dotée de capteurs optiques qui lui permet de calibrer sa coupe.
 
-Interactions
-------------
+## Réalisation de la mécanique de la pochette avec QCad #
 
-- plus de marches appuyées ⇒ plus de luminosité
-- plus de marches appuyées ⇒ changement plus rapide
-- une marche ⇒ un effet lumineux
-- combinaisons de marches :
+```
+Pochette_A4.dxf
+```
 
-        - combinaisons d'effets
-        - changement de mode
+## Extraction de chaque couche ##
 
-- influence du temps d'appui
-- changement de mode automatique toutes les n minutes
-- que ce passe-t-il quand rien n'est appuyé ?
+Silhouette Studio importe (malheureusement) les différents calques DXF comme un seul.
+Il faut donc créer des fichiers séparés avec des répères (ex: haut-gauche, bas-droit) identiques sur chaque fichier.
+```
+Pochette_A4_plis.dxf
+Pochette_A4_decoupe.dxf
+```
 
-        - effet
-        - rien
-        - témoin (*heartbeat*, respiration)
+## Import des éléments dans Silhouette Studio ##
 
-L'idée du jour
-==============
+Il faut configurer l'import des DXF pour que le logiciel ne modifie pas les dimensions puis importé dans la bibliothèque les fichiers suivant :
 
-La nouvelle idée se base sur le découplage entre couleur et animation.
+```
+Pochette_A4_plis.dxf
+Pochette_A4_decoupe.dxf
+```
+L'alignement se fait avec les outils du logiciel
 
+Ensuite on importe les logos et textes (au format image bitmap) :
 
-Couleur
--------
+```
+Pochette_A4_logo_texte.png
+Pochette_A4_logo_feutre.png
+```
 
-
-.. image:: /images/lightstep/hue_shift.png
-        :align: right
-
-La couleur est choisie en combinant l'appui sur certaines marches avec un curseur qui tourne sur la roue de la teinte
-(voir image). Ainsi la couleur tournante avance avec le temps et une série de marches permet de sélectionner une couleur
-de base autour de cette couleur tournante.
-
-L'appui sur une marche spéciale (par exemple derrière la caisse) provoque l'avance rapide de la couleur de base.
-
-Animations
-----------
-
-L'appui sur les autres marches déclenche des animations qui reçoivent en entrée la couleur de base et qui tournent en
-boucle jusqu'au relâchement de la touche. Ces animations doivent boucler en un temps court et ne peuvent pas être
-coupées en cours de boucle.
-
-L'appui sur certaines combinaisons de touches entraine le déclenchement d'animations « spéciales » qui elles sont plus
-longues.
-
-
-.. _séance de réflexion: /seance_20151206.html
+.. _Dossier Utilisation Caméo : https://github.com/haum/communication/tree/master/Plaquette/Pochette
