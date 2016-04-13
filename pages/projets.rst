@@ -38,14 +38,6 @@ Nos projets
 
 .. list-projects::
 
-Haumelitta
-----------
-
-`HAUMelitta`_ (a.k.a la cafetière qui tweete) est un peu un emblème du HAUM. C'est bêtement une cafetière reliée à twitter via un raspberry pi, mais elle fait son effet :).
-Il n'est plus vraiment possible de contribuer à ce projet parce qu'il est en *standby* et qu'il a un intérêt limité, mais si vraiment vous y tenez, alors parlez-en à jblb_ ou matael_ et on vous trouvera un coin de table pour jouer avec.
-
-.. _HAUMelitta: https://twitter.com/HAUMelitta
-
 Haniview
 --------
 
