@@ -20,7 +20,7 @@ Multiboot
 
 Un membre cherchant de l'information pour installer un système d'exploitation alternatif (en l'occurrence un GNU/Linux) est venu trouver assistance en séance.
 Il a donc trouvé un expert qui lui a expliqué la mise en place d'un dual boot sur un ordinateur.
- 
+
 Silouhette CAMEO
 ================
 
@@ -29,15 +29,15 @@ Tifenn a installé la Caméo puis a réalisé les premiers tests de découpage a
 Croc'Haum
 =========
 
-A l'occasion de la saint Jules, Tifenn s'est proposée pour cuisiner les Croc'Haum afin que les membres puissent les déguster. La nouvelle formule (5€ pour des croques à volonté 
+A l'occasion de la saint Jules, Tifenn s'est proposée pour cuisiner les Croc'Haum afin que les membres puissent les déguster. La nouvelle formule (5€ pour des croques à volonté
 et une boisson) semble réjouir les hackers manceaux !
 
 HPP (ou Horloge Pédagogique Programmable)
 =========================================
 
-Fabien est venu dans l'espoir de se débloquer dans l'avancé de son projet d'horloge à LEDs. Il a profité, en premier lieu, de la présence exceptionnelle d'un membre expatrié de 
-passage au Mans (coucou Matael) qui lui a montré l'importance des datasheets pour comprendre le langage de son microcontroleur (MSP430) et celui des LEDs (APA102). Du nouveau 
-code a été uploadé au MSP car il s'avèrait qu'ils avaient un langage commun : le SPI. Petit passage au pôle oscilloscope pour visualiser les sorties clock et data du MSP. Après 
+Fabien est venu dans l'espoir de se débloquer dans l'avancé de son projet d'horloge à LEDs. Il a profité, en premier lieu, de la présence exceptionnelle d'un membre expatrié de
+passage au Mans (coucou Matael) qui lui a montré l'importance des datasheets pour comprendre le langage de son microcontroleur (MSP430) et celui des LEDs (APA102). Du nouveau
+code a été uploadé au MSP car il s'avèrait qu'ils avaient un langage commun : le SPI. Petit passage au pôle oscilloscope pour visualiser les sorties clock et data du MSP. Après
 quelques réglages, avec l'aide d'un autre membre expert en électronique, quelle merveille de voir un joli signal créneau correspondant aux 0 et 1 envoyés !!
 
 Prochaine étape : voir les LEDs s'allumer et pourquoi pas, soyons fous, aux couleurs voulues !!
@@ -46,23 +46,24 @@ Lampes Orbitales
 ================
 
 Il aura fallu se créer un espace au milieu du nouveau local pour pouvoir s'étendre et travailler sur ce projet.
-Une fois cela fait, les groupes s'organisent et, pendant que certains discutent de l'habillage de la "table de jeu", d'autres se focalisent sur le débogage du code de 
+Une fois cela fait, les groupes s'organisent et, pendant que certains discutent de l'habillage de la "table de jeu", d'autres se focalisent sur le débogage du code de
 communication des lampes.
-A cette occasion, les vitres du nouveau local donnant sur le couloir du plateau ont été hackées pour servir de "tableau blanc" permettant de poser les idées et les maths fusant 
+A cette occasion, les vitres du nouveau local donnant sur le couloir du plateau ont été hackées pour servir de "tableau blanc" permettant de poser les idées et les maths fusant
 dans les têtes de chacun !
 Un prototypage d'armature en carton a été créé pour supporter les LEDs dans les lampes, ce prototype donnera lieu à un usinage avec AxiHAUM pour la pièce finale.
 
 Réparation d'écran
 ==================
 
-Jérôme est venu avec un écran qui refusait de s'allumer malgré le fait qu'il soit alimenté. Après ouverture du récalcitrant il a été constaté qu'une partie plastique qui appuie 
-sur la capsule métallique du bouton marche était manquante. Notre réparhacker a donc fouillé la boite à truc du hackerspace pour trouver un petit morceau de plastique qu'il 
+Jérôme est venu avec un écran qui refusait de s'allumer malgré le fait qu'il soit alimenté. Après ouverture du récalcitrant il a été constaté qu'une partie plastique qui appuie
+sur la capsule métallique du bouton marche était manquante. Notre réparhacker a donc fouillé la boite à truc du hackerspace pour trouver un petit morceau de plastique qu'il
 s'est empressé de pistocoller au bon endroit afin que la fonction du bouton soit rétablie !
-Malheureusement le plastique choisi s'est avéré trop souple pour remplir de façon satisfaisante la nouvelle fonction qui lui était dévolue. Ce n'est que partie remise et bientôt 
+Malheureusement le plastique choisi s'est avéré trop souple pour remplir de façon satisfaisante la nouvelle fonction qui lui était dévolue. Ce n'est que partie remise et bientôt
 l'écran étincellera de mille[1] pixels lorsque que l'on pressera le bouton d'allumage.
 
-[flickr:id=25809094084]
-[flickr:id=26141097780]
+.. container:: aligncenter
+
+    [flickr:id=25809094084] [flickr:id=26141097780]
 
 [1] en réalité plus probablement 786432 ou 1310720
 
@@ -71,15 +72,13 @@ HAUMelitta
 
 Romain et Sébastien ont pu avancer sur l’emblème du HAUM : la cafetière connectée.
 
-À l'aide plusieurs sessions de pair programming à coup de chat vocal et de tmux ils ont réussi à refaire fonctionner la partie logicielle qui scanne les tweets, non pas sans 
-difficultés (notamment à cause des limites imposées par Twitter sur son API). Le clic du relai lors d’un tweet, même à travers un chat vocal, procure une sensation plutôt 
+À l'aide plusieurs sessions de pair programming à coup de chat vocal et de tmux ils ont réussi à refaire fonctionner la partie logicielle qui scanne les tweets, non pas sans
+difficultés (notamment à cause des limites imposées par Twitter sur son API). Le clic du relai lors d’un tweet, même à travers un chat vocal, procure une sensation plutôt
 agréable.
 
-Ensuite, il a fallu s’attaquer à la partie électrique du montage en hackant une multiprise pour lui intégrer le relai dont il est question plus haut ainsi que le câblage 
+Ensuite, il a fallu s’attaquer à la partie électrique du montage en hackant une multiprise pour lui intégrer le relai dont il est question plus haut ainsi que le câblage
 nécessaire pour qu'elle soit pilotable.
 
-[flickr:id=26321610432]
-[flickr:id=26141105110]
-[flickr:id=25811184733]
-[flickr:id=26347782031]
-[flickr:id=25809115624]
+.. container:: aligncenter
+
+    [flickr:id=26321610432] [flickr:id=26141105110] [flickr:id=25811184733] [flickr:id=26347782031] [flickr:id=25809115624]
