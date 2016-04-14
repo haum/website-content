@@ -1,0 +1,54 @@
+=======================
+Séance du 14 avril 2016
+=======================
+
+:date: 2016-04-14 23:59
+:tags: seances
+:category: news
+:slug: seance_20160414
+:authors: Neodarz, MicroJoe et Seb_Vallee
+:summary: Résumé de la séance du 14 avril 2016
+
+HAUMelitta
+==========
+
+Romain et Sébastien, épaulés par Mehdi, ont progressé sur la remise en état d'HAUMelitta, la cafetière connectée du HAUM.
+Après un grand nettoyage à coup de liquide vaisselle et plusieurs passages au vinaigre blanc, elle est cependant irrattrapable !
+
+Du coté code, quelques modifications pour mieux utiliser l'API Twitter (et éviter d'être bridés par le rate-limit de Twitter), d'autres pour mieux utiliser le relais de 
+la multiprise.
+
+Aussi, le nouveau capteur de température ainsi que le code sont désormais prêts à l'implantation dans la nouvelle cafetière ! Il ne reste plus qu'à trouver un receveur 
+acceptable pour que cette transplantation ait lieu.
+
+Silouhette CAMEO
+================
+
+La découpeuse Silhouette CAMEO attire tous les horizons et, pour prouver sa polyvalence, des tests ont été réalisés avec du tissu. Après quelques hésitations, le tissu a 
+finalement fini tranché, et les expérimentateurs ont fini heureux de cette nouvelle expérience.
+
+Monétisation
+============
+
+Les personnes présentes au local se sont réunies afin de réfléchir sur les différents moyens envisageables afin de ramener plus d'argent dans les caisses de 
+l'association, notamment afin de faciliter l'achat de nouveau matériel.
+
+Scie à chantourner
+==================
+
+Suite au don de Frederic Renault (Grand merci à lui !), nous possédons maintenant une scie à chantourner. Mathieu et Jean-Marc se sont attelé à lui faire une petite 
+fraîcheur pour qu'elle soit utilisable au plus tôt !
+
+STM32
+=====
+
+Wojciech s'est essayé à l'I2C sur sa carte STM32 F7 et s'est malheureusement heurté à un mur d'incompréhension, malgré l'aide de plusieurs autres membres plus aguerris 
+sur ce sujet.
+
+Divers
+======
+
+Petite bidouille avec RabbitMQ par Corentin afin de comprendre le fonctionnement des micro-services du HAUM et d'apporter sa propre pierre à l'édifice. 
+
+Un nouveau micro-service à été rajouté à l'environnement hms, le hms_help afin de renvoyer les commandes disponibles des autres micro-services. Une évolution possible 
+serait d'interroger tous les micro-services écoutant sur IRC afin de leur demander leur aide avant de les afficher sur le canal.
