@@ -24,8 +24,9 @@ La prochaine session des HAUMTalks (#6) se déroulera le 20 avril 2016.
 
 Au programme :
 
-- « L'holacratie, comment ça marche » par Fabien
-- « Mécanique quotidienne : quelques clefs d'hier et d'aujourd'hui » par Jean-Marc
+- « Confiance sur Internet : Neutralité du réseau » par Romain T.
+- « L'holacratie, comment ça marche » par Fabien B.
+- « Mécanique quotidienne : quelques clefs d'hier et d'aujourd'hui » par Jean-Marc L.
 - « Les creative commons en pratique (le destin extraordinaire d'une photo) » par Alexandre
 
 Sessions précédentes
