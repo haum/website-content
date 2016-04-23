@@ -20,18 +20,12 @@ exposé sur le sujet de votre choix.
 Prochaine session
 -----------------
 
-La prochaine session des HAUMTalks (#6) se déroulera le 20 avril 2016.
-
-Au programme :
-
-- « Confiance sur Internet : Neutralité du réseau » par Romain T.
-- « L'holacratie, comment ça marche » par Fabien B.
-- « Mécanique quotidienne : quelques clefs d'hier et d'aujourd'hui » par Jean-Marc L.
-- « Les creative commons en pratique (le destin extraordinaire d'une photo) » par Alexandre
+Aucune prochaine session n’a pour l’instant été programmée.
 
 Sessions précédentes
 --------------------
 
+- `Session 6 (avril 2016) <talks_session6.html>`_
 - `Session 5 (mars 2016) <talks_session5.html>`_
 - `Session 4 (février 2016) <talks_session4.html>`_
 - `Session 3 (janvier 2016) <talks_session3.html>`_
