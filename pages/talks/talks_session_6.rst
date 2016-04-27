@@ -14,6 +14,9 @@ Pour cette séance organisée le 20 avril 2016, 4 talks ont été proposés :
 - `Mécanique quotidienne : quelques clefs d'hier et d'aujourd'hui`_
 - `Les creative commons en pratique (le destin extraordinaire d'une photo)`_
 
+Suite à un problème lors de la prise de vue des vidéos, un filtre a été
+appliqué à une partie de celles-ci afin de mieux visualiser l’orateur (qui peut
+apparaitre dans une teinte un peu pâle).
 
 .. _Confiance sur Internet : Neutralité du réseau:
 
