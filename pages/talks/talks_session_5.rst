@@ -88,7 +88,7 @@ En quelques dizaines de minutes il a réalisé un exemple d'utilisation de cette
         </video>
 
 
-- `Diaporama de la présentation(PDF) </images/talks/opa.pdf>`_ sous licence `CC-BY-NC-SA`_
+- `Diaporama de la présentation(PDF) </images/talks/opa.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
@@ -113,5 +113,4 @@ Talk proposé par Simon
 - `Retour à la liste des HAUMTalks`_
 
 
-.. _CC-BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
 .. _Retour à la liste des HAUMTalks: talks.html

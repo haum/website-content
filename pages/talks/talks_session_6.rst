@@ -73,7 +73,7 @@ clefs !
 Il s'agit ici d'une introduction très brève à la serrurerie, présentant
 des clefs qui ont existé ou qui existent encore de nos jours.
 
-- `Diaporama de la présentation (PDF) <images/talks/mecanique_quotidienne_clefs.pdf>`_
+- `Diaporama de la présentation (PDF) <images/talks/mecanique_quotidienne_clefs.pdf>`_ sous licence `CC-BY-NC-SA`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
@@ -95,4 +95,5 @@ Talk proposé par Alexandre
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
+.. _CC-BY-NC-SA: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
 .. _Retour à la liste des HAUMTalks: talks.html
