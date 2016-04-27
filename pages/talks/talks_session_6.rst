@@ -66,6 +66,14 @@ Talk proposé par Jean-Marc
             <source src="http://haum.svallee.fr/talks6/3_mecanique.mp4" type="video/mp4">
         </video>
 
+Petite incursion dans la monde de la mécanique de tous les jours, à commencer
+par la serrurerie, car il n'y a pas que la cryptographie qui joue avec des
+clefs !
+
+Il s'agit ici d'une introduction très brève à la serrurerie, présentant
+des clefs qui ont existé ou qui existent encore de nos jours.
+
+- `Diaporama de la présentation (PDF) <images/talks/mecanique_quotidienne_clefs.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
