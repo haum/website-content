@@ -20,7 +20,7 @@ exposé sur le sujet de votre choix.
 Prochaine session
 -----------------
 
-Aucune prochaine session n’a pour l’instant été programmée.
+La prochaine session de talks est prévue le jeudi 23 juin, à partir de 18h30.
 
 Sessions précédentes
 --------------------
