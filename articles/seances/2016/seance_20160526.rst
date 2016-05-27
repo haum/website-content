@@ -1,0 +1,132 @@
+=====================
+Séance du 26 mai 2016
+=====================
+
+:date: 2016-05-26 23:59
+:tags: seances
+:category: news
+:slug: seance_20160526
+:authors: JackDesBwa
+:summary: Résumé de la séance du 26 mai 2016
+
+Beaucoup de réparations, beaucoup de rangement, 
+
+Réparations
+===========
+
+Plastifieuse
+------------
+
+Il y a quelques semaines, Laurent a rapporté une vraie plastifieuse
+défectueuse (comprendre une plastifieuse dont nous n'avons pas
+l'intention de détourner l'usage) : si l'on arrive à la réparer, c'est
+pour nos projets. Et puisque pouvoir plastifier serait vraiment utile,
+nous nous sommes mis en tête de la rafistoler.
+
+Après démontage, nous avions diagnostiqué un engrenage brisé. Jean-Marc
+avait pris les cotes et a réussi à dégager du temps pour modéliser et
+même imprimer en 3D un engrenage de rechange. Le test mécanique a été
+réalisé la semaine dernière : et ça marche !
+
+Lors de cette séance, Jean-Marc (toujours lui, merci pour cette
+implication !) a totalement démonté la machine pour un nettoyage complet
+des mécanismes, car elle en avait bien besoin : par exemple, les
+rouleaux laissaient des traces noires sur les papiers insérés.
+
+Après le démontage et le nettoyage : le remontage, puis le démontage et
+le remontage dans le bon sens cette fois. Enfin, ça y est, elle est
+comme neuve.
+
+Il reste donc à l'essayer avec une vraie plastification et nettoyer
+l'extérieur de la machine. Par précaution, quelques engrenages de
+rechange ont été imprimés.
+
+Casque audio
+------------
+
+Florent est arrivé avec un casque audio dont le côté gauche ne diffusait
+plus de son. Après diagnostic, le haut-parleur en lui-même fonctionne,
+mais lorsque l'on croise les signaux gauche et droit, c'est l'autre côté
+qui ne diffuse plus. Le fil est donc sectionné entre la prise jack et le
+potentiomètre de volume.
+
+Le tout étant scellé d'un côté, gainé sur le trajet et protégé par un
+tressage, une réparation serait très risquée. Il a donc été converti en
+un casque pseudo-monophonique en reliant les deux haut-parleurs sur le
+même signal.
+
+Télévision
+----------
+
+Une télévision a été réparée au HAUM : originellement, elle s'éteignait
+toute seule au bout de quelques minutes. Ce soir, c'était le test
+d'endurance ! Corentin a courageusement dédié son PC pour diffuser en
+continu des vidéos de petits chats et ça a fonctionné plusieurs heures
+en VGA. Un test en HDMI a également été réalisé. Cependant, le système
+de son n'a pas encore été vérifié.
+
+Ordinateur portable
+-------------------
+
+Eh oui, les réparations vont bon train ce soir. Encore plus
+technologique, l'ordinateur portable d'un membre a des problèmes
+apparemment à la suite d'une mise à jour. Après discussion, il semble
+que ce ne soit pas la seule raison. Vérification de l'alimentation et du
+système de charge. À suivre jeudi prochain.
+
+Aménagement
+===========
+
+Petit à petit, le local est aménagé. Après les grands aménagements des
+dernières semaines, il faut penser à rendre le local plus agréable.
+Florent et Tifenn ont réalisé une grande campagne de rangement/nettoyage
+en particulier du côté de l'établi.
+
+Un peu plus tard dans la soirée, Baptiste a eu le droit à un baptême de
+balayage sous les yeux de sa copine médusée : "il ne le fait même pas
+chez nous". Le HAUM éveille des vocations.
+
+Nouvelle vie
+============
+
+Le HAUM a mis en vente quelques objets qui ne nous servent plus. Cinq
+articles ont trouvé des personnes pour les utiliser. D'autres ont été
+photographiés ce soir pour, espérons-le, trouver de nouveaux
+utilisateurs.
+
+Le SHAUM
+========
+
+La date du SHAUM, portes ouvertes du hacklab, a été fixée. Ce sera le 16
+juin 2016. Un petit visuel a été réalisé pour l'annoncer sur la liste de
+diffusion. Il sera annoncé plus largement prochainement.
+
+PC pour atelier
+===============
+
+Après-demain, ce sera l'atelier "Confection et Nouvelles Technologies".
+En préparation de cet atelier, nous avons installé 3 PC prêtés par
+l'association Linux Maine dans le local.
+
+Impro laumio
+============
+
+À l'occasion d'une discussion sur les laumios, un petit programme
+éphémère a été improvisé pour piloter un exemplaire. En 10 minutes, le
+luminaire s'est paré de fondus de lumière pilotés à distance par un
+simple script python d'une dizaine de lignes.
+
+TV connectée
+============
+
+Puisque la réparation de la TV a prouvé sa robustesse, Corentin a
+proposé de la transformer en TV connectée avec l'espoir de la faire
+fonctionner avant samedi.
+
+La fatigue a été contre lui : c'est plus facile de lancer un logiciel si
+l'on a pensé à l'installer avant ; ou encore sans le réseau, c'est sûr
+que ça ne pouvait pas fonctionner.
+
+Malgré ces difficultés, les bases du système sont présentes. Il y a bon
+espoir que l'écran connecté soit en fonction samedi pour l'atelier
+"Confection et Nouvelles Technologies" !
