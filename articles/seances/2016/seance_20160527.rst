@@ -1,0 +1,107 @@
+=====================
+Séance du 27 mai 2016
+=====================
+
+:date: 2016-05-27 23:59
+:tags: seances
+:category: news
+:slug: seance_20160527
+:authors: JackDesBwa
+:summary: Résumé de la séance du 27 mai 2016
+
+Cette séance était très orientée vers l'atelier "Confection et nouvelles
+technologies" du lendemain : installation informatique, derniers tests
+de découpe, installation électrique, décoration du local.
+
+Câblage des PC
+==============
+
+Le matériel était présent et posé sur les tables, mais tous les câbles
+n'étaient pas raccordés. Ce fut donc l'occasion de terminer
+l'installation informatique : arrivée électrique, branchement des
+écrans et unités centrales, infrastructure réseau... et de tester leur
+bon fonctionnement.
+
+Installation électrique
+=======================
+
+Il n'y a pas que les PC qui ont besoin d'une nourriture électrique. Nous
+avons donc également préparé les rallonges et multiprises pour l'écran
+de présentation, la bouilloire, les machines à coudre et la découpeuse
+numérique.
+
+Partage de fichiers
+===================
+
+Pour faciliter le transfert des fichiers de découpe, nous avons mis en
+place un partage de fichiers en réseau avec le logiciel samba. N'étant
+pas familiers de celui-ci et de son jargon, la configuration a été
+pénible.
+
+Mais quelle joie lorsque la bonne configuration a été trouvée !
+
+Tests de découpe
+================
+
+Un atelier c'est beau, mais encore faut-il s'assurer que tout
+fonctionne. Pour anticiper d'éventuels problèmes, nous avons choisi
+quelques modèles déjà préparés sur le web et avons vérifié que la
+découpe était bonne.
+
+Ce fût une bonne idée de tester puisque l'un d'entre eux ne permettait
+pas une découpe adaptée à la couture.
+
+Nous avons également essayé avec différents tissus et avons pu constater
+une grande variabilité de résultats.
+
+Modèles personnalisés
+=====================
+
+À la fois pour permettre à chacun de dessiner son modèle unique s'il le
+souhaite, et aussi parce que le modèle qui ne fonctionnait pas tenait à
+cœur à Suzy-Lou, nous avons testé un modèle créé de toute pièce.
+
+Florent a dessiné une silhouette inspirée du modèle en question avec
+Inkscape. L'export et l'impression se sont alors passés sans accroc.
+Cependant, le découpage était plus lent qu'avec les modèles téléchargés.
+
+Après quelques analyses, nous nous sommes aperçus que le modèle importé
+comportait beaucoup de nœuds dans son chemin et qu'alors la découpeuse
+réalisait beaucoup de petits déplacements. Une option dans le logiciel
+de la machine permet de simplifier le chemin, ce qui élimine quelques
+nœuds en détériorant peu la forme. La découpe était alors plus rapide.
+
+Tablette graphique
+==================
+
+Dessiner avec la souris n'est pas aisé pour tout le monde. Nous avons
+installé (certes, il n'y avait qu'une prise USB à brancher) deux
+tablettes graphiques.
+
+Nous pensions proposer de dessiner sur un papier et retracer par dessus
+avec la tablette, mais c'est finalement un procédé assez complexe
+(notamment, la taille de la zone sensible est finalement assez petite).
+
+Écran de présentation
+=====================
+
+Hier, Corentin avait proposé de réaliser un écran connecté. Il n'a
+malheureusement pas réussi à terminer son projet dans un délai si court.
+Une partie était faite cependant et nous avons installé son système sur
+l'écran nouvellement réparé du local.
+
+Symptôme classique des projets réalisés dans un temps trop court :
+quelques bugs venaient détériorer le rendu visuel, mais nous avons
+apprécié l'idée du diaporama photo des activités du haum.
+
+Face à ces petits soucis, nous avons décidé de récupérer les photos
+choisies (et compléter la liste) pour les faire défiler avec un autre
+appareil qui afficherait aussi si possible le fil twitter du haum où des
+photos de l'atelier seront diffusées.
+
+Grand nettoyage
+===============
+
+Enfin, pour terminer la soirée, un dernier aménagement et un grand
+nettoyage [qui clôture la phase d'installation du nouveau local] ont été
+réalisés. On dit même que la serpillère aurait été passée.
