@@ -9,7 +9,7 @@ Atelier confection et nouvelles technologies 1
 :authors: JackDesBwa
 :summary: Rétrospective de l'atelier confection et nouvelles technologies du 28 mai 2016
 
-Samedi 28 mai 2016, en collaboration avec la startup AniBlue, le HAUM
+Samedi 28 mai 2016, en collaboration avec la startup AniBlue_, le HAUM
 proposait un atelier "confection et nouvelles technologies" dans ses
 locaux. Sur le thème "doudous et bouillottes", les bricoleurs et
 bricoleuses ont pu mélanger confection traditionnelle et technologie
@@ -55,7 +55,7 @@ Un tel atelier requiert beaucoup de matériel.
 Informatique
 ------------
 
-Avec l'aide de l'association LinuxMaine, nous avions mis à disposition
+Avec l'aide de l'association LinuxMaine_, nous avions mis à disposition
 trois ordinateurs pour réaliser les dessins à découper avec des outils
 Libres.
 
@@ -239,3 +239,6 @@ couture dans le hackerspace.
 .. container:: aligncenter
 
 	[flickr:id=27048002430]
+	
+.. _LinuxMaine: http://linuxmaine.org 
+.. _AniBlue: http://www.aniblue.net/
