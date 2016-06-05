@@ -1,0 +1,54 @@
+=====================
+Séance du 5 juin 2016
+=====================
+
+:date: 2016-06-05 20:00
+:tags: seances
+:category: news
+:slug: seance_20160605
+:authors: JackDesBwa
+:summary: Résumé de la séance du 5 juin 2016
+
+Cette séance dominicale a vu passer quelques bidouilleurs au HAUM, peu
+nombreux et néanmoins productifs.
+
+Flexagones pour le SHAUM
+========================
+
+Des invitations papier pour le SHAUM... quelques unes, et surtout loin
+d'être banales ! Pour souligner l'originalité du lieu, quelques
+invitations seront remises sous la forme de flexagones. Le cerveau de
+Laurent a tourné l'idée dans tous les sens et a abouti à une forme
+sympathique. Aujourd'hui, l'objectif était de les rendre découpables
+avec la découpeuse numérique.
+
+Et c'est gagné. Malgré l'ergonomie effroyable du logiciel de l'outil
+(même s'il joue de belles animations) nous avons réussi à préparer ce
+que nous voulions. En fin de séance, la feuille imprimée était coupée
+sur les bords et à l'intérieur pour former le patron du flexagone et des
+marques de pliage étaient réalisées par la découpeuse. Ouf.
+
+La prochaine étape est donc d'imprimer quelques exemplaires en couleur
+et les faire préparer par la découpeuse numérique.
+
+Montage du dHAUM
+================
+
+Parmi les projets du HAUM, le dHaum est une installation incontournable.
+Elle se doit donc d'être présente pendant le SHAUM.
+
+Pour ne pas se contenter de photos, nous avons voulu le monter dans le
+local. Pari gagné : il y entre sans exploser le plafond. Nous avons même
+pu installer un petit salon à l'intérieur depuis lequel nous avons joué
+au Pong1D. La grande classe !
+
+Dump imprimante 3D
+==================
+
+En fin de séance, Mehdi est passé chouchouter l'imprimante 3D. Damn,
+impossible de lui parler à nouveau. Après quelques cheveux arrachés, la
+raison tombe sous le sens : deux fils étaient inversés.
+
+Une fois tout dans le bon ordre, nous avons réalisé la copie de
+l'intégralité de sa mémoire flash pour l'analyser depuis un PC. Affaire
+à suivre.
