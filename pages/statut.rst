@@ -13,7 +13,7 @@ Le local est-il ouvert ?
     </p>
     <script type="text/javascript">
         $(document).ready(function() {
-            $.getJSON("http://spaceapi.net/new/space/haum/status/json", function(data) {
+            $.getJSON("https://svallee.fr/spaceapi.json", function(data) {
                 if (data.state.open)
                     $("#spaceapi_open_page").html('<img src="/theme/images/open.png">');
             });
