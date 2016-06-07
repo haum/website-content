@@ -13,7 +13,7 @@ Le local est-il ouvert ?
     </p>
     <script type="text/javascript">
         $(document).ready(function() {
-            $.getJSON("//haum.org/spaceapi.json", function(data) {
+            $.getJSON("//haum.org/json", function(data) {
                 if (data.state.open)
                     $("#spaceapi_open_page").html('<img src="/theme/images/open.png">');
             });
