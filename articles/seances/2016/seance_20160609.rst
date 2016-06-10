@@ -6,20 +6,49 @@ Séance du 9 juin 2016
 :tags: seances
 :category: news
 :slug: seance_20160609
-:authors: Fabien Bataille
+:authors: Fabien Bataille, Romain
 :summary: Résumé de la séance du 9 juin 2016
 
 
 Assemblée constitutive de TILIMA
 ================================
 
-Le local du HAUM a accueilli ce jeudi les futurs membres du prochain Fournisseur d'Acces à Internet.
-La dizaine de personnes venues pour l'occasion a relu attentivement et fait quelques modifications sur le projet de statut.
-La prochaine réunion est prévue le 6 juillet à l'espace Coluche au Mans.
+Le local du HAUM a accueilli ce jeudi les futurs membres du prochain
+Fournisseur d'Accès à Internet.
 
-Bidouilles 
-==========
+La dizaine de personnes venues pour l'occasion a relu attentivement et fait
+quelques modifications sur le projet de statut.  La prochaine réunion est
+prévue le 6 juillet à l'espace Coluche au Mans.
 
-En droite ligne continue de l'atelier d'Aniblue (Confection et nouvelles technologies), la machine a coudre s'est encore fait entendre cette séance et a permis de faire naitre un superbe lapinou.
-Ce lapinou encore prématuré doit encore être pourvu d'yeux à base de boutons et d'un pompom en guise de queue.
-En attendant il peut d'ors et déjà faire son office de doudou !
+Doudou lapinou
+==============
+
+En droite ligne continue de `l'atelier d'Aniblue`_ (Confection et nouvelles
+technologies), la machine a coudre s'est encore fait entendre cette séance et a
+permis de faire naitre un superbe lapinou.
+
+Ce lapinou encore prématuré doit encore être pourvu d'yeux à base de boutons et
+d'un pompom en guise de queue. En attendant il peut d'ors et déjà faire son
+office de doudou !
+
+.. _l'atelier Bidouillesd'Aniblue: /atelier_20160528.html
+
+Laumio pour l'euro
+==================
+
+Faire afficher sur un Laumio les couleurs de la France, voici le défi que
+Romain s'est lancé en cette soirée afin de prendre en main ce bel objet
+connecté *made in HAUM*.
+
+Rejoint plus tard par d'autres membres curieux attirés par l'enchaînement pas
+encore au point de couleurs sur le globe, le groupe est finalement parvenu à
+faire tourner le drapeau tricolore sur le globe tout en utilisant la ruse pour
+contourner certain bugs découverts pendant cette séance :
+
+- Lenteur du traitement d'un paquet UDP provoquant des bugs graphiques si
+  envoyés trop rapidement ;
+- Impossibilité de changer la couleur des 3 dernières LEDs autrement que par la
+  fonction de remplissage.
+
+Il reste donc du travail à faire, des bugs à corriger, mais la motivation est
+là et le drapeau tourne autour du Laumio !
