@@ -13,12 +13,14 @@ Séance du 9 juin 2016
 Assemblée constitutive de TILIMA
 ================================
 
-Le local du HAUM a accueilli ce jeudi les futurs membres du prochain
-Fournisseur d'Accès à Internet.
+Le HAUM a accueilli ce jeudi en son local les membres de `TILIMA`_, le
+futur FAI local, pour son AG constitutive.
 
-La dizaine de personnes venues pour l'occasion a relu attentivement et fait
-quelques modifications sur le projet de statut.  La prochaine réunion est
-prévue le 6 juillet à l'espace Coluche au Mans.
+La dizaine de personnes venue pour l'occasion a relu attentivement les futurs
+statuts de l'association et y ont apporté quelques modifications.
+La prochaine réunion est prévue le 6 juillet à l'espace Coluche au Mans.
+
+.. _TILIMA: http://tilima.fr/
 
 Doudou lapinou
 ==============
@@ -31,19 +33,19 @@ Ce lapinou encore prématuré doit encore être pourvu d'yeux à base de boutons
 d'un pompom en guise de queue. En attendant il peut d'ors et déjà faire son
 office de doudou !
 
-.. _l'atelier Bidouillesd'Aniblue: /atelier_20160528.html
+.. _l'atelier d'Aniblue: /atelier_20160528.html
 
 Laumio pour l'euro
 ==================
 
-Faire afficher sur un Laumio les couleurs de la France, voici le défi que
+Faire s'afficher sur un Laumio les couleurs de la France, voici le défi que
 Romain s'est lancé en cette soirée afin de prendre en main ce bel objet
 connecté *made in HAUM*.
 
 Rejoint plus tard par d'autres membres curieux attirés par l'enchaînement pas
 encore au point de couleurs sur le globe, le groupe est finalement parvenu à
-faire tourner le drapeau tricolore sur le globe tout en utilisant la ruse pour
-contourner certain bugs découverts pendant cette séance :
+faire tourner le drapeau tricolore sur le dit globe tout en jouant de ruse pour
+contourner certains bugs découverts pendant cette séance :
 
 - Lenteur du traitement d'un paquet UDP provoquant des bugs graphiques si
   envoyés trop rapidement ;
@@ -58,3 +60,25 @@ Robotique
 
 Suite à l'assemblée Tilima, un groupe de passionnés en robotique s'est formé et a pu échanger leur expérience dans le domaine. 
 Différents sujets ont été abordés tels que la reconnaissance d'images, l’asservissement, Arduino et STM. Lors de cette conversation, qui s'est décidément étendue jusqu'au bout de la nuit, la possibilité de créer des projets robotiques au HAUM a même été évoquée.
+
+Discussion SHAUM
+================
+
+Il a été jugé évident que la date du 16 juin devenait intenable vu que
+les adresses postales et mails ne sont pas encore collectés, les
+flexagones d'invitation pas encore découpés.
+
+Les dates des jeudis suivants étant déjà bien remplis, HaumTalk (23),
+AgileLaval (30).
+
+Après concertation avec les membres présents, il a été proposé la date
+du 22 septembre, avec les arguments suivants:
+
+- Peut être plus judicieux de faire un événement en début plutôt qu'en
+  fin d'année scolaire, cela lance un dynamique au lieu d'avoir tout de
+  suite après l'évènement le calme plat des vacances.
+- Cela laisse les vacances + une partie de septembre et juin pour
+  continuer d'aménager le local avec des démos.
+- Envoyer les invitations
+- Peaufiner les discours
+- etc...
