@@ -52,3 +52,9 @@ contourner certain bugs découverts pendant cette séance :
 
 Il reste donc du travail à faire, des bugs à corriger, mais la motivation est
 là et le drapeau tourne autour du Laumio !
+
+Robotique
+=========
+
+Suite à l'assemblée Tilima, un groupe de passionnés en robotique s'est formé et a pu échanger leur expérience dans le domaine. 
+Différents sujets ont été abordés tels que la reconnaissance d'images, l’asservissement, Arduino et STM. Lors de cette conversation, qui s'est décidément étendue jusqu'au bout de la nuit, la possibilité de créer des projets robotiques au HAUM a même été évoquée.
