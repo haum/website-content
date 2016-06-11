@@ -8,16 +8,17 @@ Séance du 9 juin 2016
 :slug: seance_20160609
 :authors: Fabien Bataille, Romain
 :summary: Résumé de la séance du 9 juin 2016
+:status: draft
 
 
 Assemblée constitutive de TILIMA
 ================================
 
-Le HAUM a accueilli ce jeudi en son local les membres de `TILIMA`_, le
+Ce jeudi, le HAUM a accueilli en son local les membres de `TILIMA`_, le
 futur FAI local, pour son AG constitutive.
 
 La dizaine de personnes venue pour l'occasion a relu attentivement les futurs
-statuts de l'association et y ont apporté quelques modifications.
+statuts de l'association et y a apporté quelques modifications.
 La prochaine réunion est prévue le 6 juillet à l'espace Coluche au Mans.
 
 .. _TILIMA: http://tilima.fr/
@@ -25,15 +26,15 @@ La prochaine réunion est prévue le 6 juillet à l'espace Coluche au Mans.
 Doudou lapinou
 ==============
 
-En droite ligne continue de `l'atelier d'Aniblue`_ (Confection et nouvelles
-technologies), la machine à coudre s'est encore fait entendre cette séance et a
+En droite ligne continue de `l'atelier Confection et nouvelles technologies`_,
+la machine à coudre s'est encore fait entendre cette séance et a
 permis de faire naitre un superbe lapinou.
 
-Ce lapinou encore prématuré doit encore être pourvu d'yeux à base de boutons et
-d'un pompom en guise de queue. En attendant il peut d'ors et déjà faire son
+Ce lapinou encore prématuré doit maintenant être pourvu d'yeux à base de boutons et
+d'un pompon en guise de queue. En attendant, il peut d'ores et déjà faire son
 office de doudou !
 
-.. _l'atelier d'Aniblue: /atelier_20160528.html
+.. _l'atelier Confection et nouvelles technologies: /atelier_20160528.html
 
 Laumio pour l'euro
 ==================
@@ -42,9 +43,9 @@ Faire s'afficher sur un Laumio les couleurs de la France, voici le défi que
 Romain s'est lancé en cette soirée afin de prendre en main ce bel objet
 connecté *made in HAUM*.
 
-Rejoint plus tard par d'autres membres curieux attirés par l'enchaînement pas
-encore au point de couleurs sur le globe, le groupe est finalement parvenu à
-faire tourner le drapeau tricolore sur le dit globe tout en jouant de ruse pour
+Rejoint plus tard par d'autres membres curieux, attirés par l'enchaînement (pas
+encore au point) de couleurs sur le globe, le groupe est finalement parvenu à
+faire tourner le drapeau tricolore sur ledit globe tout en jouant de ruse pour
 contourner certains bugs découverts pendant cette séance :
 
 - Lenteur du traitement d'un paquet UDP provoquant des bugs graphiques si
@@ -75,7 +76,7 @@ Après concertation avec les membres présents, il a été proposé la date
 du 22 septembre, avec les arguments suivants:
 
 - Peut être plus judicieux de faire un événement en début plutôt qu'en
-  fin d'année scolaire, cela lance un dynamique au lieu d'avoir tout de
+  fin d'année scolaire, cela lance une dynamique au lieu d'avoir tout de
   suite après l'évènement le calme plat des vacances.
 - Cela laisse les vacances + une partie de septembre et juin pour
   continuer d'aménager le local avec des démos.
