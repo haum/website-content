@@ -83,3 +83,8 @@ du 22 septembre, avec les arguments suivants:
 - Envoyer les invitations
 - Peaufiner les discours
 - etc...
+
+Du nouveau sur l'imprimante 3D Flashforge
+=========================================
+
+Comme vous le savez si vous avez suivi les séances précedentes, la flashforge Dreamer est en cours de tentative de réparation. La carte mère (Flashforge CoreBoard Rev B) étant équipée d'un STM32F407, nous avons essayé de trouver pourquoi elle plantait au démarrage à l'aide d'un émulateur STLINK. La raison exacte n'ayant pas été trouvée, elle a été flashée avec un dump mémoire d'une machine fonctionnelle. Cela n'a pas résolu le plantage au démarrage, mais à ajouté "check id fail" sur l'écran. Son dépannage sans changer la carte risque de s'avérer encore plus compliqué que prévu.
