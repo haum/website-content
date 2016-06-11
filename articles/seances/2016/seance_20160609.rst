@@ -8,6 +8,7 @@ Séance du 9 juin 2016
 :slug: seance_20160609
 :authors: Fabien Bataille, Romain
 :summary: Résumé de la séance du 9 juin 2016
+:status: draft
 
 
 Assemblée constitutive de TILIMA
