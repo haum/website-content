@@ -32,8 +32,8 @@ Projet HPP
 
 Fabien est venu faire avancer son horloge en produisant une nouvelle aiguille.
 
-Il avait déjà essayé le mardi d'avant mais la nouvelle machine pour PCB@HAUM ne
-le voyait pas du même œil. Les 2 tentatives de transfert sur PCB se sont
+Il avait déjà essayé le mardi d'avant mais la nouvelle machine pour PCB @ HAUM
+ne le voyait pas du même œil. Les 2 tentatives de transfert sur PCB se sont
 transformées en une soirée « fondue de PNP bleu sur pierrade en cuivre » !!
 Problème de sonde ou les préconisations inscrites sur la plastifieuse étaient
 trop élevées ? Il a fallu encore 2 tentatives ce mardi pour obtenir un
