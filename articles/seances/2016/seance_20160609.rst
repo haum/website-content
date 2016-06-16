@@ -6,7 +6,7 @@ Séance du 9 juin 2016
 :tags: seances
 :category: news
 :slug: seance_20160609
-:authors: Fabien Bataille, Romain
+:authors: Fabien Bataille, Romain, Mehdi, Wojciech
 :summary: Résumé de la séance du 9 juin 2016
 :status: draft
 
@@ -59,8 +59,13 @@ là et le drapeau tourne autour du Laumio !
 Robotique
 =========
 
-Suite à l’assemblée Tilima, un groupe de passionnés en robotique s’est formé et a pu échanger leurs expériences dans le domaine.
-Différents sujets ont été abordés tels que la reconnaissance d’image, l’asservissement, Arduino et STM. Lors de cette conversation, qui s’est décidément étendue jusqu’au bout de la nuit, la possibilité de créer des projets robotiques au HAUM a même été évoquée.
+Suite à l’assemblée Tilima, un groupe de passionnés en robotique s’est formé et
+a pu échanger leurs expériences dans le domaine.
+
+Différents sujets ont été abordés tels que la reconnaissance d’image,
+l’asservissement, Arduino et STM. Lors de cette conversation, qui s’est
+décidément étendue jusqu’au bout de la nuit, la possibilité de créer des
+projets robotiques au HAUM a même été évoquée.
 
 Discussion SHAUM
 ================
@@ -87,4 +92,14 @@ du 22 septembre, avec les arguments suivants:
 Du nouveau sur l'imprimante 3D Flashforge
 =========================================
 
-Comme vous le savez si vous avez suivi les séances précedentes, la flashforge Dreamer est en cours de tentative de réparation. La carte mère (Flashforge CoreBoard Rev B) étant équipée d'un STM32F407, nous avons essayé de trouver pourquoi elle plantait au démarrage à l'aide d'un émulateur STLINK. La raison exacte n'ayant pas été trouvée, elle a été flashée avec un dump mémoire d'une machine fonctionnelle. Cela n'a pas résolu le plantage au démarrage, mais à ajouté "check id fail" sur l'écran. Son dépannage sans changer la carte risque de s'avérer encore plus compliqué que prévu.
+Comme vous le savez si vous avez suivi les séances précedentes, la flashforge
+Dreamer est en cours de tentative de réparation.
+
+La carte mère (Flashforge CoreBoard Rev B) étant équipée d'un STM32F407, nous
+avons essayé de trouver pourquoi elle plantait au démarrage à l'aide d'un
+émulateur STLINK. La raison exacte n'ayant pas été trouvée, elle a été flashée
+avec un dump mémoire d'une machine fonctionnelle. Cela n'a pas résolu le
+plantage au démarrage, mais à ajouté "check id fail" sur l'écran.
+
+Son dépannage sans changer la carte risque de s'avérer encore plus compliqué
+que prévu.
