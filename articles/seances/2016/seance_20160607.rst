@@ -1,0 +1,73 @@
+=====================
+Séance du 7 juin 2016
+=====================
+
+:date: 2016-06-07 20:00
+:tags: seances
+:category: news
+:slug: seance_20160609
+:authors: Fabien R., Romain
+:summary: Résumé de la séance du 7 juin 2016
+
+Cette session se caractérise par l'arrivée d'AxiHAUM au local et donc mérite
+largement son résumé de séance !
+
+Arrivée de Axihaum
+==================
+
+La bête est enfin arrivée !
+
+Majestueusement dressée sur son piédestal hacké par les bons soins du HAUM (ou
+comment transformer une perceuse de PCB en fraiseuse numérique), elle a passé
+la porte discrètement (elle nous fera la surprise de nous faire profiter de ses
+vocalises plus tard je n'en doute pas) mais néanmoins escortée par notre
+président, notre nouveau comptable et quelques autres...
+
+La séance fut consacrée à lui préparer un petit nid douillet en attendant de
+pouvoir la démarrer et l'entendre rugir.
+
+
+Projet HPP
+==========
+
+Fabien est venu faire avancer son horloge en produisant une nouvelle aiguille.
+
+Il avait déjà essayé le mardi d'avant mais la nouvelle machine pour PCB@HAUM ne
+le voyait pas du même œil. Les 2 tentatives de transfert sur PCB se sont
+transformées en une soirée « fondue de PNP bleu sur pierrade en cuivre » !!
+Problème de sonde ou les préconisations inscrites sur la plastifieuse étaient
+trop élevées ? Il a fallu encore 2 tentatives ce mardi pour obtenir un
+transfert réussi.
+
+ATTENTION DONC : la température pour le PNP bleu a été redescendue à 135-140°C
+par sécurité. 3 passes ont été faites pour être sur et le circuit s'est bien
+transféré. Peut-être que 2 passes voire une seule aurait suffi mais voilà,
+Fabien voulait être sur du coup. Réglages à investiguer pour cette
+PCBlastifieuse2...
+
+La suite logique a été de couler un bon bain d'acide dilué au peroxyde
+d'hydrogène (ouais de l'eau oxygénée quoi !) à cette nouvelle création
+HAUM-made ! Vu que c'était la première fois de sa vie que Fabien donnait un
+bain d'acide de ses propres mains, gantées qui plus est, donc avec sensibilité
+réduite, il n'a pas laissé assez longtemps la magie opérer et certains micro
+espaces entre les empreintes des LEDs ont du être finis au cutter. N'oubliez
+donc pas de vérifier la ionisation complète du cuivre avant de vider l'eau du
+bain !
+
+Prochaine étape mardi prochain : percer cette nouvelle carte et souder les
+composants puis, si l'heure n'est pas trop avancée, tester le codage de
+l'horloge qui fonctionne déjà avec deux aiguilles. Oui, les heures et les
+minutes défilent déjà sur le moignon d'horloge ou horloge à deux pattes !
+
+
+TV connectée
+============
+
+Romain et Sébastien se démènent pour tenter de rendre ces belles animations QML
+de manière fluide sur la TV. Malgré de nombreux essais et après avoir usé la
+presque première page de Google sur le sujet, une solution proposée par Romuald
+semble prometteuse : utiliser le projet Yocto afin de compiler notre propre
+image « Boot2Qt » ; compiler, oui, car il semble que les versions
+pré-construites soient payantes.
+
+L'espoir de voir cette télévision s'animer impunément est bien présent.
