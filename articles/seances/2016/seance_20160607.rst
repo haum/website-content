@@ -5,7 +5,7 @@ Séance du 7 juin 2016
 :date: 2016-06-07 20:00
 :tags: seances
 :category: news
-:slug: seance_20160609
+:slug: seance_20160607
 :authors: Fabien R., Romain
 :summary: Résumé de la séance du 7 juin 2016
 
