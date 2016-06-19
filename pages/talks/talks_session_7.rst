@@ -1,7 +1,7 @@
-HAUMTalks #6
+HAUMTalks #7
 ############
 
-:slug: talks_session6
+:slug: talks_session7
 
 `Retour à la liste des HAUMTalks`_
 
