@@ -25,6 +25,7 @@ La prochaine session de talks est prévue le jeudi 23 juin, à partir de 18h30.
 Sessions précédentes
 --------------------
 
+- `Session 7 (juin 2016) <talks_session7.html>`_
 - `Session 6 (avril 2016) <talks_session6.html>`_
 - `Session 5 (mars 2016) <talks_session5.html>`_
 - `Session 4 (février 2016) <talks_session4.html>`_
