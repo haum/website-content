@@ -21,6 +21,15 @@ Qu'il sache lacer ses chaussures !
 
 Talk proposé par Florent 
 
+Nous apprenons à lacer nos chaussures bien avant l'adolescence.
+Pourtant, il arrive de devoir nouer à nouveau ses lacets car ils se
+défont ; dans ces cas-là, il est fréquent de devoir recommencer plusieurs
+fois dans la journée : c'est probablement parce que la technique a mal été
+acquise.
+
+Ce talk propose une petite séance de rattrapage en laçage de chaussures,
+pour avoir des lacets qui tiennent toute la journée sans double nœud.
+
 .. container:: aligncenter
 
     .. raw:: html
