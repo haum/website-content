@@ -25,7 +25,7 @@ Talk proposé par Florent
 
     .. raw:: html
 
-        <b>To appear.</b>
+        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -41,7 +41,7 @@ Talk proposé par Yannick
 
     .. raw:: html
 
-        <b>To appear.</b>
+        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -57,7 +57,7 @@ Talk proposé par Jean-Marc
 
     .. raw:: html
 
-        <b>To appear.</b>
+        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -73,7 +73,7 @@ Talk proposé par Gwenael
 
     .. raw:: html
 
-        <b>To appear.</b>
+        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
