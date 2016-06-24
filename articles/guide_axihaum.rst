@@ -8,6 +8,7 @@ Guide pour l'usinage sur AxiHaum
 :slug: guide_axihaum
 :authors: Marc
 :summary: Tous les conseils pour réaliser un usinage sur l'AxiHaum, la fraiseuse numérique du Haum.
+:status: draft
 
 Ce guide à pour but de détailler des différentes étapes de réalisation d'un usinage.
 
