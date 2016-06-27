@@ -34,7 +34,7 @@ au cours des jours suivant les attaques.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks3/1_twitter_720p.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks3/1_twitter_720p.mp4" type="video/mp4">
         </video>
 
 - `Diaporama #ParisAttacks (PDF) </images/talks/parisattacks_social_analysis.pdf>`_
@@ -60,7 +60,7 @@ a-t-il était conçu ?
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks3/3_mails_720p.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks3/3_mails_720p.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -83,7 +83,7 @@ de machines (éventuellement réparties sur le globe) simplement.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks3/4_vpn_720p.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks3/4_vpn_720p.mp4" type="video/mp4">
         </video>
 
 - `Lien vers le diaporama (PDF) </images/talks/un_vpn_pourquoi_comment.pdf>`_
@@ -114,7 +114,7 @@ société de demain.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks3/5_pairapair_720p.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks3/5_pairapair_720p.mp4" type="video/mp4">
         </video>
 
 `Retrouvez la présentation ici <https://fluidlog.hackpad.com/Talk-Carto-PAIR-PAIR-kSoqSo169Af>`_

@@ -30,7 +30,7 @@ Talk proposé par Yannick
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks5/1_monnaie.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks5/1_monnaie.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -58,7 +58,7 @@ de plus en plus populaires dans le monde du développement logiciel.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks5/2_github.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks5/2_github.mp4" type="video/mp4">
         </video>
 
 
@@ -84,7 +84,7 @@ En quelques dizaines de minutes il a réalisé un exemple d'utilisation de cette
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks5/3_musique.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks5/3_musique.mp4" type="video/mp4">
         </video>
 
 
@@ -105,7 +105,7 @@ Talk proposé par Simon
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks5/4_fai.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks5/4_fai.mp4" type="video/mp4">
         </video>
 
 

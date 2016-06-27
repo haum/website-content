@@ -24,7 +24,7 @@ musique est dressée, ainsi que qu'une présentation d'un concert type.
 
 Aucun enregistrement n’est disponible pour ce talk.
 
-- `Diapos du talk (PDF) <http://haum.org/images/talks/ravi_shankar_presentation.pdf>`_
+- `Diapos du talk (PDF) </images/talks/ravi_shankar_presentation.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 

@@ -30,7 +30,7 @@ Talk proposé par Romain
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks6/1_internet.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks6/1_internet.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -48,7 +48,7 @@ Talk proposé par Fabien
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks6/2_holacratie.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks6/2_holacratie.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -66,7 +66,7 @@ Talk proposé par Jean-Marc
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks6/3_mecanique.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks6/3_mecanique.mp4" type="video/mp4">
         </video>
 
 Petite incursion dans la monde de la mécanique de tous les jours, à commencer
@@ -92,7 +92,7 @@ Talk proposé par Alexandre
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks6/4_cc.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks6/4_cc.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_

@@ -26,7 +26,7 @@ Talk proposé par Vincent J.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks4/1_prix_libre.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks4/1_prix_libre.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -44,7 +44,7 @@ Talk proposé par Simon D.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks4/2_amap.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks4/2_amap.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -62,7 +62,7 @@ Talk proposé par Mathieu G.
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks4/3_erreurs.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks4/3_erreurs.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
@@ -88,7 +88,7 @@ N'oubliez pas que le premier conseil est de bouger, bouger, bouger ; et faites a
     .. raw:: html
 
         <video width="560" height="315" controls>
-            <source src="http://haum.svallee.fr/talks4/4_photo.mp4" type="video/mp4">
+            <source src="https://haum.svallee.fr/talks4/4_photo.mp4" type="video/mp4">
         </video>
 
 - `Diaporama de la présentation (PDF) </images/talks/conseils_photos.pdf>`_
