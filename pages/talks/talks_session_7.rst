@@ -7,12 +7,68 @@ HAUMTalks #7
 
 .. _Retour à la liste des talks de cette session:
 
-Pour cette séance organisée le 23 juin 2016, 4 talks ont été proposés :
+Pour cette séance organisée le 23 juin 2016, première organisée dans le nouveau
+local, 4 talks ont été proposés :
 
-- `Qu'il sache lacer ses chaussures !`_
 - `Les grands voisins, un exemple de lieu alternatif`_
-- `Chimie quotidienne`_
 - `Devops of things`_
+- `Chimie quotidienne`_
+- `Qu'il sache lacer ses chaussures !`_
+
+
+.. _Les grands voisins, un exemple de lieu alternatif:
+
+Les grands voisins, un exemple de lieu alternatif
+-------------------------------------------------
+
+Talk proposé par Yannick 
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks7/1_voisins.mp4" type="video/mp4">
+        </video>
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
+
+.. _Devops of things:
+
+Devops of things
+----------------
+
+Talk proposé par Gwenael 
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks7/2_devops.mp4" type="video/mp4">
+        </video>
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
+
+.. _Chimie quotidienne:
+
+Chimie quotidienne
+------------------
+
+Talk proposé par Jean-Marc
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks7/3_chimie.mp4" type="video/mp4">
+        </video>
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
 
 .. _Qu'il sache lacer ses chaussures !:
 
@@ -34,55 +90,9 @@ pour avoir des lacets qui tiennent toute la journée sans double nœud.
 
     .. raw:: html
 
-        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
-
-- `Retour à la liste des talks de cette session`_
-- `Retour à la liste des HAUMTalks`_
-
-.. _Les grands voisins, un exemple de lieu alternatif:
-
-Les grands voisins, un exemple de lieu alternatif
--------------------------------------------------
-
-Talk proposé par Yannick 
-
-.. container:: aligncenter
-
-    .. raw:: html
-
-        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
-
-- `Retour à la liste des talks de cette session`_
-- `Retour à la liste des HAUMTalks`_
-
-.. _Chimie quotidienne:
-
-Chimie quotidienne
-------------------
-
-Talk proposé par Jean-Marc
-
-.. container:: aligncenter
-
-    .. raw:: html
-
-        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
-
-- `Retour à la liste des talks de cette session`_
-- `Retour à la liste des HAUMTalks`_
-
-.. _Devops of things:
-
-Devops of things
-----------------
-
-Talk proposé par Gwenael 
-
-.. container:: aligncenter
-
-    .. raw:: html
-
-        <b>&lt;-- Bientôt une vidéo ? --&gt;</b>
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks7/4_lacets.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
