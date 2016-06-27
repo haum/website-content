@@ -94,6 +94,7 @@ pour avoir des lacets qui tiennent toute la journée sans double nœud.
             <source src="https://haum.svallee.fr/talks7/4_lacets.mp4" type="video/mp4">
         </video>
 
+- `Diaporama du talk (PDF) </images/talks/lacets.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
