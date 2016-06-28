@@ -1,0 +1,24 @@
+======================
+Séance du 28 juin 2016
+======================
+
+:date: 2016-06-28 21:00
+:tags: seances
+:category: news
+:slug: seance_20160628
+:authors: Corentin
+:summary: Résumé de la séance du 26 juin 2016
+
+Faire de la musique avec un lecteur disquette
+=============================================
+
+Ce soir Corentin, aidé de Romain, a testé de faire du bruit avec un vieux lecteur disquette trouvé dans le FreeToHack. Après s'être documenté, ils ont tenté de mettre en place un bout de code nommé Moppy mais sans succés pour le moment. En effet, d'après les photos de la documentation, les lecteurs disquettes mise en oeuvre semblaient avoir des disquettes à l'intérieur et n'ayant pas de disquettes sous la main ont dû arrêter leurs recherches.
+
+Pour les curieux, la documentation utilisée se trouve ici_ et le code Moppy à cette adresse_.
+
+.. _ici: http://www.instructables.com/id/How-to-Make-Musical-Floppy-Drives/?ALLSTEPS
+.. _adresse: https://github.com/SammyIAm/Moppy
+
+Hack d'un afficheur à persistance rétinienne
+============================================
+Méhdi a hacké l'afficheur à persistance rétinienne en remplaçant le microcontroleur inconnu par un STM32 afin de pouvoir programmer ce que l'on souhaite. Ainsi qu'une modification du cablage afin de pouvoir utilisé le nouveau processeur installé. Reste encore la partit logicielle à développer.
