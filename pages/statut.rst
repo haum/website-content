@@ -14,8 +14,7 @@ Le local est-il ouvert ?
     <script type="text/javascript">
         $(document).ready(function() {
             $.get("/spacestatus", function(data) {
-		console.log(data);
-                if (data)
+                if (data==1)
                     $("#spaceapi_open_page").html('<img src="/theme/images/open.png">');
             });
         });
