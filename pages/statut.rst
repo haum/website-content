@@ -13,8 +13,9 @@ Le local est-il ouvert ?
     </p>
     <script type="text/javascript">
         $(document).ready(function() {
-            $.getJSON("//haum.org/json", function(data) {
-                if (data.state.open)
+            $.get("/spacestatus", function(data) {
+		console.log(data);
+                if (data)
                     $("#spaceapi_open_page").html('<img src="/theme/images/open.png">');
             });
         });
