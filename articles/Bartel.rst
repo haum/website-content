@@ -7,7 +7,7 @@ Build d'une borne d'arcade raspberry nomade
 :category: hack
 :slug: bartel_build
 :authors: Marc
-:summary:
+:summary: Modification d'un minitel en console rétro à base de Raspberry Pi
 :status: draft
 
 Il y a 4 mois je me suis lancé dans la fabrication d'une petite borne nomade basée sur un Minitel de première génération:
