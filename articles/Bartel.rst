@@ -16,25 +16,58 @@ Il y a 4 mois je me suis lancé dans la fabrication d'une petite borne nomade ba
 Le résultat
 -----------
 
-.. image:: http://img4.hostingpics.net/pics/45407720160812023837.jpg
+.. image:: http://img4.hostingpics.net/pics/801152401.jpg
    :align: center
 
-.. image:: http://img4.hostingpics.net/pics/16221120160812023853.jpg
+.. image:: http://img4.hostingpics.net/pics/871202414.jpg
    :align: center
 
-.. image:: http://img4.hostingpics.net/pics/15665620160812023907.jpg
+.. image:: http://img4.hostingpics.net/pics/642689775.jpg
    :align: center
 
-.. image:: http://img4.hostingpics.net/pics/39900320160812023919.jpg
+.. image:: http://img4.hostingpics.net/pics/397377307.jpg
    :align: center
 
-.. image:: http://img4.hostingpics.net/pics/29754420160812023938.jpg
+.. image:: http://img4.hostingpics.net/pics/553136568.jpg
    :align: center
 
-.. image:: http://img4.hostingpics.net/pics/36550520160812023948.jpg
+.. image:: http://img4.hostingpics.net/pics/507907849.jpg
    :align: center
 
-Cette idée ne vient pas de moi, j'ai été insipiré par les *posts* de **Ozone** et de **Glook** ainsi que **minitel Astro** sur FaceBook.
+.. image:: http://img4.hostingpics.net/pics/5468387710.jpg
+   :align: center
+
+.. image:: http://img4.hostingpics.net/pics/8722898311.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/3716595512.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/3465689813.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/5838321314.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/1140588215.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/4393724916.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/9599368917.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/2426101318.jpg
+   :align: center
+      
+.. image:: http://img4.hostingpics.net/pics/7357938319.jpg
+   :align: center
+   
+.. image:: http://img4.hostingpics.net/pics/863985DSC02442.jpg
+   :align: center
+   
+Cette idée ne vient pas de moi, j'ai été insipiré par les *posts* de **Ozone** et de **Glook** (forum.hyperfreespin.fr) ainsi que **minitel Astro** sur FaceBook.
 Je suis immédiatement tombé sous le charme.
 
 Les fonctionnalités
@@ -43,7 +76,8 @@ Les fonctionnalités
 - chassis minitel 1
 - écran LCD 1024*768
 - Joystick Sanwa
-- 10 boutons multicolore seimitsu ps15 commandés chez smallcab (6 de jeu & 2 de start/select sur le pannel)
+- 6 boutons multicolore seimitsu ps15 commandés chez smallcab
+- 2 bouttons de start/select sur le pannel
 - Theme super mario
 - RPi 3
 - retropie
@@ -54,7 +88,7 @@ Les fonctionnalités
 - battery management system
 - indicateur de batterie faible
 - divers:
-
+  - wifi
   - port USB accessible en externe
   - port SD card accessible
 
