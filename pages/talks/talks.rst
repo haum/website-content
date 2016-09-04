@@ -20,7 +20,7 @@ exposé sur le sujet de votre choix.
 Prochaine session
 -----------------
 
-La prochaine session de talks est prévue le jeudi 23 juin, à partir de 18h30.
+La prochaine session de talks est prévue le mardi 13 septembre 2016 à 19h.
 
 Sessions précédentes
 --------------------
