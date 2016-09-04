@@ -3,6 +3,8 @@ PCBlastifieuse
 ==============
 
 :slug: pcblastifieuse
+:projet_realisation: terminé-brightgreen
+:projet_etat: fondu (autodestruction)-red
 
 .. image:: /images/bannieres_projets/pcblastifieuse.1.jpg
 

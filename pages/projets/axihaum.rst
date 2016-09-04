@@ -4,6 +4,9 @@ AxiHAUM
 
 :slug: axihaum
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: fonctionnel, disponible au local-brightgreen
+
 .. container:: alignright
 
     .. image:: /images/axihaum/sauvetage.jpg
@@ -33,4 +36,3 @@ Note importante : le HAUM ne dispose pour le moment d'aucune broche/fraiseuse (o
 .. _matael: http://twitter.com/matael
 .. _jblb: http://twitter.com/jblb_72
 .. _rebrec: https://twitter.com/elfrancesco
-

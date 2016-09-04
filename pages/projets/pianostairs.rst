@@ -4,6 +4,9 @@ PianoStairs
 
 :slug: pianostairs
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: démonté-yellow
+
 Qu'est ce que c'est?
 ====================
 

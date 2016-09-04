@@ -4,6 +4,9 @@ PolychrHAUM
 
 :slug: polychrhaum
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: fonctionnel-brightgreen
+
 Qu'est ce que c'est?
 ====================
 

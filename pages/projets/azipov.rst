@@ -4,6 +4,8 @@ AziPOV
 
 :slug: azipov
 
+:projet_realisation: en réflexion-lightgrey
+
 Qu'est ce que c'est?
 ====================
 

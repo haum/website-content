@@ -4,6 +4,9 @@ HAUMTinsel
 
 :slug: haumtinsel
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: fonctionnel-brightgreen
+
 .. image:: /images/bannieres_projets/haumtinsel.1.jpg
 
 Après avoir réalisé le Pong_ et alors que les fêtes de fin d'année approchait. Le HAUM a décidé de faire une
@@ -97,4 +100,3 @@ Ce projet a permit d'ancrer un peu plus la HAUM dans l'univers du ludique. On r�
 l'an prochain.... affaire à suivre.
 
 .. _HaumTinsel: /pages/haumtinsel.html
-

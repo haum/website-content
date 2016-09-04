@@ -4,6 +4,9 @@ Flexagones
 
 :slug: flexagones
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: fonctionnel-brightgreen
+
 .. image:: /images/bannieres_projets/flexagones.1.jpg
 
 Qu'est ce que c'est?

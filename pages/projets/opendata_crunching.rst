@@ -4,6 +4,9 @@ Opendata Crunching
 
 :slug: opendata-crunching
 
+:projet_realisation: terminé-brightgreen
+:projet_etat: fonctionnel-brightgreen
+
 .. image:: /images/bannieres_projets/opendata-crunching.1.jpg
 
 Au HAUM, on aime les trucs ouverts, les codes sources ouverts, les portes ouvertes, les gens ouverts, les bières

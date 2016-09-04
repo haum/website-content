@@ -4,6 +4,9 @@ Tee-shirts
 
 :slug: teeshirts
 
+:projet_realisation: 2 lots terminés-brightgreen
+:projet_etat: distribués et portés-brightgreen
+
 .. image:: /images/bannieres_projets/teeshirts.1.jpg
 
 Qu'est ce que c'est?
