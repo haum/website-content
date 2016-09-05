@@ -25,6 +25,7 @@ La prochaine session de talks est prévue le mardi 13 septembre 2016 à 19h.
 Sessions précédentes
 --------------------
 
+- `Session 8 (septembre 2016) <talks_session8.html>`_
 - `Session 7 (juin 2016) <talks_session7.html>`_
 - `Session 6 (avril 2016) <talks_session6.html>`_
 - `Session 5 (mars 2016) <talks_session5.html>`_
