@@ -10,9 +10,9 @@ HAUMTalks #8
 Pour cette séance organisée le 13 septembre 2016, 4 talks sont proposés :
 
 - `Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?`_ par Sébastien Chateau-Dutier
-- `Un talk à propos de l'aquaponie`_ par Yannick Duthé
-- `Un talk surprise`_ par Mehdi Ben Iche (Maximusk)
-- `Un autre talk surprise à propos de hackerspace, de lilberté, d'organisation alternative`_ par Mathieu Gaborit (matael)
+- `Aqua quoi ? De la bidouille et des poissons`_ par Yannick Duthé (fluidlog)
+- `Disk vs. Keyboard`_ par Mehdi Ben Iche (Maximusk)
+- `Hackerspace sweet HAUM`_ par Mathieu Gaborit (matael)
 
 
 .. _Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?:
@@ -29,10 +29,10 @@ Talk proposé par Sébastien Chateau-Dutier
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _Un talk à propos de l'aquaponie:
+.. _Aqua quoi ? De la bidouille et des poissons:
 
-Un talk à propos de l'aquaponie
--------------------------------
+Aqua quoi ? De la bidouille et des poissons
+-------------------------------------------
 
 Talk proposé par Yannick Duthé
 
@@ -43,10 +43,10 @@ Talk proposé par Yannick Duthé
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _Un talk surprise:
+.. _Disk vs. Keyboard:
 
-Un talk surprise
-----------------
+Disk vs. Keyboard
+-----------------
 
 Talk proposé par Mehdi Ben Iche (Maximusk)
 
@@ -57,10 +57,10 @@ Talk proposé par Mehdi Ben Iche (Maximusk)
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _Qu'il sache lacer ses chaussures !:
+.. _Hackerspace sweet HAUM:
 
-Un autre talk surprise à propos de hackerspace, de lilberté, d'organisation alternative
----------------------------------------------------------------------------------------
+Hackerspace sweet HAUM
+----------------------
 
 Talk proposé par Mathieu Gaborit (matael)
 
