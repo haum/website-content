@@ -10,7 +10,7 @@ HAUMTalks #8
 Pour cette séance organisée le 13 septembre 2016, 4 talks sont proposés :
 
 - `Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?`_ par Sébastien Chateau-Dutier
-- `Aqua quoi ? De la bidouille et des poissons`_ par Yannick Duthé (fluidlog)
+- `Aqua quoi ? De la bidouille, des poissons et des légumes`_ par Yannick Duthé (fluidlog)
 - `Disk vs. Keyboard`_ par Mehdi Ben Iche (Maximusk)
 - `Hackerspace sweet HAUM`_ par Mathieu Gaborit (matael)
 
@@ -29,10 +29,10 @@ Talk proposé par Sébastien Chateau-Dutier
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _Aqua quoi ? De la bidouille et des poissons:
+.. _Aqua quoi ? De la bidouille, des poissons et des légumes:
 
-Aqua quoi ? De la bidouille et des poissons
--------------------------------------------
+Aqua quoi ? De la bidouille, des poissons et des légumes
+--------------------------------------------------------
 
 Talk proposé par Yannick Duthé
 
