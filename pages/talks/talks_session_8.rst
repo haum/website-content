@@ -53,7 +53,7 @@ Talk proposé par Mehdi Ben Iche (Maximusk)
 
 .. _Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?:
 
-Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?
+Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?
 -------------------------------------------------------------------------
 
 Talk proposé par Sébastien Chateau-Dutier
