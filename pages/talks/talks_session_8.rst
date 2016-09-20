@@ -9,29 +9,11 @@ HAUMTalks #8
 
 Pour cette séance organisée le 13 septembre 2016, 4 talks sont proposés :
 
-- `Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?`_ par Sébastien Chateau-Dutier
 - `Aqua quoi ? De la bidouille, des poissons et des légumes`_ par Yannick Duthé (fluidlog)
 - `Disk vs. Keyboard`_ par Mehdi Ben Iche (Maximusk)
+- `Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?`_ par Sébastien Chateau-Dutier
 - `Hackerspace sweet HAUM`_ par Mathieu Gaborit (matael)
 
-
-.. _Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?:
-
-Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?
--------------------------------------------------------------------------
-
-Talk proposé par Sébastien Chateau-Dutier
-
-.. container:: aligncenter
-
-    .. raw:: html
-
-        <video width="560" height="315" controls>
-            <source src="https://haum.svallee.fr/talks8/3_fai.mp4" type="video/mp4">
-        </video>
-
-- `Retour à la liste des talks de cette session`_
-- `Retour à la liste des HAUMTalks`_
 
 .. _Aqua quoi ? De la bidouille, des poissons et des légumes:
 
@@ -64,6 +46,24 @@ Talk proposé par Mehdi Ben Iche (Maximusk)
 
         <video width="560" height="315" controls>
             <source src="https://haum.svallee.fr/talks8/2_musique.mp4" type="video/mp4">
+        </video>
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
+
+.. _Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?:
+
+Comment marche un Fournisseur d'Accès à Internet (FAI pour les intimes) ?
+-------------------------------------------------------------------------
+
+Talk proposé par Sébastien Chateau-Dutier
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks8/3_fai.mp4" type="video/mp4">
         </video>
 
 - `Retour à la liste des talks de cette session`_
