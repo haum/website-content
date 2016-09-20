@@ -24,7 +24,11 @@ Talk proposé par Sébastien Chateau-Dutier
 
 .. container:: aligncenter
 
-    La vidéo de ce talk sera mise en ligne une fois le talk passé.
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks8/3_fai.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -38,7 +42,11 @@ Talk proposé par Yannick Duthé
 
 .. container:: aligncenter
 
-    La vidéo de ce talk sera mise en ligne une fois le talk passé.
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks8/1_aquaponie.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -52,7 +60,11 @@ Talk proposé par Mehdi Ben Iche (Maximusk)
 
 .. container:: aligncenter
 
-    La vidéo de ce talk sera mise en ligne une fois le talk passé.
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks8/2_musique.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -66,7 +78,11 @@ Talk proposé par Mathieu Gaborit (matael)
 
 .. container:: aligncenter
 
-    La vidéo de ce talk sera mise en ligne une fois le talk passé.
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks8/4_hackerspace.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
