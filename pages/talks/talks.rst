@@ -17,10 +17,12 @@ sur des sujets variés, choisis librement par les orateurs, suivis par un
 Pour les sessions à venir, vous pouvez intervenir en proposant à l'avance un
 exposé sur le sujet de votre choix.
 
-Prochaine session
------------------
+.. Pas de prochaine session programmée pour l'instant
 
-La prochaine session de talks est prévue le mardi 13 septembre 2016 à 19h.
+.. Prochaine session
+.. -----------------
+
+.. La prochaine session de talks est prévue le mardi 13 septembre 2016 à 19h.
 
 Sessions précédentes
 --------------------
