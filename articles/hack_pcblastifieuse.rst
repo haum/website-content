@@ -159,7 +159,7 @@ Pour celai, on coupe les gaines de protection autour des branchements des thermo
     [flickr:id=19164865600]
 
 Le résultat est très propre ; sauriez vous dire si ces branchements sont les
-originaux ou ceux modifiés par nos petits mains ? Il s’agit ici du montage
+originaux ou ceux modifiés par nos petites mains ? Il s’agit ici du montage
 modifié.
 
 Passage des câbles de commande
