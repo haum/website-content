@@ -14,12 +14,12 @@ Les lampes orbitales sont l'association d'un pupitre interactif capable de
 reconnaître des pastilles de couleur sur son plateau et de lampes connectées
 prévues à cet effet.
 
-Le projet a été développé pour l'événement `BienVenus sur Mars`_ qui a eu lieu
-du 27 avril au 1er mai 2016. `L'album flickr`_ associé vous donne un aperçu du
-projet !
+Ce projet a été mis en place pour les évènements suivants :
 
-Les lampes orbitales ont ensuite pu servir sur d'autres événements, comme par
-exemple `Les Siestes Teriaki`_ 2016, avec là aussi `un album flickr`_.
+- `BienVenus sur Mars`_ (du 27 avril au 1er mai 2016).
+  `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157667688278672>`__.
+  C'est l'évènement pour lequel nous avons créé ce projet.
+- `Les Siestes Teriaki`_ 2016. `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157671412072762>`__.
 
 Cet article parle principalement du pupitre interactif et du logiciel de
 reconnaissance des pastilles. Pour les lampes connectées, il faut aller voir les
@@ -27,9 +27,7 @@ Laumios_ !
 
 .. _Laumios: /pages/laumios.html
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
-.. _L'album flickr: https://www.flickr.com/photos/126718549@N08/sets/72157667688278672
 .. _Les Siestes Teriaki: http://www.teriaki.fr/
-.. _un album flickr : https://www.flickr.com/photos/126718549@N08/sets/72157671412072762
 
 Le pupitre interactif
 =====================
