@@ -3,7 +3,7 @@ Laumios
 =======
 
 :slug: laumios
-:projet_realisation: V1 terminée -gold
+:projet_realisation: v1 terminée -brightgreen
 :projet_etat: fonctionnel -brightgreen
 
 

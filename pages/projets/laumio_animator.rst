@@ -3,7 +3,7 @@ LaumioAnimator
 ==============
 
 :slug: laumio-animator
-:projet_realisation: à continuer -gold
+:projet_realisation: à continuer -yellow
 :projet_etat: fonctionnel -brightgreen
 
 
