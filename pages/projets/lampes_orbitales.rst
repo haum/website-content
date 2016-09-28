@@ -16,10 +16,10 @@ prévues à cet effet.
 
 Ce projet a été mis en place pour les évènements suivants :
 
-- `BienVenus sur Mars`_ (du 27 avril au 1er mai 2016).
+- `BienVenus sur Mars`_ 2016 (du 27 avril au 1er mai).
   `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157667688278672>`__.
   C'est l'évènement pour lequel nous avons créé ce projet.
-- `Les Siestes Teriaki`_ 2016. `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157671412072762>`__.
+- `Les Siestes Teriaki`_ 2016 (les 27 et 28 août). `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157671412072762>`__.
 
 Cet article parle principalement du pupitre interactif et du logiciel de
 reconnaissance des pastilles. Pour les lampes connectées, il faut aller voir les

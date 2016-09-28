@@ -6,6 +6,7 @@ Laumios
 :projet_realisation: v1 terminée -brightgreen
 :projet_etat: fonctionnel -brightgreen
 
+.. image:: /images/bannieres_projets/laumios.1.jpg
 
 Qu'est ce que c'est ?
 =====================
