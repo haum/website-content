@@ -9,6 +9,11 @@ L'objectif de ici est de vous les présenter en détails, de les documenter au f
 
 À noter que pour garantir une certaine lisibilité ainsi qu'une certaine visibilité pour les plus "petits" projets, ceux a contrario plus "importants" sont présentés au travers d'une page dédiée.
 
+Nos projets
+===========
+
+.. list-projects::
+
 Envie de contribuer ?
 =====================
 
@@ -32,11 +37,6 @@ En attendant voilà les projets softwares (ou de rédaction) auxquels vous pouve
 Vu qu'on est des hackers, la *todolist* de l'asso est aussi `sur github`_. Si le coeur vous en dit, commentez les tickets ou mieux, essayez de voir comment les fixer !
 
 .. _sur github: https://github.com/haum/haum_internal/issues/
-
-Nos projets
-===========
-
-.. list-projects::
 
 Haniview
 --------
