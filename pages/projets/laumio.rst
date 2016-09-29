@@ -12,7 +12,7 @@ Qu'est ce que c'est ?
 =====================
 
 Les laumios sont des lampes connectées initialement conçues pour le festival
-`BienVenus sur Mars`_ qui a eu lieu  du 27 avril au 1er mai 2016. Elles sont
+`BienVenus sur Mars`_ qui a eu lieu du 27 avril au 1er mai 2016. Dans le cadre de cet événément, elles étaient 
 coordonnées avec un pupitre lui aussi fabriqué pour l'occasion pour former les
 `lampes orbitales`_.
 
@@ -22,10 +22,13 @@ microcontrôleur de petite taille et à bas coût pour communiquer en WiFi. Le H
 a conçu les laumios de A à Z, en les accompagnant d'une API pour faciliter leur
 communication avec le monde extérieur. Les intérêts sont multiples, allant du
 changement sur commande de l'ambiance d'une salle à la création de systèmes
-interactifs et/ou ludiques.
+interactifs et/ou ludiques !
+
+Une doc en anglais est déjà disponible sur readthedocs_, mais la page ici présente en reprend globalement les mêmes lignes.
 
 .. _lampes orbitales: /pages/lampes-orbitales.html
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
+.. _readthedocs: http://laumio.readthedocs.io/en/latest/
 
 
 Le laumio en moins bref
@@ -33,16 +36,62 @@ Le laumio en moins bref
 
 La structure
 ------------
+Comment faire un laumio ? On prend un peu d'eau, un peu de mi, et quelques "oh !" qu'on plante ensemble, et on laisse pousser à maturité !
+
+Plus sérieusement, les laumios actuels (dans la version 1) sont des structures articulées en forme d'arbres que l'on vient insérer dans des lampes de table FADO_ vendues par IKEA. Elles accueillent 4 colonnes de 3 leds ainsi qu'une led tout en haut, pour un total de treize loupiottes.
+
+.. image:: /images/laumios/arbres_laumios.jpg
+
+La structure porteuse se pose à la place de l'ampoule et porte tout l'appareillage nécessaire, en essayant de disposer les leds de manière sphérique. L'articulation des bras permet de replier l'arbre avant de l'insérer dans l'abat-jour sphérique de la lampe, et de le déplier ensuite (il est fortement conseillé de procéder la main dans le sac !).
+
+.. image:: /images/laumios/laumio_sur_socle.jpg
+
+Les arbres ont été usinés à l'aide de notre mini-fraiseuse AxiHAUM_ dans des plaques de PVC expansé Komacel_ et l'assemblage a été réalisé par les courageuses petites mains du HAUM ! Les plans sont disponibles `ici <https://github.com/haum/laumio/tree/master/CAD>`__ sur github.
+
+.. _AxiHAUM: /pages/axihaum.html
+.. _FADO: http://www.ikea.com/fr/fr/catalog/products/80096372/
+.. _Komacel: https://www.sunclear.fr/sunclear/contenu.php?nId=13
+
 
 L'électronique
 --------------
+Une fois construit, il faut décorer notre arbre !
+
+Ici, point de guirlandes mais un bandeau de leds découpé... Celui utilisé ici est un WS2812B_ noir, avec 60 leds par mètre. Pour chaque laumio, 13 leds ont été découpées du bandeau et préparées pour la soudure en déposant une bille d'étain sur chaque borne. Les leds sont ensuite pistocollées sur les branches de la structure et recâblées entre elles.
+
+.. image:: /images/laumios/ledmap_deplie.jpg 
+
+Le shield conçu pour l'occasion (voir le `dépôt correspondant <https://github.com/haum/laumio/tree/master/kicad>`__ ) relie le bandeau de leds à un `WeMos D1 mini`_, en prenant soin d'adapter les tensions d'alimentation et de communication. L'apport en électricité se fait par une alimentation 5V 1.2A.
+
+.. _WS2812B: https://www.adafruit.com/products/1461
+.. _WeMos D1 mini: https://www.wemos.cc/product/d1-mini-pro.html
+
 
 Le code
 -------
+Dans la suite du programme... place au code !
 
-L'API
------
+Pour ce qui est du firmware, le code se "cache" `ici <https://github.com/haum/laumio/tree/master/laumio>`__. Actuellement, l'ESP8266 contenu dans le WeMos D1 mini est programmé en Arduino et utilise la librairie Adafruit_NeoPixel pour contrôler le bandeau de leds. Le laumio réagit pour l'instant à l'envoi de paquets UDP et de requêtes Http.
+
+L'API pour la communication UDP est disponible sur readthedocs_, avec des exemples de scripts en python et en bash.
 
 
-La Pioche à idées
-=================
+Evolution du projet
+===================
+Une structure mécanique plus souple
+-----------------------------------
+Parmi les différents essais de structure qui ont pu être menés, une idée qui a pu sortir du lot est d'utiliser des arcs déformables sur lesquels placer les leds plutôt que d'utiliser des branches articulées. En l'occurrence, les soudures supportent assez mal les pliages et dépliages répétés et peuvent casser (gymnastique déconseillée pour les pauvres petits, donc...).
+
+.. image:: /images/laumios/arbre_du_turfu.jpg 
+
+La pioche à idées
+-----------------
+Des idées, il y en a toujours à revendre... ou à laisser gratuitement à disposition. En voici quelques-unes pour qui voudrait aider sur les laumios mais ne saurait pas quoi faire !
+
+- **Plus de leds !** Concevoir une nouvelle structure pouvant porter jusqu'à 8 colonnes de 5 leds en plus des leds supérieures, en prévoyant l'alimentation adéquate. Faire en sorte que l'on puisse utiliser ces laumios comme s'ils n'avaient que 13 leds pour des questions de rétrocompatibilité.
+- **Plus de performance !** Recoder le firmware en se passant des libairies Arduino pour augmenter la réactivité de la lampe. Améliorer la structure pour en faciliter l'insertion et le maintien dans l'abat-jour. Améliorer les connectiques.
+- **Plus d'interopérabilité !** Créer un logiciel passerelle pour adapter les laumios aux différents standards que l'on retrouve dans le monde du spectacle.
+- **Plus de laumios !** Parce qu'on n'en a jamais assez.
+- **Plus de simplicité !** Forker LaumioAnimator pour le rendre utilisable sur ordiphone et pour répondre à des besoins simples. 
+- **Plus de configurabilité !** Faire en sorte que Madame Michu n'ait pas à trifouiller le code pour que la lampe se connecte à son réseau.
+
