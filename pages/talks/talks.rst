@@ -10,7 +10,7 @@ Dans son objectif de promouvoir la diffusion de connaisances et les rencontres
 entre personnes passionnées de nouvelles technologies, de hacks, de DIY, etc.
 le HAUM organise des mini-conférences libres accessibles à tous.
 
-Chaque session est composée de 4 à 6 interventions d'une quinzaine de minutes
+Chaque session est composée de 3 à 5 interventions d'une quinzaine de minutes
 sur des sujets variés, choisis librement par les orateurs, suivis par un
 échange avec les auditeurs.
 
