@@ -6,6 +6,7 @@ Lampes orbitales
 :projet_realisation: v1 terminée -brightgreen
 :projet_etat: fonctionnel -brightgreen
 
+.. image:: /images/bannieres_projets/lampes-orbitales.1.jpg
 
 Qu'est ce que c'est ?
 =====================
@@ -31,6 +32,7 @@ Laumios_ !
 
 Le pupitre interactif
 =====================
+... En cours d'écriture ...
 
 Le principe
 -----------
@@ -40,9 +42,22 @@ Le pupitre
 
 Le logiciel
 -----------
+`dépôt Github`_
+
+.. _ dépôt Github: https://github.com/haum/laumio/tree/master/Pupitre
 
 
 
 
-La Pioche à idées
-=================
+Evolution du projet
+===================
+La pioche à idées
+-----------------
+Des idées, il y en a toujours à revendre... ou à laisser gratuitement à disposition. En voici quelques-unes pour qui voudrait aider sur les Lampes Orbitales mais ne saurait pas quoi faire !
+
+- **Plus de magie !** Améliorer l'éclairage et la sensibilité aux variations de lumière, continuer de travailler pour pouvoir filmer les languettes depuis sous le pupitre.
+- **Plus de solidité !** Faire des pastilles en bois.
+- **Plus de complexité !** Faire réagir le logiciel différemment selon la taille des pastilles, leur forme ou les symboles inscrits.
+- **Plus de ludique !** Jeux de conquête ou collaboraitfs avec un second pupitre, mappage aléatoire changant...
+- **Plus de musique !** Et si on faisait une table de mixage avec le pupitre ?
+
