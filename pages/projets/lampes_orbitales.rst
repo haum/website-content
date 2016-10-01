@@ -44,7 +44,7 @@ Le logiciel
 -----------
 `dépôt Github`_
 
-.. _ dépôt Github: https://github.com/haum/laumio/tree/master/Pupitre
+.. _dépôt Github: https://github.com/haum/laumio/tree/master/Pupitre
 
 
 
