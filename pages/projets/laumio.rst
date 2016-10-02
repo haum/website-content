@@ -26,7 +26,7 @@ communication avec le monde extérieur. Les intérêts sont multiples, allant du
 changement sur commande de l'ambiance d'une salle à la création de systèmes
 interactifs et/ou ludiques !
 
-Une doc en anglais est déjà disponible sur readthedocs_, mais la page ici présente en reprend globalement les mêmes lignes. Une doc en français est en préparation.
+Une doc en français est déjà disponible sur readthedocs_, mais la page ici présente en reprend globalement les mêmes lignes.
 
 .. _lampes orbitales: /pages/lampes-orbitales.html
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
