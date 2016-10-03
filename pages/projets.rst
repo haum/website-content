@@ -61,7 +61,7 @@ Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant
 - https://github.com/haum/hms_spacestatus (Ouverture du local)
 - https://github.com/haum/hms_agenda (Gestion de l'agenda)
 - https://github.com/haum/hms_website (Mise à jour du site)
-- https://github.com/haum/hms_logger (Log des conversations IRC)
+- https://github.com/haum/hms_logger (Log des messsages RabbitMQ pour pouvoir débugger l'infrastructure microservices)
 - https://github.com/haum/hms_reddit (Récupération des liens reddit)
 - https://github.com/haum/hms_ping (Ping des éléments de l'infra HMS)
 - https://github.com/haum/hms_base (Base de developpement pour un nouveau module HMS)
