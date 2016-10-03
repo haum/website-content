@@ -56,6 +56,7 @@ Vous pouvez contribuer à Twaum ou au bot GitHub en forkant un des dépôts suiv
 - https://github.com/Matael/GithubBot
 
 Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant par HMS sur le github du HAUM. Voici ceux existant à l'heure de l'écriture de cet article :
+
 - https://github.com/haum/hms_irc (Connexion IRC)
 - https://github.com/haum/hms_spacestatus (Ouverture du local)
 - https://github.com/haum/hms_agenda (Gestion de l'agenda)
@@ -67,6 +68,7 @@ Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant
 - https://github.com/haum/hms_help (Aide de fonctionnement de l'infrastructure)
 
 Notre dévoué combot est toujours présent sur GitHub, dans l'état où il se trouvait avant son arrêt :
+
 - https://github.com/haum/combot
 
 
