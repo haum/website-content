@@ -47,16 +47,33 @@ Ce projet est supporté par jblb_,  neomilium_ et  matael_.
 HaumBots
 --------
 
-Actuellement, 4 bots travaillent pour nous : Twaum (Twitter ⇔ IRC), GHB (Todolist ⇔ IRC), Com`bot, (update du site, gestion de l’agenda, …) et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
+Actuellement, 3 bots travaillent pour nous : Twaum (Twitter ⇔ IRC), bcazeneuve (Mises à jour du site, gestion de l’agenda, ouverture du local, récupération des liens sur notre subreddit_, …), et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
+Il fut un temps où combot, un bot codé en Perl avec amour par matael, nous servait bien, mais il a laissé sa place à bcazeneuve (pour les mêmes fonctions), un bot basé sur une infrastructure de microservice, monté par notre MicroJoe.
 
-Vous pouvez contribuer aux trois premiers en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
+Vous pouvez contribuer à Twaum ou au bot GitHub en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
 
 - https://github.com/haum/TwitterBot
 - https://github.com/Matael/GithubBot
+
+Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant par HMS sur le github du HAUM. Voici ceux existant à l'heure de l'écriture de cet article :
+
+- https://github.com/haum/hms_irc (Connexion IRC)
+- https://github.com/haum/hms_spacestatus (Ouverture du local)
+- https://github.com/haum/hms_agenda (Gestion de l'agenda)
+- https://github.com/haum/hms_website (Mise à jour du site)
+- https://github.com/haum/hms_logger (Log des messsages RabbitMQ pour pouvoir débugger l'infrastructure microservices)
+- https://github.com/haum/hms_reddit (Récupération des liens reddit)
+- https://github.com/haum/hms_ping (Ping des éléments de l'infra HMS)
+- https://github.com/haum/hms_base (Base de developpement pour un nouveau module HMS)
+- https://github.com/haum/hms_help (Aide de fonctionnement de l'infrastructure)
+
+Notre dévoué combot est toujours présent sur GitHub, dans l'état où il se trouvait avant son arrêt :
+
 - https://github.com/haum/combot
 
 
 .. _bot GitHub: http://blog.fredblain.org/2014/05/github-bot-pour-irc
+.. _subreddit: https://www.reddit.com/r/haum
 
 .. _neomilium: http://twitter.com/neomilium
 .. _matael: http://twitter.com/matael
