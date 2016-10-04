@@ -213,7 +213,7 @@ calibrage.
 
 Juste à côté de la sonde de température fixée sur la résistance chauffante on
 place une sonde JK qui va nous permettre de mesurer la température réelle à
-cette endroit. On note quelques points dans un tableur et on effectue ensuite
+cet endroit. On note quelques points dans un tableur et on effectue ensuite
 une régression linéaire.
 
 .. container:: aligncenter
