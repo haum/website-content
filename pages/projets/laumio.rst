@@ -46,11 +46,18 @@ Plus sérieusement, les aumios actuels (dans la version 1) sont des structures a
 
   .. image:: /images/laumios/arbres_laumios.jpg
    :height: 280px
-
+  .. image:: /images/laumios/arbre_branchu.jpg
+   :height: 280px
 
 La structure porteuse se pose à la place de l'ampoule et porte tout l'appareillage nécessaire, en essayant de disposer les leds de manière sphérique. L'articulation des bras permet de replier l'arbre avant de l'insérer dans l'abat-jour sphérique de la lampe, et de le déplier ensuite (il est fortement conseillé de procéder la main dans le sac !).
 
-.. image:: /images/laumios/laumio_sur_socle.jpg
+
+.. container:: aligncenter
+
+  .. image:: /images/laumios/laumio_sur_socle.jpg
+   :height: 280px
+  .. image:: /images/laumios/laumio_avec_socle.jpg
+   :height: 280px
 
 Les arbres ont été usinés à l'aide de notre mini-fraiseuse AxiHAUM_ dans des plaques de PVC expansé Komacel_ et l'assemblage a été réalisé par les courageuses petites mains du HAUM ! Les plans sont disponibles `ici <https://github.com/haum/laumio/tree/master/CAD>`__ sur github.
 
@@ -75,8 +82,9 @@ Ici, point de guirlandes mais un bandeau de leds découpé... Celui utilisé ici
 
   .. image:: /images/laumios/decoupage_leds.jpg
      :height: 280px
+  .. image:: /images/laumios/ledmap_deplie.png 
+     :height: 280px
 
-.. image:: /images/laumios/ledmap_deplie.jpg 
 
 Le shield conçu pour l'occasion (voir le `dépôt correspondant <https://github.com/haum/laumio/tree/master/kicad>`__ ) relie le bandeau de leds à un `WeMos D1 mini`_, en prenant soin d'adapter les tensions d'alimentation et de communication. L'apport en électricité se fait par une alimentation 5V 1.2A.
 
@@ -99,7 +107,12 @@ Une structure mécanique plus souple
 -----------------------------------
 Parmi les différents essais de structure qui ont pu être menés, une idée qui a pu sortir du lot est d'utiliser des arcs déformables sur lesquels placer les leds plutôt que d'utiliser des branches articulées. En l'occurrence, les soudures supportent assez mal les pliages et dépliages répétés et peuvent casser (gymnastique déconseillée pour les pauvres petits, donc...).
 
-.. image:: /images/laumios/arbre_du_turfu.jpg 
+
+.. container:: aligncenter
+
+  .. image:: /images/laumios/arbre_du_turfu.jpg
+   :height: 280px
+
 
 La pioche à idées
 -----------------
