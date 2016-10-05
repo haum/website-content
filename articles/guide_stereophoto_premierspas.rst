@@ -83,7 +83,9 @@ Par exemple, choisissons ceux deux vues. La base était de l'ordre de 6 à
 .. container:: aligncenter
 
 	.. image:: /images/stereo/guide_premierspas/left.jpg
+		:alt: Image de gauche
 	.. image:: /images/stereo/guide_premierspas/right.jpg
+		:alt: Image de droite
 
 Notez que ces clichés pris à main levée ne réunissent pas les conditions
 optimales pour constituer un couple stéréographique. En plus du
@@ -131,6 +133,7 @@ Il est maintenant possible d'ouvrir le projet dans hugin.
 .. container:: aligncenter
 
 	.. image:: /images/stereo/guide_premierspas/screenshot_pointsdecontrole.jpg
+		:alt: Points de contrôle
 
 Dans l'onglet "Points de contrôle", après avoir sélectionné les vues
 gauche et droite, nous voyons les points de correspondance trouvés dans
@@ -162,6 +165,7 @@ et les lettres GL).
 .. container:: aligncenter
 
 	.. image:: /images/stereo/guide_premierspas/screenshot_rendu.jpg
+		:alt: Rendu
 
 
 Ici, le bouton "Aligner..." lancera l'optimisation des paramètres de
@@ -193,6 +197,7 @@ Voilà, notre image est prête a être visionnée !
 .. container:: aligncenter
 
 	.. image:: /images/stereo/guide_premierspas/dhaum2.jpg
+		:alt: Le DHaum !
 
 Maintenant, à vous de jouer ;-)
 

@@ -8,6 +8,7 @@ Tee-shirts
 :projet_etat: distribués et portés-brightgreen
 
 .. image:: /images/bannieres_projets/teeshirts.1.jpg
+	:alt: TeeShirts
 
 Qu'est ce que c'est?
 ====================
@@ -32,6 +33,7 @@ souplesse.
 .. container:: aligncenter
 
     .. image:: /images/teeshirts/ingredients.jpg
+	:alt: Ingrédients
 
 Le motif est poché puis fixé recto-verso avec un fer à repasser réglé sur
 150°-180°. Ne pas oublier d’interposer un tissu entre le T-Shirt et le fer à

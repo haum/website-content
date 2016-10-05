@@ -7,6 +7,7 @@ LaumioAnimator
 :projet_etat: fonctionnel -brightgreen
 
 .. image:: /images/bannieres_projets/laumio-animator.1.jpg
+	:alt: LaumioAnimator
 
 
 Qu'est ce que c'est ?

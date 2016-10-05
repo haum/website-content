@@ -66,6 +66,8 @@ handicap lors des traitements.
 .. container:: aligncenter
 
     .. image:: /images/timelapse/miniatures.jpg
+        :alt: Miniatures
+
 
 Importées dans le logiciel darktable, nous voyons d'un simple coup d'œil
 la grande quantité de photos à traiter.
@@ -96,6 +98,7 @@ vidéo.
 .. container:: aligncenter
 
     .. image:: /images/timelapse/overlay.jpg
+        :alt: Overlay
 
 
 Une fois le dessin terminé, nous l'exportons en PNG avec transparence,

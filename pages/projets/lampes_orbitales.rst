@@ -7,6 +7,7 @@ Lampes orbitales
 :projet_etat: fonctionnel -brightgreen
 
 .. image:: /images/bannieres_projets/lampes-orbitales.1.jpg
+	:alt: Lampes Orbitales
 
 Qu'est ce que c'est ?
 =====================

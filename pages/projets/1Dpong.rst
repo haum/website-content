@@ -8,6 +8,7 @@
 :projet_etat: fonctionnel-brightgreen
 
 .. image:: /images/bannieres_projets/1dpong.1.jpg
+	:alt: 1DPong
 
 Qu'est ce que c'est?
 ====================

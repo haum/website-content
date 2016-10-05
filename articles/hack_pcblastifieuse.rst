@@ -48,6 +48,7 @@ connexions :
 .. container:: aligncenter
 
     .. image:: /images/pcblastifieuse/schema.png
+        :alt: Schéma
 
 Principe de la modification
 ---------------------------
@@ -207,6 +208,8 @@ obtient en allumant la plastifieuse et en mesurant la tension du capteur :
 .. container:: aligncenter
 
     .. image:: /images/pcblastifieuse/temperatures.png
+        :alt: Températures
+
 
 On observe un préchauffage suivi d’un maintient au chaud. Mais revenons à notre
 calibrage.
@@ -219,6 +222,7 @@ une régression linéaire.
 .. container:: aligncenter
 
     .. image:: /images/pcblastifieuse/reglin.png
+        :alt: Régression linéaire
 
 En trouvant le lien entre la tension mesurée par la sonde de température et la
 température de la sonde JK, on peut en déduire une formule qui nous donnera la

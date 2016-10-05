@@ -7,6 +7,7 @@ Laumios
 :projet_etat: fonctionnel -brightgreen
 
 .. image:: /images/bannieres_projets/laumios.1.jpg
+	:alt: Laumios
 
 Qu'est ce que c'est ?
 =====================
@@ -46,8 +47,10 @@ Plus sérieusement, les Laumios actuels (dans la version 1) sont des structures 
 
   .. image:: /images/laumios/arbres_laumios.jpg
    :height: 280px
+   :alt: Arbres des laumios
   .. image:: /images/laumios/arbre_branchu.jpg
    :height: 280px
+   :alt: Arbre branchu des laumios
 
 La structure porteuse se pose à la place de l'ampoule et porte tout l'appareillage nécessaire, en essayant de disposer les leds de manière sphérique. L'articulation des bras permet de replier l'arbre avant de l'insérer dans l'abat-jour sphérique de la lampe, et de le déplier ensuite (il est fortement conseillé de procéder la main dans le sac !).
 
@@ -56,8 +59,10 @@ La structure porteuse se pose à la place de l'ampoule et porte tout l'appareill
 
   .. image:: /images/laumios/laumio_sur_socle.jpg
    :height: 280px
+   :alt: Laumio sur socle
   .. image:: /images/laumios/laumio_avec_socle.jpg
    :height: 280px
+   :alt: Laumio avec socle
 
 Les arbres ont été usinés à l'aide de notre mini-fraiseuse AxiHAUM_ dans des plaques de PVC expansé Komacel_ et l'assemblage a été réalisé par les courageuses petites mains du HAUM ! Les plans sont disponibles `ici <https://github.com/haum/laumio/tree/master/CAD>`__ sur github.
 
@@ -65,6 +70,7 @@ Les arbres ont été usinés à l'aide de notre mini-fraiseuse AxiHAUM_ dans des
 
   .. image:: /images/laumios/laumio_factory.jpg
    :height: 280px
+   :alt: The Laumio Factory
 
 
 .. _AxiHAUM: /pages/axihaum.html
@@ -82,8 +88,10 @@ Ici, point de guirlandes mais un bandeau de leds découpé... Celui utilisé ici
 
   .. image:: /images/laumios/decoupage_leds.jpg
      :height: 280px
+     :alt: Découpage des LEDs
   .. image:: /images/laumios/ledmap_deplie.png 
      :height: 280px
+     :alt: Schema LEDs
 
 
 Le shield conçu pour l'occasion (voir le `dépôt correspondant <https://github.com/haum/laumio/tree/master/kicad>`__ ) relie le bandeau de leds à un `WeMos D1 mini`_, en prenant soin d'adapter les tensions d'alimentation et de communication. L'apport en électricité se fait par une alimentation 5V 1.2A.
@@ -112,6 +120,7 @@ Parmi les différents essais de structure qui ont pu être menés, une idée qui
 
   .. image:: /images/laumios/arbre_du_turfu.jpg
    :height: 280px
+   :alt: Arbre futur
 
 
 La pioche à idées

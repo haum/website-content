@@ -8,6 +8,7 @@ Flexagones
 :projet_etat: fonctionnel-brightgreen
 
 .. image:: /images/bannieres_projets/flexagones.1.jpg
+	:alt: Flexagones
 
 Qu'est ce que c'est?
 ====================

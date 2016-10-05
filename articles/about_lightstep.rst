@@ -61,6 +61,7 @@ Couleur
 
 .. image:: /images/lightstep/hue_shift.png
         :align: right
+	:alt: Anneau de couleur
 
 La couleur est choisie en combinant l'appui sur certaines marches avec un curseur qui tourne sur la roue de la teinte
 (voir image). Ainsi la couleur tournante avance avec le temps et une série de marches permet de sélectionner une couleur

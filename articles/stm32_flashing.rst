@@ -407,6 +407,7 @@ condensateur.
 .. container:: aligncenter
 
 	.. image:: /images/stm32_articles/flash_dddgraph.png
+		:alt: Graphe DDD
 
 Flasher
 -------

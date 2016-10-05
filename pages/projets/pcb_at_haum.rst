@@ -5,6 +5,7 @@ PCB @ HAUM
 :slug: pcb_at_haum
 
 .. image:: /images/bannieres_projets/pcb_at_haum.1.jpg
+	:alt: PCB@HAUM
 
 Pourquoi ce projet ?
 ====================

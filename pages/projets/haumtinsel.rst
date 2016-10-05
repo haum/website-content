@@ -8,6 +8,7 @@ HAUMTinsel
 :projet_etat: fonctionnel-brightgreen
 
 .. image:: /images/bannieres_projets/haumtinsel.1.jpg
+	:alt: HaumTinsel
 
 Après avoir réalisé le Pong_ et alors que les fêtes de fin d'année approchait. Le HAUM a décidé de faire une
 guirlande-jeu à afficher à l'extérieur du local.
@@ -92,6 +93,7 @@ sur la photo
 
     .. image:: /images/haumtinsel/haumtinsel.jpg
         :width: 300px
+	:alt: HaumTinsel
 
 Et après ?
 ==========

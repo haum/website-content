@@ -7,6 +7,7 @@ PCBlastifieuse
 :projet_etat: fondu (autodestruction)-red
 
 .. image:: /images/bannieres_projets/pcblastifieuse.1.jpg
+	:alt: PCBlastifieuse
 
 Qu'est ce que c'est ?
 =====================

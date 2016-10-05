@@ -8,6 +8,7 @@ Opendata Crunching
 :projet_etat: fonctionnel-brightgreen
 
 .. image:: /images/bannieres_projets/opendata-crunching.1.jpg
+	:alt: OpenData Crunching
 
 Au HAUM, on aime les trucs ouverts, les codes sources ouverts, les portes ouvertes, les gens ouverts, les bières
 ouvertes et bien sûr : les **données ouvertes** !
@@ -16,6 +17,7 @@ ouvertes et bien sûr : les **données ouvertes** !
 
     .. image:: /images/opendata/parkings_nantes.jpg
         :width: 400px
+	:alt: Parking Nantes
 
 Vu qu'au Mans, les données ouvertes, c'est pas encore ça, nous, on titille un peu. Ça a commencé gentillet en
 utilisation des `données de Nantes`_ dans une présentation publique au Mans.
@@ -35,6 +37,7 @@ Depuis, on a joué avec les données de la SETRAM.
 
     .. image:: /images/opendata/timeomap.png
         :width: 400px
+	:alt: Carte TIMEO
 
 Cette fois ci, il s'agissait de pouvoir récupérer les informations de passage des bus et tram sur Le Mans.
 
@@ -68,6 +71,7 @@ L'opendata est un moyen de transparence important et l'année 2014 a vu deux él
 
         .. image:: /images/opendata/municipales.png
             :width: 300px
+	    :alt: Cartes municipales
 
     .. container:: textcolumn
 
@@ -88,6 +92,7 @@ L'opendata est un moyen de transparence important et l'année 2014 a vu deux él
 
         .. image:: /images/opendata/europeennes.png
             :width: 300px
+	    :alt: Carte européennes
 
     .. container:: textcolumn
 
