@@ -69,8 +69,8 @@ Les arbres ont été usinés à l'aide de notre mini-fraiseuse AxiHAUM_ dans des
 .. container:: aligncenter
 
   .. image:: /images/laumios/laumio_factory.jpg
-   :height: 280px
-   :alt: The Laumio Factory
+     :height: 280px
+     :alt: The Laumio Factory
 
 
 .. _AxiHAUM: /pages/axihaum.html

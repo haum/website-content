@@ -12,12 +12,11 @@ LaumioAnimator
 
 Qu'est ce que c'est ?
 =====================
-LaumioAnimator, c'est un compositeur de partitions lumineuses développé en Qt/C++, pour accorder les laumios_ avec un morceau de musique.
-
-Il a été brièvement utilisé pendant les `Siestes Teriaki`_ 2016.
+LaumioAnimator, c'est un compositeur de partitions lumineuses développé en Qt/C++, pour accorder les laumios_ avec un morceau de musique. Ses sources sont disponibles sur le `dépôt Git dédié`_. Il a été brièvement utilisé pendant les `Siestes Teriaki`_ 2016.
 
 .. _Laumios: /pages/laumios.html
 .. _Siestes Teriaki: http://www.teriaki.fr/
+.. _dépôt Git dédié: https://github.com/haum/laumio_animator/
 
 
 LaumioAnimator en moins bref
@@ -27,6 +26,15 @@ Le moteur d'animation
 
 Les animations
 --------------
+Les animations disponibles sont les suivantes :
+
+- **Animation constante *ConstantColor* :**
+
+- **Animation progressive *ProgressiveColor* :**
+
+- **Animation pulsatile *PulsingColor* :** 
+
+- **Animation pulsatile bornée *BoundedPulsingColor* :**
 
 
 L'interface
@@ -34,14 +42,65 @@ L'interface
 La preview
 ~~~~~~~~~~
 
+.. container:: aligncenter
+
+  .. image:: /images/laumioAnimator/laumioAnimator_preview.jpg
+     :height: 360px
+     :alt: LaumioAnimator "preview" tab
+
 La map
 ~~~~~~
+
+.. container:: aligncenter
+
+  .. image:: /images/laumioAnimator/laumioAnimator_map.jpg
+     :height: 360px
+     :alt: LaumioAnimator "map" tab
+
 
 La timeline
 ~~~~~~~~~~~
 
+.. container:: aligncenter
+
+  .. image:: /images/laumioAnimator/laumioAnimator_timeline.jpg
+     :height: 360px
+     :alt: LaumioAnimator "timeline" tab
+
+
 Le JSON
 ~~~~~~~
+Le logiciel est capable de charger ou d'enregistrer des compositions via un fichier JSON. Le chemin vers une source audio eut aussi être ajouté manuellement fans le JSON.
+La structure générale du fichier généré est la suivante (avec l'exemple d'une seule animation constante noire de 2,5 secondes pour un laumio lambda) :
+
+.. code-block:: javascript
+
+  {
+      "animations": [
+          {
+              "anims": [
+                  {
+                      "color": "#000000",
+                      "duration": 2.5,
+                      "fromStart": 0.0,
+                      "priority": 5,
+                      "type": "ConstantColor"
+                  },
+                  ...
+              ],
+              "laumio": {
+                  "ip": "192.168.0.1",
+                  "name": "Laumio",
+                  "port": 6969,
+                  "x": 0,
+                  "y": 0.25
+              }
+          },
+          ...
+      ],
+      "audioSource": "file:///tmp/audioSource.wav"
+  }
+
 
 
 Evolution du projet
