@@ -66,6 +66,7 @@ Talk proposé par Sébastien Chateau-Dutier
             <source src="https://haum.svallee.fr/talks8/3_fai.mp4" type="video/mp4">
         </video>
 
+- `Diaporama du talk (PDF) </images/talks/8_fai.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
