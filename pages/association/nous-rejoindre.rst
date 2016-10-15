@@ -26,7 +26,7 @@ Pour connaître les jours où nos portes vous sont ouvertes, passez nous voir su
 
 .. _Ruche Numérique: http://laruchenumerique.com
 .. _IRC: http://irc.lc/freenode/haum
-.. _mailing-list: http://lists.matael.org/mailman/listinfo/haum_hackerspace
+.. _mailing-list: http://lists.haum.org/mailman/listinfo/haum_hackerspace 
 .. _19 Bd M&A Oyon: http://www.openstreetmap.org/?mlat=47.99501&mlon=0.18858#map=19/47.99501/0.18858&layers=N
 
 Mais pas que...
