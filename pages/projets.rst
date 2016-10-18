@@ -30,7 +30,7 @@ En attendant voilà les projets softwares (ou de rédaction) auxquels vous pouve
 - Haniview : https://github.com/haum/hanivew
 - TwitterBot : https://github.com/haum/TwitterBot
 - timeoAPI : https://github.com/haum/timeoAPI
-- heeksCNC (parce qu'on va s'en servir sous peu) : https://code.google.com/p/heekscnc/
+- heeksCNC (parce qu'on va s'en servir sous peu) : https://github.com/Heeks/heekscad
 
 .. _dépôt du HAUM: https://github.com/haum/
 
