@@ -77,7 +77,7 @@ Dans cet exemple, la position des LED allumées change en fonction du temps. Pou
 objet ``LinearAnimator`` de la bibliothèque qui simplifie énormément la gestion des animations malgré
 sa propre simplicité d'implémentation.
 
-Un ``LinearAnimator`` réalise une transition de 0 à 1, de 1 à 0, ou en boucle selon les options est passées.
+Un ``LinearAnimator`` réalise une transition de 0 à 1, de 1 à 0, ou en boucle selon les options passées.
 Dans notre cas, il est initialisé dans la fonction ``setup`` avec une durée de 3000ms (i.e. 3s) et un fonctionnement en boucle. 
 Nous le démarrons aussi dès l'initialisation.
 
