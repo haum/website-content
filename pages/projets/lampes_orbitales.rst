@@ -130,7 +130,7 @@ Le résultat à l'écran
 
 .. container:: aligncenter
 
-    [flickr:id=2883434265]
+    [flickr:id=28834342654]
 
 .. container:: aligncenter
 
