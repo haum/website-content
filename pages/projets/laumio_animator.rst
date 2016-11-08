@@ -163,7 +163,7 @@ Evolution du projet
 ===================
 Les signaux
 -----------
-Les signaux sont l'évolution à venir pour créer un système complexe d'animations. Ceux-ci ne remettent pas en cause les animations déjà existantes mais offrent un moyen de les enrichir considérablement et de proposer des fonctions de calcul de couleur totalement configurables et inédites, dépendant uniquement de la créativité du développeur ou du copositeur.
+Les signaux sont l'évolution à venir pour créer un système complexe d'animations. Ceux-ci ne remettent pas en cause les animations déjà existantes mais offrent un moyen de les enrichir considérablement et de proposer des fonctions de calcul de couleur totalement configurables et inédites, dépendant uniquement de la créativité du développeur ou du compositeur.
 
 Dans le principe, un signal est un objet utilisant le temps d'animation pour renvoyer une valeur entre 0 et 1, qu'il faudra ensuite utiliser dans une animation avec des paramètres de couleur. La particularité est qu'un signal peut être développé pour appeler plusieurs autres signaux et les mélanger. Il est donc facile d'imaginer une pléthore de signaux canoniques calculant d'une part des valeurs ou d'autre part associant des 
 
