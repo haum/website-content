@@ -9,7 +9,7 @@ totalité des membres (trois s'étant excusés).
 
 Le PV_ d'assemblée générale fait foi pour toute réclamation.
 
-.. _PV: https://github.com/haum/legal/blob/master/ordinaire_2014/pv_2014_10_10.pdf?raw=true
+.. _PV: https://github.com/haum/legal/blob/master/assemblees_generales/ordinaire_2014/pv_2014_10_10.pdf?raw=true
 
 Les infos, les rapports
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -17,7 +17,7 @@ Les infos, les rapports
 Les rapports moral et financier ont été présentés puis validés par l'assemblée. Vous en trouverez une copie dans le
 `dossier d'AG`_.
 
-.. _dossier d'AG : https://raw.github.com/haum/legal/master/ordinaire_2014/ago_2014.pdf
+.. _dossier d'AG : https://raw.github.com/haum/legal/master/assemblees_generales/ordinaire_2014/ago_2014.pdf
 
 Amendements
 ~~~~~~~~~~~

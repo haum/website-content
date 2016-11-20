@@ -38,15 +38,15 @@ Légal
 =====
 
 Tout ce qui concerne l'existence légale du HAUM est disponible `sur github`_.
-Vous y trouverez les statuts de l'`association`_ ainsi que son réglement `intérieur`_.
+Vous y trouverez les `statuts` de l'association_ ainsi que son `règlement intérieur`_.
 
 En plus de ça, certaines informations sont répliquées sur notre site :
 
 - `Assemblée générale ordinaire 2013`_
 - `Assemblée générale ordinaire 2014`_
 
-.. _association: https://github.com/haum/legal/blob/master/statuts/statuts.pdf
-.. _intérieur: https://github.com/haum/legal/blob/master/ri/ri.pdf
+.. _statuts: https://github.com/haum/legal/blob/master/statuts/statuts.pdf
+.. _règlement intérieur: https://github.com/haum/legal/blob/master/ri/ri.pdf
 .. _sur github: https://github.com/haum/legal
 .. _Assemblée générale ordinaire 2013: /pages/assemblee-generale-2013.html
 .. _Assemblée générale ordinaire 2014: /pages/assemblee-generale-2014.html
