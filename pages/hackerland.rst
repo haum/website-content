@@ -46,7 +46,7 @@ En plus de ça, certaines informations sont répliquées sur notre site :
 - `Assemblée générale ordinaire 2014`_
 
 .. _statuts: https://github.com/haum/legal/blob/master/statuts/statuts.pdf
-.. _règlement intérieur: https://github.com/haum/legal/blob/master/ri/ri.pdf
+.. _règlement intérieur: https://github.com/haum/legal/blob/master/reglement_interieur/ri.pdf
 .. _sur github: https://github.com/haum/legal
 .. _Assemblée générale ordinaire 2013: /pages/assemblee-generale-2013.html
 .. _Assemblée générale ordinaire 2014: /pages/assemblee-generale-2014.html
