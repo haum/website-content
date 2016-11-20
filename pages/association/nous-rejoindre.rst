@@ -15,14 +15,17 @@ Rencontrer le HAUM
 Au local
 --------
 
-Le HAUM est situé dans les locaux de la `Ruche Numérique`_. Pour être plus précis encore, il est au `19 Bd M&A Oyon`_ au
-troisième étage.
+Le HAUM est situé dans les locaux de la `Ruche Numérique`_. Pour être encore 
+plus précis, il est au `19 Bd M&A Oyon`_ au troisième étage.
 
 Le HAUM offre pour le moment un accueil certes occasionnel, mais régulier !
 
-L'ojectif étant à terme de faire évoluer les horaires d'ouverture afin d'offrir la possibilité de participer au plus grand nombre.
+L'objectif est à terme de faire évoluer les horaires d'ouverture afin d'offrir 
+la possibilité de participer au plus grand nombre.
 
-Pour connaître les jours où nos portes vous sont ouvertes, passez nous voir sur IRC_ pour en discuter ou posez nous la question directement sur notre mailing-list_.
+Pour connaître les jours où nos portes vous sont ouvertes, passez nous voir sur 
+IRC_ pour en discuter ou posez nous la question directement sur notre 
+mailing-list_.
 
 .. _Ruche Numérique: http://laruchenumerique.com
 .. _IRC: http://irc.lc/freenode/haum
@@ -46,18 +49,19 @@ Nous soutenir
 
 Il y a plusieurs moyens :
 
-- on est une association, donc vous pouvez adhérer !
-- on est toujours limite dans le budget, donc vous pouvez faire un don !
-- on aime bien les bières et les pizzas... donc vous pouvez offrir une tournée quand vous venez nous voir !
+- On est une association, donc vous pouvez adhérer !
+- On est toujours limite dans le budget, donc vous pouvez faire un don !
+- On aime bien les bières et les pizzas... donc vous pouvez offrir une tournée quand vous venez nous voir !
 
 Adhérer !
 ---------
 
-Parlez en à un des membres et il vous renseignera !
+Parlez-en à un des membres et il vous renseignera !
 
 Pour ce qui est cotisation, voilà le concept :
 
-- la cotisation annuelle des membres actifs ou des personnes morales est fixée à un montant de 30 euros ;
+- la cotisation annuelle des membres actifs ou des personnes morales est fixée 
+à un montant de 30 euros ;
     Pour obtenir le statut de membre adhérent, la personne devra prendre connaissance des statuts et du règlement intérieur de l'association.
 
     Pour renouveler son adhésion, l'adhérent aura un délai d'un mois après la fin de son adhésion pour payer le montant de la cotisation de l'année suivante.
@@ -65,13 +69,12 @@ Pour ce qui est cotisation, voilà le concept :
 
     À noter que le montant de la cotisation est réduit de moitié à partir du premier juillet.
 
-- la cotisation annuelle des membres bienfaiteurs (partenaires) est laissé à la discrétion de l'adhérent (il n'est
-  toutefois pas possible d'adhérer sans cotisation).
+- la cotisation annuelle des membres bienfaiteurs (partenaires) est laissée à la discrétion de l'adhérent (il n'est cependant pas possible d'adhérer sans cotisation).
 
 Faire un don !
 --------------
 
-Vous pouvez nous faire un don autant de fois que vous voulez ! Pour plus d'info, parlez en à matael_ ou poumcala_ !
+Vous pouvez nous faire un don autant de fois que vous voulez ! Pour plus d'info, parlez en à matael_ !
 
 .. _matael: https://twitter.com/Matael
 .. _poumcala: https://twitter.com/Poumcala
