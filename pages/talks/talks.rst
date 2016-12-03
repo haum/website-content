@@ -19,15 +19,15 @@ exposé sur le sujet de votre choix.
 
 .. Pas de prochaine session programmée pour l'instant
 
-.. Prochaine session
-.. -----------------
+Prochaine session
+-----------------
 
-.. La prochaine session de talks est prévue le mardi 13 septembre 2016 à 19h.
+La prochaine session de talks est prévue le mardi 13 décembre 2016 à 19h.
 
 Sessions précédentes
 --------------------
 
-- `Session 9 (décembre 2016) <talks_session9.html>`_
+.. - `Session 9 (décembre 2016) <talks_session9.html>`_
 - `Session 8 (septembre 2016) <talks_session8.html>`_
 - `Session 7 (juin 2016) <talks_session7.html>`_
 - `Session 6 (avril 2016) <talks_session6.html>`_
