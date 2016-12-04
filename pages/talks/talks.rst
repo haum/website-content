@@ -24,6 +24,13 @@ Prochaine session
 
 La prochaine session de talks est prévue le mardi 13 décembre 2016 à 19h.
 
+Au programme :
+
+- *Vim vs Emacs* par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
+- *De QWERTY à aujourd'hui: l'evolution du clavier* par Romain Porte (MicroJoe)
+- *Howm-to: Communiquons sur la toile !* par Jean-Marc Lefrancois (Gras)
+- *Prépare ton talk* par Mathieu Gaborit (matael)
+
 Sessions précédentes
 --------------------
 
