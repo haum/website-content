@@ -30,8 +30,11 @@ Talk proposé par Yannick Duthé
             <source src="https://haum.svallee.fr/talks8/1_aquaponie.mp4" type="video/mp4">
         </video>
 
+- `Notes de la présentation`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
+
+.. _Notes de la présentation: https://fluidlog.hackpad.com/Aquaponie-l8Egn7FPsQl
 
 .. _Disk vs. Keyboard:
 
