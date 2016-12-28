@@ -10,8 +10,8 @@ HAUMTalks #9
 Pour cette séance organisée le 13 décembre 2016, 4 talks sont proposés :
 
 - `Vim vs Emacs`_ par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
-- `De QWERTY à aujourd'hui: l'evolution du clavier`_ par Romain Porte (MicroJoe)
 - `Howm-to: Communiquons sur la toile!`_ par Jean-Marc Lefrancois (Gras)
+- `De QWERTY à aujourd'hui: l'evolution du clavier`_ par Romain Porte (MicroJoe)
 - `Prépare ton talk`_ par Mathieu Gaborit (matael)
 
 
@@ -21,6 +21,32 @@ Vim vs Emacs
 ------------
 
 Talk proposé par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks9/1_vim_emacs.mp4" type="video/mp4">
+        </video>
+
+- `Retour à la liste des talks de cette session`_
+- `Retour à la liste des HAUMTalks`_
+
+.. _Howm-to\: Communiquons sur la toile!:
+
+Howm-to: Communiquons sur la toile!
+-----------------------------------
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks9/2_communiquons.mp4" type="video/mp4">
+        </video>
+
+Talk proposé par Jean-Marc Lefrancois (Gras)
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -32,15 +58,13 @@ De QWERTY à aujourd'hui: l'evolution du clavier
 
 Talk proposé par Romain Porte (MicroJoe)
 
-- `Retour à la liste des talks de cette session`_
-- `Retour à la liste des HAUMTalks`_
+.. container:: aligncenter
 
-.. _Howm-to\: Communiquons sur la toile!:
+    .. raw:: html
 
-Howm-to: Communiquons sur la toile!
------------------------------------
-
-Talk proposé par Jean-Marc Lefrancois (Gras)
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks9/3_claviers.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
@@ -51,6 +75,14 @@ Prépare ton talk
 ----------------
 
 Talk proposé par Mathieu Gaborit (matael)
+
+.. container:: aligncenter
+
+    .. raw:: html
+
+        <video width="560" height="315" controls>
+            <source src="https://haum.svallee.fr/talks9/4_talk.mp4" type="video/mp4">
+        </video>
 
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
