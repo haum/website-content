@@ -11,7 +11,7 @@ Pour cette séance organisée le 13 décembre 2016, 4 talks sont proposés :
 
 - `Vim vs Emacs`_ par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
 - `Howm-to: Communiquons sur la toile!`_ par Jean-Marc Lefrancois (Gras)
-- `De QWERTY à aujourd'hui: l'evolution du clavier`_ par Romain Porte (MicroJoe)
+- `De QWERTY à aujourd'hui: les évolutions du clavier`_ par Romain Porte (MicroJoe)
 - `Prépare ton talk`_ par Mathieu Gaborit (matael)
 
 
@@ -51,10 +51,10 @@ Talk proposé par Jean-Marc Lefrancois (Gras)
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _De QWERTY à aujourd'hui\: l'evolution du clavier:
+.. _De QWERTY à aujourd'hui\: les évolutions du clavier:
 
-De QWERTY à aujourd'hui: l'evolution du clavier
------------------------------------------------
+De QWERTY à aujourd'hui: les évolutions du clavier
+--------------------------------------------------
 
 Talk proposé par Romain Porte (MicroJoe)
 
