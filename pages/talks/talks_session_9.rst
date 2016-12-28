@@ -10,8 +10,8 @@ HAUMTalks #9
 Pour cette séance organisée le 13 décembre 2016, 4 talks sont proposés :
 
 - `Vim vs Emacs`_ par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
-- `Howm-to: Communiquons sur la toile!`_ par Jean-Marc Lefrancois (Gras)
-- `De QWERTY à aujourd'hui: les évolutions du clavier`_ par Romain Porte (MicroJoe)
+- `Howm-to : Communiquons sur la toile !`_ par Jean-Marc Lefrancois (Gras)
+- `De QWERTY à aujourd'hui : les évolutions du clavier`_ par Romain Porte (MicroJoe)
 - `Prépare ton talk`_ par Mathieu Gaborit (matael)
 
 
@@ -33,10 +33,10 @@ Talk proposé par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _Howm-to\: Communiquons sur la toile!:
+.. _Howm-to\: Communiquons sur la toile !:
 
-Howm-to: Communiquons sur la toile!
------------------------------------
+Howm-to : Communiquons sur la toile !
+-------------------------------------
 
 .. container:: aligncenter
 
@@ -53,8 +53,8 @@ Talk proposé par Jean-Marc Lefrancois (Gras)
 
 .. _De QWERTY à aujourd'hui\: les évolutions du clavier:
 
-De QWERTY à aujourd'hui: les évolutions du clavier
---------------------------------------------------
+De QWERTY à aujourd'hui : les évolutions du clavier
+---------------------------------------------------
 
 Talk proposé par Romain Porte (MicroJoe)
 
