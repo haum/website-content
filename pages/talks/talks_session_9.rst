@@ -9,32 +9,13 @@ HAUMTalks #9
 
 Pour cette séance organisée le 13 décembre 2016, 4 talks sont proposés :
 
-.. - `Vim vs Emacs`_ par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
-
+- Vim vs Emacs par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel) — pas d'enregistrement disponible
 - `Howm-to : Communiquons sur la toile !`_ par Jean-Marc Lefrancois (Gras)
 - `De QWERTY à aujourd'hui : les évolutions du clavier`_ par Romain Porte (MicroJoe)
 - `Prépare ton talk`_ par Mathieu Gaborit (matael)
 
 
-.. _Vim vs Emacs:
-
-.. Vim vs Emacs
-.. ------------
-
-.. Talk proposé par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
-
-.. .. container:: aligncenter
-
-..     .. raw:: html
-
-..         <video width="560" height="315" controls>
-..             <source src="https://haum.svallee.fr/talks9/1_vim_emacs.mp4" type="video/mp4">
-..         </video>
-
-.. - `Retour à la liste des talks de cette session`_
-.. - `Retour à la liste des HAUMTalks`_
-
-.. .. _Howm-to\: Communiquons sur la toile !:
+.. _Howm-to\: Communiquons sur la toile !:
 
 Howm-to : Communiquons sur la toile !
 -------------------------------------
