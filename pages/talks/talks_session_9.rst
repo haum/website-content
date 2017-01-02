@@ -15,7 +15,7 @@ Pour cette séance organisée le 13 décembre 2016, 4 talks sont proposés :
 - `Prépare ton talk`_ par Mathieu Gaborit (matael)
 
 
-.. _Howm-to\: Communiquons sur la toile !:
+.. _Howm-to \: Communiquons sur la toile !:
 
 Howm-to : Communiquons sur la toile !
 -------------------------------------
@@ -33,7 +33,7 @@ Talk proposé par Jean-Marc Lefrancois (Gras)
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
-.. _De QWERTY à aujourd'hui\: les évolutions du clavier:
+.. _De QWERTY à aujourd'hui \: les évolutions du clavier:
 
 De QWERTY à aujourd'hui : les évolutions du clavier
 ---------------------------------------------------
