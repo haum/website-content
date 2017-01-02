@@ -35,7 +35,7 @@ Sessions précédentes
 --------------------
 
 - `Session 9 (décembre 2016) <talks_session9.html>`_
-- `Session 8 (septemble 2016) <talks_session8.html>`_
+- `Session 8 (septembre 2016) <talks_session8.html>`_
 - `Session 7 (juin 2016) <talks_session7.html>`_
 - `Session 6 (avril 2016) <talks_session6.html>`_
 - `Session 5 (mars 2016) <talks_session5.html>`_
