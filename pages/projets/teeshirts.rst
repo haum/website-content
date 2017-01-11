@@ -45,8 +45,6 @@ qu’est la sérigraphie. Cette dernière utilise comme pochoirs des écrans de 
 montés sur cadre. À l’origine, les écrans étaient en soie (serica en latin) ;
 actuellement, ils sont en polyester.
 
-Voir aussi l'article `Sérigraphie sur textile <http://faitmain.org/volume-2/serigraphie.html>`_ sur le site faitmain.org
-
 Et après ?
 ==========
 
