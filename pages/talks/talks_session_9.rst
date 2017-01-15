@@ -48,6 +48,7 @@ Talk proposé par Romain Porte (MicroJoe)
             <source src="https://haum.svallee.fr/talks9/3_claviers.mp4" type="video/mp4">
         </video>
 
+- `Diaporama du talk (PDF) </images/talks/evolution_clavier.pdf>`_
 - `Retour à la liste des talks de cette session`_
 - `Retour à la liste des HAUMTalks`_
 
