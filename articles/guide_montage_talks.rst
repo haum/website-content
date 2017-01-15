@@ -69,7 +69,7 @@ fichier n'aura pas besoin d'être distribué ; il sera très rapide à charger 
 si il prendra pas mal de place sur votre disque dur).
 
 Création d'un projet Kdenlive
-===========================
+=============================
 
 Il est maintenant temps de créer un nouveau projet Kdenlive_. Nous allons créer
 un projet par talk.
@@ -92,7 +92,7 @@ Les plus attentifs d'entre vous auront remarqué qu'il manque l'image de titre d
 début de talk ; celle-ci ne nous sera pas utile pour l'instant et nous
 l'importeront en fin du montage.
 
-.. _kdenlive: https://kdenlive.org/
+.. _Kdenlive: https://kdenlive.org/
 .. _Pitivi: http://www.pitivi.org/
 
 Répartition des sources
