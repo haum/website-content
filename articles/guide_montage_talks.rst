@@ -137,7 +137,7 @@ Si on résume les effets à appliquer :
 
 - **Pour la vidéo**
     - **Amplification de 360%** (empirique, à adapter selon la vidéo)
-    - **Panning à 0 pur le canal droit** (afin d'avoir tout le son stéréo
+    - **Panning à 0 pour le canal droit** (afin d'avoir tout le son stéréo
       sur la gauche)
 
 - **Pour l'audio** (son perche)
