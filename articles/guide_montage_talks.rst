@@ -41,7 +41,7 @@ La vraie toute première étape est de trier tous les fichiers bruts en les
 .. _CC-BY: https://creativecommons.org/licenses/by/4.0/
 
 .. [1] Le fait d'avoir plusieurs fichiers vidéo est lié à la limite de temps
-   imposée aux contructeurs d'appareils photos, pour une raison de taxation
+   imposée aux constructeurs d'appareils photos, pour une raison de taxation
    différente de celle des caméscopes
 
 
@@ -68,29 +68,29 @@ Une fois le son accéléré, on peut l'exporter au format non compressé
 fichier n'aura pas besoin d'être distribué ; il sera très rapide à charger même
 si il prendra pas mal de place sur votre disque dur).
 
-Création du projet kdenlive
+Création d'un projet Kdenlive
 ===========================
 
-Il est maintenant temps de créer un nouveau projet kdenlive. Nous allons créer
+Il est maintenant temps de créer un nouveau projet Kdenlive_. Nous allons créer
 un projet par talk.
 
-Le logiciel kdenlive_ a été retenu par rapport à Pitivi_, du fait que ce
+Le logiciel Kdenlive a été préféré à Pitivi_, du fait que ce
 dernier soit très lent lors des phases de prévisualisation pendant le montage.
 Vous êtes néanmoins libre d'utiliser un autre logiciel, il faudra simplement
 adapter les étapes qui vont suivre.
 
-Création d'un projet kdenlive, donc. Pas de captures d'écran ici, il suffit
-d'installer kdenlive, de le lancer, et de créer un nouveau projet.
+Création d'un projet Kdenlive, donc. Pas de capture d'écran ici, il suffit
+de l'installer, de le lancer, puis de créer un nouveau projet.
 
-Ensuite importez toutes les sources nécessaires au montage du talk sur lequel
+Ensuite, importez toutes les sources nécessaires au montage du talk sur lequel
 vous allez travailler :
 
 - Les fichiers vidéo du talk
 - Le fichier audio accéléré au format WAV
 
 Les plus attentifs d'entre vous auront remarqué qu'il manque l'image de titre de
-début de talk ; celui-ci ne nous sera pas utile pour l'instant et nous
-l'importeront à la toute fin du montage.
+début de talk ; celle-ci ne nous sera pas utile pour l'instant et nous
+l'importeront en fin du montage.
 
 .. _kdenlive: https://kdenlive.org/
 .. _Pitivi: http://www.pitivi.org/
@@ -124,7 +124,7 @@ habituellement un calage manuel, c'est ce que nous allons faire ici.
 Effets
 ------
 
-Tout d'abord, nous allons appliquer des effets au fichier vidéo et audio afin
+Tout d'abord, nous allons appliquer des effets aux fichiers vidéo et audio afin
 de simplifier ce calage manuel : l'objectif est de mettre le son de la vidéo à
 gauche et le son "perche" à droite, afin de pouvoir bien distinguer les deux
 lors de l'écoute au casque.
@@ -162,16 +162,15 @@ la droite on a bien le son « propre » et à gauche le son de la caméra.
 l'effet stéréo pour savoir de quel flux provient le son que vous entendez, et
 pour caler le son *à la frame près*.
 
-Vous pouvez optionnellement créer un groupe d'effet pour chaque source (vidéo
-ou audio) afin de placer tous les effets utilisés dedans par glisser-déposer.
+Vous pouvez de façon optionnelle créer un groupe d'effet pour chaque source (vidéo
+ou audio) afin de placer tous les effets utilisés dedans en glisser-déposer.
 Ensuite enregistez le groupe d'effet, afin par exemple de ne pas avoir à tout
 reconfigurer pour les prochains talks, ou même simplement d'appliquer les
 effets de vidéo déjà réglés pour l'autre morceau de vidéo.
 
-Parfois kdenlive a tendance à appliquer les effets uniquement à partir d'un
+Parfois Kdenlive a tendance à appliquer les effets uniquement à partir d'un
 certain moment. Cela va se manifester par un champ qui doit ressembler à
-« début de l'effet », qu'il faudrait régler à 00:00 pour éviter que l'effet
-ne s'applique qu'au bout d'un certain temps.
+« début de l'effet », qu'il faudrait régler à 00:00 pour éviter ce décalage. 
 
 Calage
 ------
@@ -179,12 +178,12 @@ Calage
 Une fois tous les effets correctement paramétrés, on peut vraiment passer au
 calage audio.
 
-L'objectif est de se faire correspondre le son de la vidéo et le son perche,
+L'objectif est de faire se correspondre le son de la vidéo et le son perche,
 afin de pouvoir garder uniquement le son perche à la fin.
 
 Il va donc falloir écouter (et réécouter encore et encore) la prévisualisation
 en déplaçant, d'abord grossièrement, puis ensuite plus finement, la bande son
-par rapport à la vidéo (ou l'inverse). Le zoom intégré à kdenlive permet de
+par rapport à la vidéo (ou inversement). Le zoom intégré à Kdenlive permet de
 faire du calage *à la frame de vidéo près*.
 
 Un autre outil pouvant aider au calage est la visualisation de la forme du
@@ -204,9 +203,9 @@ Une fois que le son est calé pour les deux morceaux de vidéo, on peut alors
 désactiver les effets que l'on a appliqué (panning gauche/droite pour le casque)
 ainsi que désactiver le son de la caméra (avec une icône en forme d'œil).
 
-Si on lance une prévisualisation alors
-on a la vidéo de la caméra avec le son du ZoomX en stéréo, on a réussi à avoir
-de l'audio correct en concordance avec l'image de la caméra !
+Si on lance une prévisualisation alors on a la vidéo de la caméra avec le son
+du ZoomX en stéréo. On a donc réussi à avoir de l'audio correct en concordance
+avec l'image de la caméra !
 
 Ajout des titres
 ----------------
@@ -214,7 +213,7 @@ Ajout des titres
 Il reste maintenant à récupérer le fichier SVG pour les titres des talks et de
 l'ouvrir avec Inkscape_ afin de pouvoir changer le titre et le nom de l'auteur
 (sans oublier le numéro de session des HAUMTalks). On importe ensuite ce
-fichier SVG dans kdenlive et on le place au début et à la fin de la vidéo
+fichier SVG dans Kdenlive et on le place au début et à la fin de la vidéo
 (durée de 5s), ainsi que dans le « trou » entre les deux vidéos si cela
 s'applique.
 
@@ -223,9 +222,9 @@ s'applique.
 Rendu
 -----
 
-Une fois que vous avez vérifié à coup de prévisualisation que tout s'enchaîne
+Une fois que vous avez vérifié à coup de prévisualisations que tout s'enchaîne
 bien aux points de jonction, il ne reste plus qu'à encoder la vidéo avec
-l'outil d'exportation de kdenlive.
+l'outil d'exportation de Kdenlive.
 
 J'utilise le format MP4 (H.264 de mémoire) en 720p (HD). Bien que ce format ne
 soit pas libre, l'encodeur a l'avantage d'être plutôt rapide pour fournir un
@@ -238,13 +237,13 @@ Upload
 ------
 
 Dernière étape, qui est très souvent chronophage sauf si vous avez une
-connexion fibre et pas ADSL. Il va falloir uploader les quelques Go de vidéos
-des talks sur un serveur pour les servir sur le site.
+connexion fibre et pas ADSL : uploader les quelques Go de vidéos des talks sur
+un serveur pour les mettre à disposition sur le site.
 
 Je conseille l'utilisation de rsync qui va passer par ssh pour uploader les
 talks. L'avantage de rsync est qu'il peut reprende un téléversement interrompu
 sans devoir redémarrer de zéro.
 
 Si vous avez une connexion ADSL, alors lancer rsync avant d'aller vous coucher
-devrait permettre à avoir les talks mis en ligne sur le serveur à votre réveil
-le lendemain matin.
+devrait vous permettre d'avoir les talks mis en ligne sur le serveur à votre
+réveil le lendemain matin!
