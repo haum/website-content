@@ -1,0 +1,41 @@
+==============================
+Les 24h du code, c'est terminé
+==============================
+
+:date: 2017-01-23 18:30
+:tags: 24hCode
+:category: events
+:slug: 24h-du-code
+:authors: HAUM
+:summary: Fin des 24h du code 2017
+
+Comme en 2015 et en 2016, le HAUM proposait cette année un sujet aux 24h du Code 2017.
+Le sujet de cette année s'articulait autour des Laumii_ et les participants devaient
+répondre à de nombreuses énigmes pour en venir à bout.
+
+Le HAUM remercie tous les participants pour leur implication et leur patience tout au long
+de l'épreuve. Les stratégies ont été très variées suivant les équipes et répondre à vos
+question a été extrèmement intéressant.
+
+Malgré les nombreux bugs dans la validation des énigmes, certaines équipes sont parvenus à
+des scores impressionnants. Un grand bravo notamment aux `Duck Typers`_ qui ont parfaitement
+compris le sujet et ont su fournir des réponses efficaces et pertinentes.
+
+La création de sujets atypiques fait partie des objectifs du HAUM chaque année, et plus
+qu'autre chose, nous souhaitons que les participants se dépassent. Cette année, nous avons
+cherché à amener les équipes vers le matériel sans faire d'embarqué et à tester les
+capacités de réflexion sur un grand nombre de problèmes. Cette tentative s'est soldée par
+un beau match et la victoire bien méritée d'une équipe très à l'aise avec les différents
+algos requis.
+
+Les 24h du code sont aussi l'occasion pour nous d'amener un temps social entre codeurs et
+d'aller boire la traditionnelle bière de 0h32. Merci aux équipes de s'être prêtées au jeu
+et à l'équipe de l'Elephant Pub de ne pas avoir pris peur en nous voyant arriver.
+Merci enfin à tous les membres du HAUM qui ont rendu possible la réalisation du sujet et
+qui ont participé aux 24h.
+
+Bravo à tous et à bientôt !
+
+
+.. _Laumii: /pages/laumios.html
+.. _Duck Typers: https://github.com/Aluriak/24H2017
