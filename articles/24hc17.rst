@@ -15,9 +15,9 @@ répondre à de nombreuses énigmes pour en venir à bout.
 
 Le HAUM remercie tous les participants pour leur implication et leur patience tout au long
 de l'épreuve. Les stratégies ont été très variées suivant les équipes et répondre à vos
-question a été extrèmement intéressant.
+questions a été extrèmement intéressant.
 
-Malgré les nombreux bugs dans la validation des énigmes, certaines équipes sont parvenus à
+Malgré les nombreux bugs dans la validation des énigmes, certaines équipes sont parvenues à
 des scores impressionnants. Un grand bravo notamment aux `Duck Typers`_ qui ont parfaitement
 compris le sujet et ont su fournir des réponses efficaces et pertinentes.
 
@@ -31,7 +31,7 @@ algos requis.
 Les 24h du code sont aussi l'occasion pour nous d'amener un temps social entre codeurs et
 d'aller boire la traditionnelle bière de 0h32. Merci aux équipes de s'être prêtées au jeu
 et à l'équipe de l'Elephant Pub de ne pas avoir pris peur en nous voyant arriver.
-Merci enfin à tous les membres du HAUM qui ont rendu possible la réalisation du sujet et
+Merci enfin à tous les membres du HAUM qui ont rendu possible la réalisation du sujet, et
 qui ont participé aux 24h.
 
 Bravo à tous et à bientôt !
