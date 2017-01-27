@@ -36,6 +36,10 @@ qui ont participé aux 24h.
 
 Bravo à tous et à bientôt !
 
+  **EDIT:**
+
+  On a aussi mis notre code en ligne : https://github.com/haum/24hc17
+
 
 .. _Laumii: /pages/laumios.html
 .. _Duck Typers: https://github.com/Aluriak/24H2017
