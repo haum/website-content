@@ -2,7 +2,7 @@
 Le petit guide de montage des talks
 ===================================
 
-:date: 2016-09-17 11:30
+:date: 2017-01-5 12:06
 :tags: talks
 :category: tuto
 :slug: guide_montage_talks
