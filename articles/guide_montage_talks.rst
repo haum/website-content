@@ -7,8 +7,7 @@ Le petit guide de montage des talks
 :category: tuto
 :slug: guide_montage_talks
 :authors: MicroJoe
-:summary: Méthodes de flashage d’un STM32
-:status: draft
+:summary: Tout ce que vous vouliez savoir sur le montage des talks sans jamais n'oser le demander
 
 Bonjour à toi, petit contributeur curieux qui souhaite savoir comment sont
 montés les talks du HAUM.
@@ -88,8 +87,8 @@ vous allez travailler :
 - Les fichiers vidéo du talk
 - Le fichier audio accéléré au format WAV
 
-Les plus attentifs d'entre vous auront remarqué qu'il manque l'image de titre de
-début de talk ; celle-ci ne nous sera pas utile pour l'instant et nous
+Les plus attentifs d'entre vous auront remarqué qu'il manque l'image de titre
+de début de talk ; celle-ci ne nous sera pas utile pour l'instant et nous
 l'importeront en fin du montage.
 
 .. _Kdenlive: https://kdenlive.org/
@@ -118,7 +117,7 @@ Il faut faire correspondre le son du premier fichier vidéo avec le son du ZoomX
 contenu dans le fichier audio accéléré.
 
 Kdenlive possède une fonctionnalité d'alignement automatique de l'audio, mais
-je n'ai pas réussi à la faire fonctionner ; étant donné que j'effectue
+je n'ai pas réussi à la faire fonctionner ; étant donné que j'effectue
 habituellement un calage manuel, c'est ce que nous allons faire ici.
 
 Effets
@@ -141,8 +140,8 @@ Si on résume les effets à appliquer :
       sur la gauche)
 
 - **Pour l'audio** (son perche)
-    - **Panning à 1000 pour le canal gauche** (afin d'avoir tout le son stéréo sur
-      la droite)
+    - **Panning à 1000 pour le canal gauche** (afin d'avoir tout le son stéréo
+      sur la droite)
 
 En image, voici ce que ça donne pour la piste audio :
 
@@ -162,15 +161,15 @@ la droite on a bien le son « propre » et à gauche le son de la caméra.
 l'effet stéréo pour savoir de quel flux provient le son que vous entendez, et
 pour caler le son *à la frame près*.
 
-Vous pouvez de façon optionnelle créer un groupe d'effet pour chaque source (vidéo
-ou audio) afin de placer tous les effets utilisés dedans en glisser-déposer.
-Ensuite enregistez le groupe d'effet, afin par exemple de ne pas avoir à tout
-reconfigurer pour les prochains talks, ou même simplement d'appliquer les
-effets de vidéo déjà réglés pour l'autre morceau de vidéo.
+Vous pouvez de façon optionnelle créer un groupe d'effet pour chaque source
+(vidéo ou audio) afin de placer tous les effets utilisés dedans en
+glisser-déposer.  Ensuite enregistez le groupe d'effet, afin par exemple de ne
+pas avoir à tout reconfigurer pour les prochains talks, ou même simplement
+d'appliquer les effets de vidéo déjà réglés pour l'autre morceau de vidéo.
 
 Parfois Kdenlive a tendance à appliquer les effets uniquement à partir d'un
 certain moment. Cela va se manifester par un champ qui doit ressembler à
-« début de l'effet », qu'il faudrait régler à 00:00 pour éviter ce décalage. 
+« début de l'effet », qu'il faudrait régler à 00:00 pour éviter ce décalage.
 
 Calage
 ------
@@ -246,4 +245,4 @@ sans devoir redémarrer de zéro.
 
 Si vous avez une connexion ADSL, alors lancer rsync avant d'aller vous coucher
 devrait vous permettre d'avoir les talks mis en ligne sur le serveur à votre
-réveil le lendemain matin!
+réveil le lendemain matin !
