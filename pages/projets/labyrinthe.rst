@@ -75,7 +75,7 @@ les fabriquer par nos propres moyens.
 
 Tout commence par un dessin.
 
-A partie de ce croquis dont les dimensions sont en cm, nous calculons que nos
+A partir de ce croquis dont les dimensions sont en cm, nous calculons que nos
 sardines mesurent 25 cm chacune.
 
 Nous avons donc besoin de 40x25 cm de tiges de métal, soit 10 m.
