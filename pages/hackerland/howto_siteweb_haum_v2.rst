@@ -103,16 +103,7 @@ Et pour le *Markdown* alors ?
 La publication
 ``````````````
 
-La publication s'opère en deux étapes:
-
-Fusion de *master* dans *upstream*
-++++++++++++++++++++++++++++++++++
-
-    - passer sur la branche *upstream* : ``$ git checkout upstream``
-    - fusionner la branche *master* sur la branche *upstream*: ``$ git merge --ff master``
-    - en cas de conflit : ``$ git mergetool``
-
-Note: Pensez ensuite à vous repositionnez sur la branche master du site : ``$ git checkout master``
+La publication s'opère en une étape simple :
 
 Mise à jour du rendu sur le site
 ++++++++++++++++++++++++++++++++
