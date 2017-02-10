@@ -61,6 +61,7 @@ minutes).
 .. container:: aligncenter
 
     .. image:: /images/guide_montage_talks/audacity_speed.png
+       :alt: Réglage de l'accélération de la bande-son
 
 Une fois le son accéléré, on peut l'exporter au format non compressé
 *Microsoft WAV flottant 32bit* (pas la peine de le compresser car ce
@@ -103,6 +104,7 @@ On va maintenant pouvoir répartir grossièrement les différentes sources sur l
 .. container:: aligncenter
 
   .. image:: /images/guide_montage_talks/placement_grossier.png
+     :alt: Placement sommaire des sources audio et vidéo.
 
 Les deux vidéos à la suite avec un petit écart, et le fichier sonore sur sa
 propre piste audio.
@@ -148,12 +150,14 @@ En image, voici ce que ça donne pour la piste audio :
 .. container:: aligncenter
 
   .. image:: /images/guide_montage_talks/effets_alignement_audio.png
+     :alt: Interface de réglage des effets audio.
 
 Et pour la vidéo :
 
 .. container:: aligncenter
 
   .. image:: /images/guide_montage_talks/effets_alignement_camera.png
+     :alt: Interface de réglage des effets vidéo.
 
 Vous pouvez maintenant écouter la prévisualisation afin de vous assurer que sur
 la droite on a bien le son « propre » et à gauche le son de la caméra.
