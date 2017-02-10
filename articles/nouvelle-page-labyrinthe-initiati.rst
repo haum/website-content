@@ -15,7 +15,7 @@ Un petit article est apparu timidement il y a quelques jours pour nous parler d'
 
 Pour ceux qui ont pu le croiser et s'y essayer pendant les `Siestes Teriaki`_, il s'agit bien évidemment (comme l'indique le titre) du fameux labyrinthe à états issu d'Initiati Master, le jeu de plateau produit pendant notre Global Game Jam 2016.
 
-L'article retrace la fabrication physique et le montage du labyrinthe.
+L'article retrace la fabrication physique et le montage du labyrinthe, et ça se passe ici_.
 Pour la conception mathématique et ses explications... il faudra attendre encore un peu.
 
 
@@ -25,6 +25,6 @@ Pour la conception mathématique et ses explications... il faudra attendre encor
 
 
 .. _Siestes Teriaki: http://www.teriaki.fr/
-.. _là: /pages/labyrinthe.html
+.. _ici: /pages/labyrinthe.html
 
 
