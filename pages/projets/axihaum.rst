@@ -7,6 +7,12 @@ AxiHAUM
 :projet_realisation: terminé-brightgreen
 :projet_etat: fonctionnel, disponible au local-brightgreen
 
+.. image:: /images/bannieres_projets/axihaum.1.jpg
+    :alt: AxiHAUM
+
+Contexte
+========
+
 .. container:: alignright
 
     .. image:: /images/axihaum/sauvetage.jpg
@@ -29,7 +35,13 @@ Concernant l'aspect logiciel, le packaging d'HeeksCNC pour Debian (et variantes)
 
 Naturellement, une fois ces étapes achevées, il faudra effectuer une calibration mécanique pour réduire les points de dureté ainsi qu'assurer le parallélisme/la perpendicularité des axes.
 
-Note importante : le HAUM ne dispose pour le moment d'aucune broche/fraiseuse (outil rotatif supportant des outils de fraisage), ni des outils de découpe (fraises, forets, chanfreins, etc.)
+
+Aujourd'hui
+===========
+
+Depuis fin 2016, AxiHAUM est pleinement fonctionnelle et a enfin rejoint le local !
+Les données de travail sont disponibles sur le `dépôt GitHub`_ associé. Quant aux photos d'AxiHAUM et de son environnement, c'est dans son `album flickr`_ que ça se passe !
+
 
 .. _Université du Maine: http://www.univ-lemans.fr/fr/index.html
 .. _PCB: https://en.wikipedia.org/wiki/Printed_circuit_board
@@ -37,3 +49,6 @@ Note importante : le HAUM ne dispose pour le moment d'aucune broche/fraiseuse (o
 .. _matael: http://twitter.com/matael
 .. _jblb: http://twitter.com/jblb_72
 .. _rebrec: https://twitter.com/elfrancesco
+
+.. _dépôt GitHub: https://github.com/haum/axihaum
+.. _album flickr: https://www.flickr.com/photos/126718549@N08/sets/72157646331169626
