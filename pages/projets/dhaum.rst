@@ -8,7 +8,7 @@ dHAUM
 :projet_etat: fonctionnel-brightgreen
 
 .. image:: /images/bannieres_projets/dhaum.3.jpg
-    :alt: Laumios
+    :alt: dHAUM
 
 
 Qu'est ce que c'est?
