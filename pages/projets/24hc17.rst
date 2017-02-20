@@ -1,0 +1,39 @@
+====================
+Les 24h du code 2017
+====================
+
+:slug: 24h-du-code-2017
+:projet_realisation: v1 terminée -brightgreen
+:projet_etat: fonctionnel -brightgreen
+
+.. image:: /images/bannieres_projets/24hc17.1.jpg
+    :alt: 24HC17
+
+
+
+Qu'est ce que c'est ?
+=====================
+Work In progress
+
+.. _boîte noire... lumineuse: /pages/24h-du-code-2017.html
+
+(`Photos <https://www.flickr.com/photos/126718549@N08/albums/72157676928037984>`__), 
+
+
+Le sujet
+========
+
+Au global
+---------
+
+Wip wip !
+
+Quelques énigmes
+----------------
+
+Wip Wip !
+
+Le résultat
+-----------
+
+Wip Wip !
