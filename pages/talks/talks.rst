@@ -3,6 +3,10 @@ HAUMTalks
 
 :slug: talks
 
+.. image:: /images/bannieres_projets/talks.1.jpg
+    :alt: HAUMTalks
+
+
 Qu'est-ce ?
 ------------
 
@@ -20,12 +24,12 @@ exposé sur le sujet de votre choix.
 Prochaine session
 -----------------
 
-Pas de prochaine session programmée pour l'instant
+.. Pas de prochaine session programmée pour l'instant
 
-.. La prochaine session de talks est prévue le mardi 13 décembre 2016 à 19h.
+La prochaine session de talks est prévue le jeudi 16 février 2016 à 19h.
 
-.. Au programme :
-
+Au programme :
+Des ondes et du libre !
 .. - *Vim vs Emacs* par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
 .. - *De QWERTY à aujourd'hui: l'evolution du clavier* par Romain Porte (MicroJoe)
 .. - *Howm-to: Communiquons sur la toile !* par Jean-Marc Lefrancois (Gras)
