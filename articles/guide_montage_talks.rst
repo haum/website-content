@@ -244,7 +244,7 @@ connexion fibre et pas ADSL : uploader les quelques Go de vidéos des talks sur
 un serveur pour les mettre à disposition sur le site.
 
 Je conseille l'utilisation de rsync qui va passer par ssh pour uploader les
-talks. L'avantage de rsync est qu'il peut reprende un téléversement interrompu
+talks. L'avantage de rsync est qu'il peut reprendre un téléversement interrompu
 sans devoir redémarrer de zéro.
 
 Si vous avez une connexion ADSL, alors lancer rsync avant d'aller vous coucher
