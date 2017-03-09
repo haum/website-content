@@ -5,7 +5,7 @@ Les 24h du code 2017
 :slug: 24h-du-code-2017
 :projet_realisation: terminée -brightgreen
 :projet_etat: déroulé -brightgreen
-:status: draft
+:status: hidden
 
 .. image:: /images/bannieres_projets/24hc17.1.jpg
     :alt: 24HC17
