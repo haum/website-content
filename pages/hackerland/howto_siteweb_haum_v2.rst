@@ -115,10 +115,10 @@ Des liens qui peuvent servir
 ----------------------------
 
     - `Markdown Cheatsheet <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>`_
-    - `Ce que j’aurais aimé savoir quand j’ai commencé GIT <http://software-craftsman.fr/2014/05/12/a-la-decouverte-de-git/>`_
+    - `Ce que j’aurais aimé savoir quand j’ai commencé GIT <https://lilobase.wordpress.com/2014/05/12/a-la-decouverte-de-git/>`_
 
 
-.. [#] Demadez un accès si vous n'en avez pas.
+.. [#] Demandez un accès si vous n'en avez pas.
 
 .. _Pelican: http://docs.getpelican.com/en/latest/index.html
 .. _ReText: http://sourceforge.net/p/retext/home/ReText
