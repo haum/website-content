@@ -30,7 +30,7 @@ En attendant voilà les projets softwares (ou de rédaction) auxquels vous pouve
 - Haniview : https://github.com/haum/hanivew
 - TwitterBot : https://github.com/haum/TwitterBot
 - timeoAPI : https://github.com/haum/timeoAPI
-- heeksCNC (parce qu'on va s'en servir sous peu) : https://github.com/Heeks/heekscad
+- heekscad/heekscnc : https://github.com/Heeks/heekscad
 
 .. _dépôt du HAUM: https://github.com/haum/
 
@@ -47,15 +47,15 @@ Ce projet est supporté par jblb_,  neomilium_ et  matael_.
 HaumBots
 --------
 
-Actuellement, 3 bots travaillent pour nous : Twaum (Twitter ⇔ IRC), bcazeneuve (Mises à jour du site, gestion de l’agenda, ouverture du local, récupération des liens sur notre subreddit_, …), et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
-Il fut un temps où combot, un bot codé en Perl avec amour par matael, nous servait bien, mais il a laissé sa place à bcazeneuve (pour les mêmes fonctions), un bot basé sur une infrastructure de microservice, monté par notre MicroJoe.
+Actuellement, 3 bots travaillent pour nous : *Twaum* (Twitter ⇔ IRC), *bcazeneuve* (Mises à jour du site, gestion de l’agenda, ouverture du local, récupération des liens sur notre subreddit_, …), et un `bot GitHub`_ qui notifie sur notre chan IRC les différents évèments git (push, pull-resquest & co) des principaux dépots git de l'association.
+Il fut un temps où *combot*, un bot codé en Perl avec amour par matael_, nous servait bien, mais il a laissé sa place à bcazeneuve (pour les mêmes fonctions), un bot basé sur une infrastructure de microservice, monté par notre microjoe_.
 
-Vous pouvez contribuer à Twaum ou au bot GitHub en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
+Vous pouvez contribuer à *Twaum* ou au bot GitHub en forkant un des dépôts suivants ou bien pinger matael_ ou feedoo_ sur IRC :
 
 - https://github.com/haum/TwitterBot
 - https://github.com/Matael/GithubBot
 
-Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant par HMS sur le github du HAUM. Voici ceux existant à l'heure de l'écriture de cet article :
+Vous pouvez aussi contribuer à *bcazeneuve* en forkant un des dépots commençant par HMS sur le github du HAUM. Voici ceux existant à l'heure de l'écriture de cet article :
 
 - https://github.com/haum/hms_irc (Connexion IRC)
 - https://github.com/haum/hms_spacestatus (Ouverture du local)
@@ -67,7 +67,7 @@ Vous pouvez aussi contribuer à bcazeneuve en forkant un des dépots commençant
 - https://github.com/haum/hms_base (Base de developpement pour un nouveau module HMS)
 - https://github.com/haum/hms_help (Aide de fonctionnement de l'infrastructure)
 
-Notre dévoué combot est toujours présent sur GitHub, dans l'état où il se trouvait avant son arrêt :
+Notre dévoué *combot* est toujours présent sur GitHub, dans l'état où il se trouvait avant son arrêt :
 
 - https://github.com/haum/combot
 
@@ -80,3 +80,4 @@ Notre dévoué combot est toujours présent sur GitHub, dans l'état où il se t
 .. _jblb: http://twitter.com/jblb_72
 .. _rebrec: https://twitter.com/elfrancesco
 .. _feedoo: http://twitter.com/fblain
+.. _microjoe: https://twitter.com/MicroJoe_
