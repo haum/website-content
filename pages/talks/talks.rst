@@ -24,20 +24,17 @@ exposé sur le sujet de votre choix.
 Prochaine session
 -----------------
 
-.. Pas de prochaine session programmée pour l'instant
+Pas de prochaine session programmée pour l'instant
 
-La prochaine session de talks est prévue le jeudi 16 février 2016 à 19h.
+.. La prochaine session de talks est prévue le jeudi 16 février 2016 à 19h.
 
-Au programme :
-Des ondes et du libre !
-.. - *Vim vs Emacs* par Corentin Breton (NeodarZ) & Bastien Bidault (VerdeRnel)
-.. - *De QWERTY à aujourd'hui: l'evolution du clavier* par Romain Porte (MicroJoe)
-.. - *Howm-to: Communiquons sur la toile !* par Jean-Marc Lefrancois (Gras)
-.. - *Prépare ton talk* par Mathieu Gaborit (matael)
+.. Au programme :
+.. Des ondes et du libre !
 
 Sessions précédentes
 --------------------
 
+- `Session 10 (février 2017) <talks_session10.html>`_
 - `Session 9 (décembre 2016) <talks_session9.html>`_
 - `Session 8 (septembre 2016) <talks_session8.html>`_
 - `Session 7 (juin 2016) <talks_session7.html>`_
