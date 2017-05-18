@@ -15,22 +15,16 @@ Rencontrer le HAUM
 Au local
 --------
 
-Le HAUM est situé dans les locaux de la `Ruche Numérique`_. Pour être encore 
-plus précis, il est au `19 Bd M&A Oyon`_ au troisième étage.
+Le HAUM est situé au deuxième étage du `57 boulevard Demorieux`_.
 
-Le HAUM offre pour le moment un accueil certes occasionnel, mais régulier !
-
-L'objectif est à terme de faire évoluer les horaires d'ouverture afin d'offrir 
-la possibilité de participer au plus grand nombre.
-
-Pour connaître les jours où nos portes vous sont ouvertes, passez nous voir sur 
-IRC_ pour en discuter ou posez nous la question directement sur notre 
-mailing-list_.
+Pour connaître les jours où nos portes vous sont ouvertes, faites un tour sur
+la page d'accueil du site, passez nous voir sur IRC_ pour en discuter ou
+posez-nous la question directement sur notre mailing-list_.
 
 .. _Ruche Numérique: http://laruchenumerique.com
 .. _IRC: http://irc.lc/freenode/haum
 .. _mailing-list: http://lists.haum.org/mailman/listinfo/haum_hackerspace 
-.. _19 Bd M&A Oyon: http://www.openstreetmap.org/?mlat=47.99501&mlon=0.18858#map=19/47.99501/0.18858&layers=N
+.. _57 boulevard Demorieux: http://www.openstreetmap.org/?mlat=47.99352&mlon=0.18522#map=17/47.99352/0.18522
 
 Mais pas que...
 ---------------
