@@ -8,7 +8,6 @@ Un nouveau local, nouvelle demeure des hackers
 :slug: nouveau-local
 :authors: Sébastien (seb_vallee)
 :summary: Le déménagement des hackers
-:status: draft
 
 Très peu de nouvelles sur le site ces derniers temps, mais les hackers ont été bien
 occupés par les projets en cours d'une part et leur déménagement d'autre part.  Car oui,
@@ -45,4 +44,4 @@ Venez nous voir et échanger sur vos projets persos ou les nôtres, on a encore 
 place pour vous accueillir !
 
 
-Psst... il paraît même qu'il y a **une semaine** de portes ouvertes du XX au XX juin !
+Psst... il paraît même qu'il y a **une semaine** de portes ouvertes du 06 au 10 juin !
