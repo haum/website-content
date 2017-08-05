@@ -23,7 +23,7 @@ quoi faire.
 
 Les outils d'abord. Elles sont belles et flambant neuves, la découpeuse LASER modifiée par
 RobotSeed_ et l'imprimante 3D ont tout pour plaire aux bidouilleurs. Après une séance de
-formation sur la découpeuse, les tests vont bon train {IMAGES tests de découpe} pour
+formation sur la découpeuse, les tests vont bon train pour
 prendre en main la bête. L'imprimante (une Ultimaker) reçoit elle aussi son lot
 d'attention (la précédente machine avait quelques soucis...).
 
@@ -34,6 +34,7 @@ rappeler les couleurs de l'asso.
 
 .. container:: aligncenter
 
+    [flickr:id=36220183962]
     [flickr:id=35696529176]
     [flickr:id=35579175483]
     [flickr:id=35692778826]
