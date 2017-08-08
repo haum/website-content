@@ -70,7 +70,7 @@ Actionneur
 
 Pour ce faire, il va donc falloir être capable d’allumer ou d’éteindre par nos
 propres moyens les résistances chauffantes. Des composants permettant de
-commuter une tension de 230 V, nous avons retenu le relai électromécanique pour
+commuter une tension de 230 V, nous avons retenu le relais électromécanique pour
 sa simplicité de mise en œuvre.
 
 Capteur
@@ -83,7 +83,7 @@ leur alimentation.
 Contrôleur
 """""""""""
 
-Afin de lire la température du capteur et activer ou non le relai, une Arduino
+Afin de lire la température du capteur et activer ou non le relais, une Arduino
 sur laquelle sont reliés le capteur et l’actionneur est positionnée à
 l’extérieur du boitier.
 
@@ -113,10 +113,10 @@ d’interfaçage`_ à base de générateur de courant et d’ampli-op.
 
 .. _une carte d’interfaçage: https://github.com/neomilium/grove-rtd
 
-Fixation du relai
+Fixation du relais
 """""""""""""""""
 
-Deuxième étape : fixer le relai à l’intérieur de la plastifieuse à côté du
+Deuxième étape : fixer le relais à l’intérieur de la plastifieuse à côté du
 circuit électrique du secteur.
 
 En positionnant le module à cet endroit, toute la partie haute tension qui peut
@@ -146,14 +146,14 @@ positionner la plaque :
 
     [flickr:id=18731859153]
 
-Création d’une dérivation électrique vers le relai
+Création d’une dérivation électrique vers le relais
 """"""""""""""""""""""""""""""""""""""""""""""""""
 
 En parallèle des thermocouples fixés sur la résistance du haut, on va venir
-brancher notre relai qui permettra de gérer l’alimentation des résistances en
+brancher notre relais qui permettra de gérer l’alimentation des résistances en
 totale autonomie.
 
-Pour celai, on coupe les gaines de protection autour des branchements des thermocouples, on y soude des fils résistants à la chaleur qui vont venir se brancher sur notre relai puis on remet de la gaine thermique pour protéger les branchements.
+Pour cela, on coupe les gaines de protection autour des branchements des thermocouples, on y soude des fils résistants à la chaleur qui vont venir se brancher sur notre relais puis on remet de la gaine thermique pour protéger les branchements.
 
 .. container:: aligncenter
 
@@ -167,8 +167,8 @@ Passage des câbles de commande
 """"""""""""""""""""""""""""""
 
 Toute la partie haute tension est maintenant réalisée ! Après avoir branché les
-nouveaux fils sur la partie haute tension du relai, on va commencer par relier
-des paires torsadées au relai pour la partie commande qui vont longer tout le
+nouveaux fils sur la partie haute tension du relais, on va commencer par relier
+des paires torsadées au relais pour la partie commande qui vont longer tout le
 haut du boitier pour ressortir de l’autre côté de la machine.
 
 .. container:: aligncenter
@@ -185,7 +185,7 @@ faire fondre la colle du premier scotch ainsi que les câbles.
 
     [flickr:id=19346405562]
 
-Et voilà ! Plus qu’à utiliser ces fils de commande pour activer le relai depuis
+Et voilà ! Plus qu’à utiliser ces fils de commande pour activer le relais depuis
 l’Arduino.
 
 Mesures et code

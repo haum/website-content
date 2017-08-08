@@ -73,10 +73,10 @@ HAUMelitta
 Romain et Sébastien ont pu avancer sur l’emblème du HAUM : la cafetière connectée.
 
 À l'aide plusieurs sessions de pair programming à coup de chat vocal et de tmux ils ont réussi à refaire fonctionner la partie logicielle qui scanne les tweets, non pas sans
-difficultés (notamment à cause des limites imposées par Twitter sur son API). Le clic du relai lors d’un tweet, même à travers un chat vocal, procure une sensation plutôt
+difficultés (notamment à cause des limites imposées par Twitter sur son API). Le clic du relais lors d’un tweet, même à travers un chat vocal, procure une sensation plutôt
 agréable.
 
-Ensuite, il a fallu s’attaquer à la partie électrique du montage en hackant une multiprise pour lui intégrer le relai dont il est question plus haut ainsi que le câblage
+Ensuite, il a fallu s’attaquer à la partie électrique du montage en hackant une multiprise pour lui intégrer le relais dont il est question plus haut ainsi que le câblage
 nécessaire pour qu'elle soit pilotable.
 
 .. container:: aligncenter
