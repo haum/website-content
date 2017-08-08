@@ -39,7 +39,7 @@ rappeler les couleurs de l'asso.
     [flickr:id=35579175483]
     [flickr:id=35692778826]
 
-En plus de cette bricole, le HAUM s'est atelé à la réalisation de deux projets pour le
+En plus de cette bricole, le HAUM s'est attelé à la réalisation de deux projets pour le
 `Festival Teriaki`_ qui aura lieu du 24 au 27 août 2017. Le premier revisite `l'idée de
 labyrinthe`_ qui avait été tant appréciée l'an dernier, il est presque fini et les bricoleurs
 passeront bientôt au test grandeur nature. Le second est plus complexe et repose sur
@@ -52,7 +52,7 @@ développement et devrait être prêt et testé d'ici à fin août !
     [flickr:id=20404768654]
 
 
-Le HAUM a aussi été sélectionné pour participer en octobre `Festival D`_! Il s'agit d'un
+Le HAUM a aussi été sélectionné pour participer en octobre pour `Festival D`_! Il s'agit d'un
 festival hacker/maker bien connu dans l'ouest de la France et qui posera ses valises à
 Angers pour l'édition 2017. Ce n'est pas une première pour le hackerspace qui avait déjà
 pris part à `l'édition 2015`_ avec le 1DPong_. Cette année, c'est le *dHAUMadi*, le même
