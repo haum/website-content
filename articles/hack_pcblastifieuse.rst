@@ -114,7 +114,7 @@ d’interfaçage`_ à base de générateur de courant et d’ampli-op.
 .. _une carte d’interfaçage: https://github.com/neomilium/grove-rtd
 
 Fixation du relais
-"""""""""""""""""
+""""""""""""""""""
 
 Deuxième étape : fixer le relais à l’intérieur de la plastifieuse à côté du
 circuit électrique du secteur.
@@ -147,7 +147,7 @@ positionner la plaque :
     [flickr:id=18731859153]
 
 Création d’une dérivation électrique vers le relais
-""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""
 
 En parallèle des thermocouples fixés sur la résistance du haut, on va venir
 brancher notre relais qui permettra de gérer l’alimentation des résistances en
