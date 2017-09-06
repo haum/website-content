@@ -3,7 +3,7 @@ Les 24h du code, c'est terminé
 ==============================
 
 :date: 2017-01-23 18:30
-:tags: 24hCode
+:tags: 24hcode
 :category: events
 :slug: 24hc17
 :authors: HAUM

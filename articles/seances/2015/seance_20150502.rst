@@ -3,7 +3,7 @@ Des betteraves, du charbon et un peu de souffre
 ===============================================
 
 :date: 2015-05-02 19:00
-:tags: talks
+:tags: seances
 :category: news
 :slug: news_2015-05-02
 :authors: neomilium matael

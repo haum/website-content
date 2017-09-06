@@ -3,7 +3,7 @@ Des pages projets pour les Laumios
 ==================================
 
 :date: 2016-11-14 21:00
-:tags: Laumio Laumios LaumioAnimator LaumioDesk Pupitre 2016 Teriaki Epau BienVenusSurMars Venus Mars Vivoin
+:tags: laumios, laumioanimator, laumiodesk, pupitre, 2016, teriaki, epau, bienvenussurmars, vivoin
 :category: news
 :slug: nouvelles-pages-laumios
 :authors: Jean-Marc (Gras)

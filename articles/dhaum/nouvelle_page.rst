@@ -3,7 +3,7 @@ Une page projet pour le dHAUM
 =============================
 
 :date: 2017-02-11 11:35
-:tags: dHAUM dHAUMidi 2015 2016 Teriaki Epau BienVenusSurMars Venus Mars Vivoin
+:tags: dhaum, dhaumidi, 2015, 2016, teriaki, epau, bienvenussurmars, vivoin
 :category: news
 :slug: nouvelle-page-dhaum
 :authors: Jean-Marc (Gras)

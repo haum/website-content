@@ -3,7 +3,6 @@ Un test d'utilisation de Flickr
 ===============================
 
 :date: 2015-02-16 17:00
-:tags: talks
 :category: test
 :slug: test_flickr
 :authors: jblb

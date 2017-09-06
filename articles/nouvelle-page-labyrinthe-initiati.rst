@@ -3,7 +3,7 @@ Une page projet pour le Labyrinthe Initiati grandeur nature
 ===========================================================
 
 :date: 2017-02-10 21:15
-:tags: Labyrinthe Initiati 2016 Teriaki Epau
+:tags: projet_labyrinthe_initiati, labyrinthe, initiati, 2016, teriaki, epau
 :category: news
 :slug: nouvelle-page-labyrinthe-initiati
 :authors: Jean-Marc (Gras)

@@ -3,7 +3,7 @@ Un nouveau local, nouvelle demeure des hackers
 ==============================================
 
 :date: 2017-05-27 16:15
-:tags: Nouveau Local CICO
+:tags: nouveau local, cico
 :category: news
 :slug: nouveau-local
 :authors: Sébastien (seb_vallee)

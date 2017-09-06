@@ -3,7 +3,7 @@ A propos de Silhouette Cameo
 ============================
 
 :date: 2016-04-12 22:00
-:tags: Silhouette Cameo
+:tags: silhouette cameo, outils
 :category: tuto
 :slug: about-silhouette-cameo
 :authors: HAUM
