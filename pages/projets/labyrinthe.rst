@@ -5,6 +5,7 @@ Le Labyrinthe Initiati
 :slug: labyrinthe
 :projet_realisation: terminé-brightgreen
 :projet_etat: prêt a sortir-brightgreen
+:related: projet_labyrinthe_initiati
 
 .. image:: /images/bannieres_projets/labyrinthe.1.jpg
 	:alt: Le Labyrinthe Initiati

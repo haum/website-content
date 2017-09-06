@@ -7,6 +7,7 @@ Timelapse
 :slug: timelapse
 :authors: JackDesBwa
 :summary: Réalisation d'un timelapse
+:tags: projet_labyrinthe_initiati
 
 J'ai réalisé un timelapse du labyrinthe que nous avons présenté lors des
 Siestes Teriaki 2016. À cette occasion, voici un petit tutoriel pour

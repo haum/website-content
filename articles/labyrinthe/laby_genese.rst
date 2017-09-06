@@ -7,6 +7,7 @@ Génèse du labyrinthe Initiati
 :slug: laby_genese
 :authors: JackDesBwa, Lode runner, Gras
 :summary: Histoire du labyrinthe
+:tags: projet_labyrinthe_initiati
 
 Le labyrinthe du HAUM, vous connaissez. Mais connaissez-vous son histoire ?
 
