@@ -2,7 +2,7 @@
 Les 24h du code 2017
 ====================
 
-:slug: 24h-du-code-2017
+:slug: 24hc17
 :projet_realisation: terminée -brightgreen
 :projet_etat: déroulé -brightgreen
 :status: hidden
