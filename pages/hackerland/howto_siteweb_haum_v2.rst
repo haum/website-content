@@ -1,7 +1,6 @@
 =======================================
 Comment modifier le contenu du site web
 =======================================
-:status: hidden
 
 Préambule
 `````````
