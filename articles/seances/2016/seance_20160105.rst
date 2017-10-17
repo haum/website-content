@@ -64,7 +64,7 @@ automatique (utile pour les rapports de séance comme celui-ci par exemple).
 
 Ils ont identifié les différents canaux de communication à cibler, à savoir :
 
-- La `*mailing-list* du HAUM <http://lists.haum.org/mailman/listinfo/haum_hackerspace>`_
+- La `*mailing-list* du HAUM <https://lists.haum.org>`_
 - Le `compte Twitter de l’association <https://twitter.com/haum72>`_
 - La toute nouvelle `page Facebook <https://www.facebook.com/haum72/>`_
 

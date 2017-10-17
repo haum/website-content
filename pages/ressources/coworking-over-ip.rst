@@ -17,7 +17,7 @@ Voilà la liste des liens dans les *slides*, ainsi que des liens vers des ressou
 - **Introduction**
 
     - Ce site : http://haum.org
-    - la mailing-list du HAUM : http://lists.haum.org/mailman/listinfo/haum_hackerspace 
+    - la mailing-list du HAUM : https://lists.haum.org
 
 - I - Outils standards
 

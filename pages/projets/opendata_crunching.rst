@@ -115,7 +115,7 @@ Pour vous mettre l'eau à la bouche, en ce moment, ça cause des données d'ende
 .. _matael: http://twitter.com/matael
 .. _jblb: http://twitter.com/jblb_72
 .. _feedoo: http://twitter.com/fblain
-.. _mailing-list: http://lists.haum.org/mailman/listinfo/haum_hackerspace
+.. _mailing-list: https://lists.haum.org
 .. _twitter: http://twitter.com/haum72
 
 .. _données de Nantes: http://blog.matael.org/writing/dataporn-les-parkings-de-nantes/

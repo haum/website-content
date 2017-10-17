@@ -23,7 +23,7 @@ posez-nous la question directement sur notre mailing-list_.
 
 .. _Ruche Numérique: http://laruchenumerique.com
 .. _IRC: http://irc.lc/freenode/haum
-.. _mailing-list: http://lists.haum.org/mailman/listinfo/haum_hackerspace 
+.. _mailing-list: https://lists.haum.org 
 .. _57 boulevard Demorieux: http://www.openstreetmap.org/?mlat=47.99352&mlon=0.18522#map=17/47.99352/0.18522
 
 Mais pas que...
