@@ -47,10 +47,8 @@ retenir avant de vous lancer dans la moindre manipulation :
    loin l’un de l’autre pour éviter tout risque d’explosion en cas de fuite ou
    de renversement.
 
- - **Travaillez dans un endroit aéré ou sous hotte aspirante**, il ne faut pas
-   respirer les émanations résultantes de la réaction (elle produit du
-   dichlore, un gaz jaune-vert plus dense que l’air qui possède une odeur
-   suffocante désagréable et est qui est extrêmement toxique).
+ - **Travaillez dans un endroit aéré ou sous hotte aspirante**, il faut éviter
+   de respirer les émanations résultant de la réaction.
 
 
 Conception du circuit
@@ -256,13 +254,24 @@ prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
  - 1/3 d’acide chlorydhrique ;
  - 1/3 d’eau oxygénée.
 
+La réaction attendue est :  Cu + H2O2 + 2 HCl → 2 H2O + CuCl2
+
+Une réaction secondaire a également lieu : 2 H202 → 2 H20 + 2 O2
+(auto-décomposition de l'eau oxygénée ; ici catalysée par la présence de cuivre
+notamment, cette réaction est rapide)
+
 .. container:: aligncenter
 
     [flickr:id=22955115671] [flickr:id=22321241694]
 
 Arrive maintenant le moment de vérité : plongez la plaque à plat dans la
-solution et éloignez vous du récipient car des émanations toxiques (dichlore)
-vont être produites pendant la réaction.
+solution et éloignez-vous du récipient.
+
+En effet, la réaction secondaire produit du dioxygène (gazeux) qui s'échappe
+sous forme de bulles nombreuses. Même si le gaz est inoffensif, les bulles
+peuvent entraîner du réactif acide. Certaines sources évoquent aussi
+l'éventualité de traces de dichlore (toxique, mais plus lourd que l'air) bien
+que ce gaz préfère s'associer au cuivre.
 
 .. container:: aligncenter
 
