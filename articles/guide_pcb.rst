@@ -9,12 +9,12 @@ Guide pour réaliser ses propres PCBs
 :authors: MicroJoe, Marc
 :summary: Tous les conseils pour réaliser soi-même des PCBs
 
-Que vous soyez l’heureux possesseur d’une `PCBlastifieuse`_ ou non, ce guide à
+Que vous soyez l’heureux possesseur d’une `PCBlastifieuse`_ ou non, ce guide a
 pour but de détailler des différentes étapes de réalisation de circuits
 imprimés en utilisant la méthode du transfert de toner.
 
 **Attention : ce guide évoque l’utilisation de produits chimiques qui sont
-dangeureux et qui doivent être manipulés avec précaution**.
+dangereux et qui doivent être manipulés avec précaution**.
 
 Vous êtes responsables de vos faits et gestes lors de leur utilisation, le
 mieux étant de se faire accompagner par des personnes ayant déjà utilisé ce
@@ -26,7 +26,7 @@ Liste des précautions
 Avant tout, merci de lire la liste de précautions à prendre et de bien la
 retenir avant de vous lancer dans la moindre manipulation :
 
- - **Toujours verser de l'acide dans de l'eau** et pas l'inverse car il y a
+ - **Toujours verser de l'acide dans de l'eau** et pas l'inverse, car il y a
    risque d'éclaboussure ("explosion").
 
  - L'acide chlorhydrique est dangereux, l’eau oxygénée encore plus (mains, yeux).
@@ -65,10 +65,10 @@ la composent.
 
     [flickr:id=22925193186]
 
-Si vous voulez utiliser une carte déjà réalisée par quelqu’un d’autre, assurez
-vous qu’elle ne soit pas en négatif (technique utilisée pour la gravure avec
-une autre méthode que celle présentée dans ce guide) et passez directement à
-l’impression.
+Si vous voulez utiliser une carte déjà réalisée par quelqu’un d’autre,
+assurez-vous qu’elle ne soit pas en négatif (technique utilisée pour la gravure
+avec une autre méthode que celle présentée dans ce guide) et passez directement
+à l’impression.
 
 Impression du motif
 -------------------
@@ -81,7 +81,7 @@ facilement.
 
     [flickr:id=22322864273] [flickr:id=22930589112]
 
-Plusieurs types de papiers peuvent être utilisés, notament le PNP Blue
+Plusieurs types de papiers peuvent être utilisés, notamment le PNP Blue
 (Peel'n'Pick) ou d’autres papiers spécialisés. Ceux-ci ont un côté imprimable
 (papier) et l’autre non (plastique) qu’il faudra donc distinguer.
 
@@ -92,13 +92,14 @@ Voici la procédure à suivre :
 
  - Ensuite, découpez un morceau de PNP Blue un peu plus grand quel a taille du
    motif et collez le sur la feuille que vous venez d’imprimer au niveau du
-   motif avec du scotch facilement retirable (n’oubliez pas de placer le côté
-   papier à l’extérieur. L'ideal est du scotch de tapissier / scotch de masquage.
+   motif avec du scotch pouvant être facilement retiré (n’oubliez pas de placer
+   le côté papier à l’extérieur. L'idéal est du scotch de tapissier / scotch de
+   masquage.
 
  - Le toner est déposé côté rugueux de la feuille de PNP.
 
  - En remettant la feuille dans le sens qui convient dans le bac, il suffit de
-   relancer l’impression du motif pour que celui-ci soit cette fois ci déposé
+   relancer l’impression du motif pour que celui-ci soit cette fois-ci déposé
    sur le bout de PNP Blue que l’on pourra détacher de la feuille par la suite.
 
 Préparation de la plaque de cuivre
@@ -114,22 +115,27 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
  - Répéter cette étape autant de fois que nécessaire jusqu’à ce que le cuivre
    soit uniforme.
 
- - Une fois les poussières provoquées par la paille de fer soufflées de la plaque,
-   imbiber un morceau d’essuie-tout d’acétone et frotter avec la partie
+ - Une fois les poussières provoquées par la paille de fer soufflées de la
+   plaque, imbiber un morceau d’essuie-tout d’acétone et frotter avec la partie
    cuivrée pour bien dégraisser la plaque.
 
- - Répéter cette étape jusqu’à ce que la feuille de d’essuie-tout soit propre
+ - Répéter cette étape jusqu’à ce que la feuille d’essuie-tout soit propre
    même après avoir frotté vigoureusement celle-ci contre la plaque (ne pas
    hésiter à utiliser plusieurs feuilles pour toujours frotter avec quelque
    chose de propre, en utilisant de l’acétone à chaque fois).
 
- - le brossage à la paille de fer peut etre remplacé par un poncage à l'eau et avec du papier de verre fin (600).
+ - le brossage à la paille de fer peut être remplacé par un ponçage à l'eau et
+   avec du papier de verre fin (600).
 
- - le brossage permet aussi de creer des aspérités sur le cuivre et va promouvoir l'adherence du toner sur celui-ci
+ - le brossage permet aussi de créer des aspérités sur le cuivre et va
+   promouvoir l'adhérence du toner sur celui-ci
 
- - afin de garantir un resultat parfait, on peut nettoyer la plaque juste avant tranfert avec de l'alcool isopropylique. Celui ci eliminera toute trace de doigt eventuel.
+ - afin de garantir un résultat parfait, on peut nettoyer la plaque juste avant
+   transfert avec de l'alcool isopropylique. Celui-ci éliminera toute trace de
+   doigt éventuelle.
 
-Voici le resultat sur une plaque qui est décapé avec un "tarnish remover" type mirror mais qui n'a pas été frotté:
+Voici le résultat sur une plaque qui est décapé avec un "tarnish remover" type
+mirror mais qui n'a pas été frotté:
 
 .. container:: aligncenter
 
@@ -148,32 +154,34 @@ imprimé.
    côté imprimé soit en contact avec la plaque.
  - Fixer le morceau de PNP pour bien qu’il appuie sur la plaque avec du scotch
    qui ne craint pas trop la température (éviter de recouvrir la surface du PNP
-   contenant des pistes car le scotch va faire comme une sorte de bouclier
+   contenant des pistes, car le scotch va faire comme une sorte de bouclier
    thermique qui va gêner la fonte du toner).
- - Du Kapton est idéal pour ce type de projet car il est fin et il resiste à la chaleur.
+ - Du Kapton est idéal pour ce type de projet, car il est fin et il résiste à la chaleur.
  - Vérifier que le papier appuie bien uniformément sur la plaque (qu’il ne fait
-   pas une genre de bosse une fois fixé sur la plaque car sinon le motif ne
+   pas un genre de bosse une fois fixé sur la plaque, car sinon le motif ne
    sera pas transféré). Deux morceaux de scotch suffisent, un en haut et un en bas.
 
 Alternative au PNP
 ------------------
 
-Le PNP étant onéreux d'autres solutions sont également envisagables, cependant le résultat est nettement moins bon.
-Pour 1€25 on peux se procurer 10 feuilles A4 de papier de transfert sur eBay.
+Le PNP étant onéreux d'autres solutions sont également envisageables, cependant
+le résultat est nettement moins bon.  Pour 1€25 on peut se procurer 10 feuilles
+A4 de papier de transfert sur eBay.
 Le toner est déposé côté lisse.
-Voici le resultat obtenu pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
+Voici le résultat obtenu pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
 
 .. container:: aligncenter
 
     [flickr:id=25543915594]
 
-On remarque sur la photo que du toner manque par petits points sur le "thermal pad" du regulateur. En fait, c'est une lacune de ce papier. Sur des plans, le resultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche, papier jaune à droite:
+On remarque sur la photo que du toner manque par petits points sur le "thermal pad" du régulateur. En fait, c'est une lacune de ce papier. Sur des plans, le résultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche, papier jaune à droite:
 
 .. container:: aligncenter
 
     [flickr:id=26148688695]
 
-Il semblerait que le PNP depose en plus du toner une petite pelicule plastique qui protege encore mieux le toner lors de la gravure :
+Il semblerait que le PNP dépose en plus du toner une petite pellicule plastique
+qui protège encore mieux le toner lors de la gravure :
 
 .. container:: aligncenter
 
@@ -215,11 +223,11 @@ Nous allons considérer ici l’utilisation d’un appareil de type
 Si certains morceaux de piste n’ont pas été totalement transférés, il serait
 possible de rattraper le coup en utilisant un marqueur permanent pour combler
 certains passages ; par contre si seulement la moitié du motif se décolle ce
-n’est pas la peine d’aller plus loin : renettoyez la plaque et réimprimez un
-motif en tentant de savoir pourquoi le transfert a échoué (température trop
-basse ? pas assez de passes pour permettre la fonte ? PNP qui ne touche pas
-correctement la plaque ? plaque pas assez refroidie ? retirage trop brusque du
-PNP ?).
+n’est pas la peine d’aller plus loin : nettoyez à nouveau la plaque et
+réimprimez un motif en tentant de savoir pourquoi le transfert a échoué
+(température trop basse ? pas assez de passes pour permettre la fonte ? PNP qui
+ne touche pas correctement la plaque ? plaque pas assez refroidie ? retirage
+trop brusque du PNP ?).
 
 .. container:: aligncenter
 
@@ -232,7 +240,7 @@ Après l’étape délicate, nous attaquons l’étape la plus sujette à risque
 effet, nous allons ici devoir manipuler des produits chimiques qui peuvent être
 dangereux si on ne prend pas suffisamment de précautions.
 
-Tout d’abord équipez vous du matériel de protection nécessaire :
+Tout d’abord équipez-vous du matériel de protection nécessaire :
 
  - Blouse en coton ;
  - Gants de protection spécialisés contre le risque chimique (nitrile, …) ;
@@ -251,7 +259,7 @@ Dans le récipient qui va accueillir la plaque, préparez la solution suivante e
 prenant bien soin de verser l’acide dans l’eau et pas l’inverse :
 
  - 1/3 d’eau (de préférence distillée) ;
- - 1/3 d’acide chlorydhrique ;
+ - 1/3 d’acide chlorhydrique ;
  - 1/3 d’eau oxygénée.
 
 La réaction attendue est :  Cu + H2O2 + 2 HCl → 2 H2O + CuCl2
@@ -277,8 +285,8 @@ que ce gaz préfère s'associer au cuivre.
 
     [flickr:id=22917975576] [flickr:id=22930543702]
 
-Une fois que la réaction est devenue moins violente, controlez à intervalles
-régulier l’état de la plaque en la sortant de la solution avec des pincettes en
+Une fois que la réaction est devenue moins violente, contrôlez à intervalles
+réguliers l’état de la plaque en la sortant de la solution avec des pincettes en
 plastique afin de pouvoir l’examiner ; sortez définitivement la plaque de la
 solution quand le cuivre non recouvert par le toner sur la plaque aura
 totalement disparu.
@@ -288,7 +296,7 @@ totalement disparu.
 
 Une fois que le circuit a été rincé et mis de côté, il va falloir se
 débarrasser de la solution ; rien ne sert de la conserver même si elle a peu
-servi car elle va perdre ses propriétés au cours du temps. Pire même, elle va
+servi, car elle va perdre ses propriétés au cours du temps. Pire même, elle va
 dégager du gaz, ce qui pourrait faire exploser la bouteille dans laquelle elle
 est stockée.
 
@@ -301,7 +309,7 @@ auparavant pour ne pas faire de dégâts :
 
 On peut ensuite rincer le reste de notre matériel :
 
- - Rincer les outils, récipiants, gants, etc..
+ - Rincer les outils, récipients, gants, etc.
  - Rincer l’évier une fois que tout le reste a été nettoyé.
 
 Conclusion
@@ -314,7 +322,7 @@ Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
 
     [flickr:id=22329500133]
 
-Étant donné la non-réutilisabilité de la solution, il parrait intéressant de
+Étant donné la non-réutilisabilité de la solution, il paraît intéressant de
 procéder à cette réalisation de PCBs par batchs de plusieurs plaques pour
 éviter de gâcher trop de solution qui doit être active pour plusieurs plaques
 (étant donné que l’on ne peut pas la stocker).
