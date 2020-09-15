@@ -66,6 +66,37 @@ Malgré tout, les premiers spectateurs arrivent et la jauge de seulement 5 visit
 
 Les parties s'enchaînent sans contact
 
+Fregi*
+======
+
+\* Indicatif parfait de frango
+
+
+Alors que nous étion posé la question de la taill des pieds des supports et s'il ne falais pas les réduires pour ne pas risquer de se prende dedand, la réponse nous fut donné par un spectateur: malencontreusement il c'est pris les pieds dedant et a fait tombé le capteur.
+
+Le spectateur n'a pas eu de mal et il a pu continuer sa promenade festive sans souccis.
+
+Ça n'a pas été le cas de notre capteur, enfin si, il a entamé une certaine forme de balade quand la partie optique c'est séparée du reste du capteur !
+
+Nous voila donc en milieu d'apres midi du samedi avec plus qu'un  seul capteur...
+
+Cogito*
+=======
+
+\* encore une fois
+
+Samedi fin apres midi, plus qu'un seul capteur, il alais failoir etre créatif pour que le reste du week-end ne soit un long ennui.
+
+Rapidement il est évident qu'il faut modifier le jeu pour que la machine joue toute seule contre le joueur humain que serai les prochains spectateurs.
+
+La chose fut rondement menée par membre du `Haum`_ présent sur place, et qui connaissais bien le code du jeu.
+
+Dominica
+========
+
+
+
 .. _Siestes Teriaki: http://www.teriaki.fr/
 .. _Pong1D: /pages/1dpong.html
 .. _ST: https://www.st.com/
+.. _Haum: https://haum.org
