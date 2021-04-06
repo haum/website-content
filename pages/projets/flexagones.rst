@@ -22,7 +22,7 @@ cartons rigides et avec un peu d'astuce... ça fonctionne.
 Le premier flexagone que nous avons contruit est un trihexaflexagone, une
 sorte d'hexagone à trois faces.
 
-[flickr:id=16992434629]
+   .. image :: https://photos.haum.org/small/flexagones/flexagones_1_12_16992434629_o.jpg
 
 Fabrication
 ===========
@@ -36,7 +36,9 @@ hexagone régulier.
 
 Pour le trihexaflexagone, il faut découper 9 triangles équilatéraux identiques.
 
-[flickr:id=16971222797][flickr:id=16992436269]
+   .. image :: https://photos.haum.org/small/flexagones/flexagones_1_03_16971222797_o.jpg
+   .. image :: https://photos.haum.org/small/flexagones/flexagones_1_05_16992436269_o.jpg
+
 
 Le chiffre 9 provient d'un simple calcul : il faut 6 faces triangulaires pour
 faire un hexagone. Comme il y a 3 faces hexagonales, il faut 6×3=18 faces

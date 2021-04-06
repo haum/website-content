@@ -37,7 +37,8 @@ Voici le genre de circuit qu’il est possible de réaliser à l’aide du proce
 
 .. container:: aligncenter
 
-    [flickr:id=24821741224] [flickr:id=25156704870]
+    .. image :: https://photos.haum.org/small/pcb/5_sortiebain_24821741224_o.jpg
+    .. image :: https://photos.haum.org/small/pcb/6_apresnettoyage_25156704870_o.jpg
 
 Historique
 ==========

@@ -91,7 +91,7 @@ sur la photo
 
 .. container:: alignright
 
-    .. image:: /images/haumtinsel/haumtinsel.jpg
+    .. image:: https://photos.haum.org/small/haumtinsel/haumtinsel4_16594740446_o.jpg
         :width: 300px
 	:alt: HaumTinsel
 
