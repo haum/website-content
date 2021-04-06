@@ -18,7 +18,7 @@ prévues à cet effet.
 
 .. container:: aligncenter
 
-    [flickr:id=28834429884]
+        .. image:: https://photos.haum.org/small/teriaki2016/p1120576_28834429884_o.jpg
 
 Ce projet a été mis en place pour les évènements suivants :
 
@@ -46,7 +46,7 @@ Mais nous, on en a fait un pupitre interactif ! Amusez-vous à bouger les pastil
 
 .. container:: aligncenter
 
-    [flickr:id=29617446001]
+        .. image:: https://photos.haum.org/small/bvsm2016/p1110441_29617446001_o.jpg
 
 Sur le principe, une webcam surveille le pupitre à la verticale de celui-ci. Un logiciel vient périodiquement faire de la reconnaissance de cercles de couleur sur l'image renvoyée par la webcam. Les couleurs reconnues sont alors mélangées et envoyées aux différents Laumios connectés, qui illumineront la pièce de mille couleurs.
 
@@ -57,7 +57,7 @@ Rien de particulier à dire sur le pupitre actuellement... Il est actuellement c
 
 .. container:: aligncenter
 
-    [flickr:id=29458564955]
+        .. image:: https://photos.haum.org/small/teriaki2016/p1120557_29458564955_o.jpg
 
 
 Le logiciel
@@ -129,7 +129,7 @@ Le résultat à l'écran
 
 .. container:: aligncenter
 
-    [flickr:id=28834342654]
+        .. image:: https://photos.haum.org/small/teriaki2016/p1120555_28834342654_o.jpg
 
 .. container:: aligncenter
 

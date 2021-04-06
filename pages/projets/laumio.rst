@@ -14,17 +14,17 @@ Qu'est ce que c'est ?
 
 Les Laumios sont des lampes connectées initialement conçues pour le festival
 `BienVenus sur Mars`_ qui a eu lieu du 27 avril au 1er mai 2016
-(`Photos <https://www.flickr.com/photos/126718549@N08/albums/72157667688278672>`__).
+(`Photos <https://photos.haum.org/albums/bvsm2016/>`__).
 Dans le cadre de cet événément, elles étaient 
 coordonnées avec un pupitre lui aussi fabriqué pour l'occasion pour former les
 `lampes orbitales`_.
 
 Associé à LaumioAnimator_, logiciel développé à l'occasion des `Siestes Teriaki`_ 2016
-(`Photos <https://www.flickr.com/photos/126718549@N08/albums/72157671412072762>`__), 
+(`Photos <https://photos.haum.org/albums/teriaki2016/>`__),
 il est possible de composer des partitions lumineuses pour accompagner des morceaux musicaux.
 
 Dans un tout autre registre, ces petites boules ont servi dans le cadre des `24h du code`_ 2017
-(`Photos <https://www.flickr.com/photos/126718549@N08/albums/72157676928037984>`__), 
+(`Photos <https://photos.haum.org/albums/24hc17/>`__),
 qui se sont déroulées cette année là les 21 et 22 janvier, où elles ont servi de `boîte noire... lumineuse`_.
 
 En bref, c'est une lampe connectée à base de leds multicolores (on retrouve du
@@ -44,7 +44,7 @@ Les Laumios ont maintenant un `album flickr dédié`_ !
 .. _readthedocs: http://laumio.readthedocs.io/en/latest/
 .. _Siestes Teriaki: http://www.teriaki.fr/
 .. _24h du code: http://www.les24hducode.fr/
-.. _album flickr dédié: https://www.flickr.com/photos/126718549@N08/sets/72157676928038094
+.. _album flickr dédié: https://photos.haum.org/albums/laumio/
 .. _boîte noire... lumineuse: /pages/24h-du-code-2017.html
 
 Le Laumio en moins bref

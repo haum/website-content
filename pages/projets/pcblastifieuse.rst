@@ -50,7 +50,7 @@ mesurée.
 
 .. container:: aligncenter
 
-    [flickr:id=18731859153]
+        .. image:: https://photos.haum.org/small/pcb/img_20150624_200308_18731859153_o.jpg
 
 Ce montage est placé en parallèle du montage d’origine de la machine, ce qui
 veut dire que si on ne branche pas l'Arduino alors la PCBlastifieuse

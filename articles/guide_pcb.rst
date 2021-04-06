@@ -63,7 +63,7 @@ la composent.
 
 .. container:: aligncenter
 
-    [flickr:id=22925193186]
+        .. image :: https://photos.haum.org/small/pcb/screenshot_pcb_22925193186_o.png
 
 Si vous voulez utiliser une carte déjà réalisée par quelqu’un d’autre,
 assurez-vous qu’elle ne soit pas en négatif (technique utilisée pour la gravure
@@ -79,7 +79,8 @@ facilement.
 
 .. container:: aligncenter
 
-    [flickr:id=22322864273] [flickr:id=22930589112]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_224156_22322864273_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_224812_22930589112_o.jpg
 
 Plusieurs types de papiers peuvent être utilisés, notamment le PNP Blue
 (Peel'n'Pick) ou d’autres papiers spécialisés. Ceux-ci ont un côté imprimable
@@ -139,6 +140,8 @@ mirror mais qui n'a pas été frotté:
 
 .. container:: aligncenter
 
+        [Image manquante]
+..
     [flickr:id=25546035903]
 
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
@@ -146,7 +149,8 @@ imprimé.
 
 .. container:: aligncenter
 
-    [flickr:id=22930586852] [flickr:id=22321275904]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_225910_22930586852_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_225917_22321275904_o.jpg
 
 Étapes à suivre :
 
@@ -172,12 +176,16 @@ Voici le résultat obtenu pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
 
 .. container:: aligncenter
 
+        [Image manquante]
+..
     [flickr:id=25543915594]
 
 On remarque sur la photo que du toner manque par petits points sur le "thermal pad" du régulateur. En fait, c'est une lacune de ce papier. Sur des plans, le résultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche, papier jaune à droite:
 
 .. container:: aligncenter
 
+        [Image manquante]
+..
     [flickr:id=26148688695]
 
 Il semblerait que le PNP dépose en plus du toner une petite pellicule plastique
@@ -185,6 +193,8 @@ qui protège encore mieux le toner lors de la gravure :
 
 .. container:: aligncenter
 
+        [Image manquante]
+..
     [flickr:id=25546035613]
 
 
@@ -200,7 +210,8 @@ Nous allons considérer ici l’utilisation d’un appareil de type
 
 .. container:: aligncenter
 
-    [flickr:id=22918010446] [flickr:id=22525696458]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_225928_22918010446_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_230253_1_22525696458_o.jpg
 
 Étapes :
 
@@ -218,7 +229,8 @@ Nous allons considérer ici l’utilisation d’un appareil de type
 
 .. container:: aligncenter
 
-    [flickr:id=22551834459] [flickr:id=22551831489]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_231020_22551834459_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_231141_22551831489_o.jpg
 
 Si certains morceaux de piste n’ont pas été totalement transférés, il serait
 possible de rattraper le coup en utilisant un marqueur permanent pour combler
@@ -231,7 +243,8 @@ trop brusque du PNP ?).
 
 .. container:: aligncenter
 
-    [flickr:id=22755974720] [flickr:id=22525681208]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_231317_22755974720_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_231511_22525681208_o.jpg
 
 Dissolution du cuivre
 ---------------------
@@ -270,7 +283,8 @@ notamment, cette réaction est rapide)
 
 .. container:: aligncenter
 
-    [flickr:id=22955115671] [flickr:id=22321241694]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_233735_22955115671_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_233815_22321241694_o.jpg
 
 Arrive maintenant le moment de vérité : plongez la plaque à plat dans la
 solution et éloignez-vous du récipient.
@@ -283,7 +297,8 @@ que ce gaz préfère s'associer au cuivre.
 
 .. container:: aligncenter
 
-    [flickr:id=22917975576] [flickr:id=22930543702]
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_233918_22917975576_o.jpg
+        .. image :: https://photos.haum.org/small/pcb/img_20151110_234050_22930543702_o.jpg
 
 Une fois que la réaction est devenue moins violente, contrôlez à intervalles
 réguliers l’état de la plaque en la sortant de la solution avec des pincettes en
@@ -320,7 +335,7 @@ Vous avez maintenant toutes les clés en main pour réaliser vos propres PCBs
 
 .. container:: aligncenter
 
-    [flickr:id=22329500133]
+        .. image :: https://photos.haum.org/small/pcb/img_20151111_212718jpg_22329500133_o.jpg
 
 Étant donné la non-réutilisabilité de la solution, il paraît intéressant de
 procéder à cette réalisation de PCBs par batchs de plusieurs plaques pour
