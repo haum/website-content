@@ -33,18 +33,20 @@ Voici les deux versions du labyrinthe qui ont été exposées :
 .. container:: aligncenter
 
    .. image:: https://raw.githubusercontent.com/haum/feroce/master/maze1.png
+    :alt: labyrinthe
    .. image:: https://raw.githubusercontent.com/haum/feroce/master/maze2.png
+    :alt: labyrinthe
 
 Solutions
 ---------
 
-Les solutions ne sont pas dévoilées dans cet article. Néanmoins nous vous 
-confirmons qu'il est possible de sortir depuis n'importe quelle case où vous 
-seriez arrivé en suivant les règles, quitte parfois à revenir sur des cases 
+Les solutions ne sont pas dévoilées dans cet article. Néanmoins nous vous
+confirmons qu'il est possible de sortir depuis n'importe quelle case où vous
+seriez arrivé en suivant les règles, quitte parfois à revenir sur des cases
 déjà parcourues, quelle que soit l'oreille par laquelle vous êtes entré, quelle
 que soit l'oreille par laquelle vous voulez sortir.
 
-Notez que plusieurs chemins existent, dont certains peuvent être longs... 
+Notez que plusieurs chemins existent, dont certains peuvent être longs...
 soutout si vous tournez en rond.
 
 À vous de chercher...
