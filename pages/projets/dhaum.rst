@@ -30,8 +30,7 @@ Notre bon vieux dôme a aussi squatté pendant plusieurs mois notre nouveau loca
 
 .. container:: aligncenter
 
-    [flickr:id=29698783225]
-
+        .. image :: https://photos.haum.org/small/local/p1120156_29698783225_o.jpg
 
 .. _dHAUMidi: /pages/dhaumidi.html
 .. _Le Festival Teriaki: http://www.teriaki.fr/
@@ -54,7 +53,7 @@ Suite aux calculs effectués grâce au logiciel ZDC_ (Zone Dome et Cie), il est 
 
 .. container:: aligncenter
 
-    [flickr:id=20641592162]
+        .. image :: https://photos.haum.org/small/dhaum/img_20150718_224612jpg_20641592162_o.jpg
 
 A défaut de colle, les futures barres doivent donc être vissées sur des connecteurs (ou noeuds). Les calculs de ZDC et la CAO qui en découle amènent à la création d'une structure comprenant près de 50 barres courtes et 45 barres longues. A ceci s'ajoutent 20 connecteurs à 6 branches pour les noeuds entre barres longues et courtes, 10 connecteurs à 5 branches pour les noeuds entre barres courtes, ainsi que 10 autres connecteurs à 4 branches au niveau du sol (5 pour les "demi-connecteurs" à 6 branches, et 5 pour ceux à 5 branches).
 
@@ -80,8 +79,8 @@ En premier lieu, le Docteur Jescie sera de la partie pour couper nos tasseaux à
 
 .. container:: aligncenter
 
-    [flickr:id=19967193492]
-    [flickr:id=19948594556]
+        .. image :: https://photos.haum.org/small/dhaum/dsc_2034_19967193492_o.jpg
+        .. image :: https://photos.haum.org/small/dhaum/dsc_2045_19948594556_o.jpg
 
 ...Et Mister Gabarit va nous aider pour la suite. Comme vu sur la CAO, les tasseaux doivent être coupés en biseau à leurs extrémités en suivant des angles précis puisque le connecteur sera totalement plan, Les angles sont tirés des calculs évoqués précédemment. Il est à noter qu'un angle est spécifique aux barres courtes et l'autre angle aux barres longues, ce qui facilite grandement la tâche, pas d'imbroglio !
 
@@ -91,28 +90,28 @@ Deux angles donc, et pour chacun un gabarit qui permettra de découper de belles
 
 .. container:: aligncenter
 
-    [flickr:id=19967301122]
-    [flickr:id=19967330442]
+        .. image :: https://photos.haum.org/small/dhaum/dsc_2133_19967301122_o.jpg
+        .. image :: https://photos.haum.org/small/dhaum/dsc_2121_19967330442_o.jpg
 
 Et pendant ce temps, on s'occupe de nos connecteurs. Là encore, AxiHAUM n'est pas en reste.
 
 .. container:: aligncenter
 
-    [flickr:id=19751258754]
-    [flickr:id=19786944510]
+        .. image :: https://photos.haum.org/small/dhaum/connecteurs-faits-main_19751258754_o.jpg
+        .. image :: https://photos.haum.org/small/dhaum/dsc_2018_19786944510_o.jpg
 
 Une petite séance manucure pour poncer et vernir tout ça...
 
 .. container:: aligncenter
 
-    [flickr:id=20187145412]
-    [flickr:id=20187129242]
+        .. image :: https://photos.haum.org/small/dhaum/p1100101_20187145412_o.jpg
+        .. image :: https://photos.haum.org/small/dhaum/p1100097_20187129242_o.jpg
 
 Et ne reste plus que l'assemblage !
 
 .. container:: aligncenter
 
-    [flickr:id=20102498210]
+        .. image :: https://photos.haum.org/small/dhaum/avant-montage_20102498210_o.jpg
 
 Le manuel de montage donne toutes les étapes de construction, aussi nous ne détaillerons rien de tout ça ici. Quelques petits conseils s'imposent juste. Le mieux, comme présenté dans le manuel de montage, c'est de commencer l'assemblage par le bas et de tout assembler sans serrer la visserie. Ainsi, la structure se place comme il faut, le serrage ne servant qu'à s'assurer de la bonne rigidité de la structure.
 
@@ -122,7 +121,7 @@ Une petite heure plus tard et le dHAUM est en place pour accueillir des visiteur
 
 .. container:: aligncenter
 
-    [flickr:id=20404768654]
+        .. image :: https://photos.haum.org/small/dhaum/20150830_epau6_20404768654_o.jpg
 
 
 La caisse
@@ -134,7 +133,7 @@ A tout problème sa solution, voici une jolie caisse compartimentée et à nos c
 
 .. container:: aligncenter
 
-    [flickr:id=22152528470]
+        .. image :: https://photos.haum.org/small/dhaum/img_20150826_221049_22152528470_o.jpg
 
 
 
