@@ -10,7 +10,8 @@ LightStep est un projet visant à faire travailler ensemble les marches du Piano
 
 Les marches ont été remises à neuf et testées spécialement pour ce projet.
 
-[flickr:id=25212375723]
+   .. image :: https://photos.haum.org/small/lightstep/lightstep_002_25212375723_o.jpg
+        :alt: luminaire
 
 Electronique
 ------------

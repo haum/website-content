@@ -22,9 +22,9 @@ prévues à cet effet.
 
 Ce projet a été mis en place pour les évènements suivants :
 
-- `BienVenus sur Mars`_ 2016 (du 27 avril au 1er mai - `Photos <https://www.flickr.com/photos/126718549@N08/albums/72157667688278672>`__).
+- `BienVenus sur Mars`_ 2016 (du 27 avril au 1er mai - `Photos <https://photos.haum.org/albums/bvsm2016/>`__).
   C'est l'évènement pour lequel nous avons créé ce projet.
-- `Les Siestes Teriaki`_ 2016 (les 27 et 28 août - `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157671412072762>`__).
+- `Les Siestes Teriaki`_ 2016 (les 27 et 28 août - `Photos <https://photos.haum.org/albums/teriaki2016/>`__).
 
 Cet article parle principalement du pupitre interactif et du logiciel de
 reconnaissance des pastilles. Pour les lampes connectées, il faut aller voir les
@@ -40,7 +40,7 @@ Le pupitre interactif
 Le principe
 -----------
 
-Que faire avec du bois de palette, du verre, une webcam et des Laumios (entre autres choses) ? Sûrement plein de choses ! 
+Que faire avec du bois de palette, du verre, une webcam et des Laumios (entre autres choses) ? Sûrement plein de choses !
 
 Mais nous, on en a fait un pupitre interactif ! Amusez-vous à bouger les pastilles sur sa vitre, enlevez-les, ajoutez-en, cumulez-en côte-à-côte... et regardez le résultat !
 
@@ -135,7 +135,7 @@ Le résultat à l'écran
 
   .. image:: /images/laumioDesk/laumioDesk_screenshot.jpg
    :height: 280px
-   :alt: Vue depuis une webcam 
+   :alt: Vue depuis une webcam
 
 
 .. _dépôt Github: https://github.com/haum/Laumio/tree/master/Pupitre

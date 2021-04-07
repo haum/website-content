@@ -20,23 +20,24 @@ Outil ou structure de décoration, support pour instrument de musique, rien ne l
 Le dHAUM a servi plusieurs fois depuis sa conception durant l'été 2015. Il a ainsi pu participer à deux festivals et quelques autres événements :
 
 - `Le Festival Teriaki`_ 2015 (du 27 au 30 août), pour lequel le dHAUM a été conçu et sonorisé (le projet de sonorisation s'appelant dHAUMidi_).
-  `Photos et vidéos <https://www.flickr.com/photos/126718549@N08/sets/72157680190671015>`__.
+  `Photos et vidéos <https://photos.haum.org/albums/teriaki2015/>`__.
 - La fête de quartier de Bellevue 2015 (6 septembre), conséquence de la présence du dHAUM à Teriaki.
 - `BienVenus sur Mars`_ 2016 (du 27 avril au 1er mai).
-  `Photos <https://www.flickr.com/photos/126718549@N08/sets/72157667688278672>`__.
+  `Photos <https://photos.haum.org/albums/bvsm2016/>`__.
 - Le sHAUM 2016 (22 septembre), les portes ouvertes de l'asso (sHAUM parce qu'on est le HAUM, et c'était parti pour le show, et c'était parti, tout l'monde était chaud, voilà voilà, ahem).
 
-Notre bon vieux dôme a aussi squatté pendant plusieurs mois notre nouveau local de 2016 mais est à présent rangé dans sa caisse ! Les photos et vidéos de sa fabrication traînent sur l'album flickr_ dédié.
+Notre bon vieux dôme a aussi squatté pendant plusieurs mois notre nouveau local de 2016 mais est à présent rangé dans sa caisse ! Les photos et vidéos de sa fabrication traînent sur l'album photo_ dédié.
 
 .. container:: aligncenter
 
         .. image :: https://photos.haum.org/small/local/p1120156_29698783225_o.jpg
+           :alt: dHAUM
 
 .. _dHAUMidi: /pages/dhaumidi.html
 .. _Le Festival Teriaki: http://www.teriaki.fr/
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
 
-.. _flickr: https://www.flickr.com/photos/126718549@N08/sets/72157655886631900
+.. _photo: https://photos.haum.org/albums/dhaum/
 
 
 Le dHAUM en moins bref

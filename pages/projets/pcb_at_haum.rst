@@ -47,9 +47,9 @@ Après avoir `hacké une plastifieuse A3`_ pour la transformer en
 PCBlastifieuse_, nos hackers n’ont pas été découragés par la fonte de cette
 dernière et ont construit une nouvelle machine à transférer le toner.
 
-Vous pouvez visionner `l’album Flickr dédié au projet`_ afin de voir un
+Vous pouvez visionner `l’album dédié au projet`_ afin de voir un
 historique visuel de l’évolution du projet.
 
 .. _hacké une plastifieuse A3: /hack_pcblastifieuse.html
-.. _l’album Flickr dédié au projet: https://www.flickr.com/photos/126718549@N08/albums/72157655287588306
+.. _l’album dédié au projet: https://www.flickr.com/photos/126718549@N08/albums/72157655287588306
 .. _PCBlastifieuse: /pages/pcblastifieuse.html

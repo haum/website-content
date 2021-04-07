@@ -19,7 +19,8 @@ lorsqu’ils participent à des événements.
 
 .. container:: aligncenter
 
-    [flickr:id=16041785913]
+    .. image :: https://photos.haum.org/small/24hc15/24hc15_haum_16041785913_o.jpg
+        :alt: logo Haum sur TeeShirts
 
 Comment ?
 =========
