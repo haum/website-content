@@ -21,12 +21,12 @@ Eh bien, voilà qui est fait ! Il y a évidemment toujours des choses à redire 
 Qui sait, peut-être entendra-t-on parler de dHAUMidi d'ici quelques mois, le temps de resonoriser l'ensemble.
 Qui sait, notre géode aura peut-être aussi quelques petits choristes pour chanter avec elle, mais tout ça c'est pour une autre saison !
 
-Comme pour les Laumios_ et le `Labyrinthe Initiati`_ grandeur nature, cet article n'a pour but que d'annoncer une mise à jour des contenus, mais il n'est pas évident de se rendre compte de ce genre de nouveautés autrement. 
+Comme pour les Laumios_ et le `Labyrinthe Initiati`_ grandeur nature, cet article n'a pour but que d'annoncer une mise à jour des contenus, mais il n'est pas évident de se rendre compte de ce genre de nouveautés autrement.
 
 .. container:: aligncenter
 
-    [flickr:id=20812053930]
-
+     .. image :: https://photos.haum.org/small/dhaum/20150829_epau1_20812053930_o.jpg
+		:alt: Montage dHaum
 
 .. _là: /pages/dhaum.html
 .. _Laumios: /nouvelles-pages-laumios.html

@@ -103,7 +103,8 @@ L'écran *rainbow* est affiché en fin de partie et a une vocation purement déc
 
 L'écran *testhardware* fut initialement créé pour tester le bandeau de LEDs pour chaque couleur de chaque LED.
 
-[flickr:id=16329255616]
+   .. image :: https://photos.haum.org/small/ggj2015/p1090549_16329255616_o.jpg
+
 
 Et après ?
 ==========

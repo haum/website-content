@@ -21,18 +21,18 @@ Loin d'être des boulets, elles ont, comme le `dHAUM`_ avant elles, conquis l'as
 
 - `A propos de LaumioAnimator`_, logiciel de "mixage" lumineux pour proposer plus de contenu aux Siestes Teriaki.
 
-Il est à noter que chaque page de projet propose en dernière partie un certain nombre d'améliorations. A tout un chacun de se proposer pour en prendre une ou plusieurs en charge, seul ou en équipe ! Les Laumios ne sont qu'au début de leur aventure, ils peuvent encore grandir, mûrir, prendre des forces et amener toujours plus d'étonnement ! 
+Il est à noter que chaque page de projet propose en dernière partie un certain nombre d'améliorations. A tout un chacun de se proposer pour en prendre une ou plusieurs en charge, seul ou en équipe ! Les Laumios ne sont qu'au début de leur aventure, ils peuvent encore grandir, mûrir, prendre des forces et amener toujours plus d'étonnement !
 
 
 .. container:: aligncenter
 
-    [flickr:id=29350270562]
-
+    .. image :: https://photos.haum.org/albums/teriaki2016/p1120617_29350270562_o.jpg
+        :alt: Laumio
 
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
 .. _Siestes Teriaki: http://www.teriaki.fr/
 .. _dHAUM: /pages/dhaum.html
-.. _A propos des Laumios en eux-mêmes: /pages/laumios.html 
+.. _A propos des Laumios en eux-mêmes: /pages/laumios.html
 .. _A propos des Lampes Orbitales: /pages/lampes-orbitales.html
 .. _A propos de LaumioAnimator: /pages/laumio-animator.html
 

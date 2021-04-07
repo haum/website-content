@@ -40,7 +40,7 @@ Aujourd'hui
 ===========
 
 Depuis fin 2016, AxiHAUM est pleinement fonctionnelle et a enfin rejoint le local !
-Les données de travail sont disponibles sur le `dépôt GitHub`_ associé. Quant aux photos d'AxiHAUM et de son environnement, c'est dans son `album flickr`_ que ça se passe !
+Les données de travail sont disponibles sur le `dépôt GitHub`_ associé. Quant aux photos d'AxiHAUM et de son environnement, c'est dans son `album photo`_ que ça se passe !
 
 
 .. _Université du Maine: http://www.univ-lemans.fr/fr/index.html
@@ -51,4 +51,4 @@ Les données de travail sont disponibles sur le `dépôt GitHub`_ associé. Quan
 .. _rebrec: https://twitter.com/elfrancesco
 
 .. _dépôt GitHub: https://github.com/haum/axihaum
-.. _album flickr: https://www.flickr.com/photos/126718549@N08/sets/72157646331169626
+.. _album photo: https://photos.haum.org/albums/axihaum/

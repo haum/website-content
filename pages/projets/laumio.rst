@@ -15,7 +15,7 @@ Qu'est ce que c'est ?
 Les Laumios sont des lampes connectées initialement conçues pour le festival
 `BienVenus sur Mars`_ qui a eu lieu du 27 avril au 1er mai 2016
 (`Photos <https://photos.haum.org/albums/bvsm2016/>`__).
-Dans le cadre de cet événément, elles étaient 
+Dans le cadre de cet événément, elles étaient
 coordonnées avec un pupitre lui aussi fabriqué pour l'occasion pour former les
 `lampes orbitales`_.
 
@@ -37,14 +37,14 @@ interactifs et/ou ludiques !
 
 Une doc en français est déjà disponible sur readthedocs_, mais la page ici présente en reprend globalement les mêmes lignes.
 
-Les Laumios ont maintenant un `album flickr dédié`_ !
+Les Laumios ont maintenant un `album photo dédié`_ !
 
 .. _lampes orbitales: /pages/lampes-orbitales.html
 .. _BienVenus sur Mars: http://www.bienvenus-sur-mars.fr/
 .. _readthedocs: http://laumio.readthedocs.io/en/latest/
 .. _Siestes Teriaki: http://www.teriaki.fr/
 .. _24h du code: http://www.les24hducode.fr/
-.. _album flickr dédié: https://photos.haum.org/albums/laumio/
+.. _album photo dédié: https://photos.haum.org/albums/laumio/
 .. _boîte noire... lumineuse: /pages/24h-du-code-2017.html
 
 Le Laumio en moins bref
@@ -102,7 +102,7 @@ Ici, point de guirlandes mais un bandeau de leds découpé... Celui utilisé ici
   .. image:: /images/laumios/decoupage_leds.jpg
      :height: 280px
      :alt: Découpage des LEDs
-  .. image:: /images/laumios/ledmap_deplie.png 
+  .. image:: /images/laumios/ledmap_deplie.png
      :height: 280px
      :alt: Schema LEDs
 
@@ -144,7 +144,7 @@ Des idées, il y en a toujours à revendre... ou à laisser gratuitement à disp
 - **Plus de performance !** Recoder le firmware en se passant des libairies Arduino pour augmenter la réactivité de la lampe. Améliorer la structure pour en faciliter l'insertion et le maintien dans l'abat-jour. Améliorer les connectiques.
 - **Plus d'interopérabilité !** Créer un logiciel passerelle pour adapter les Laumios aux différents standards que l'on retrouve dans le monde du spectacle.
 - **Plus de Laumios !** Parce qu'on n'en a jamais assez.
-- **Plus de simplicité !** Forker LaumioAnimator_ pour le rendre utilisable sur ordiphone et pour répondre à des besoins simples. 
+- **Plus de simplicité !** Forker LaumioAnimator_ pour le rendre utilisable sur ordiphone et pour répondre à des besoins simples.
 - **Plus de configurabilité !** Faire en sorte que Madame Michu n'ait pas à trifouiller le code pour que la lampe se connecte à son réseau.
 
 .. _LaumioAnimator: /pages/laumio-animator.html
