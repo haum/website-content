@@ -7,7 +7,7 @@ Une page projet pour le Labyrinthe Initiati grandeur nature
 :category: news
 :slug: nouvelle-page-labyrinthe-initiati
 :authors: Jean-Marc (Gras)
-:summary: Un labyrinthe trouvé dans les projets 
+:summary: Un labyrinthe trouvé dans les projets
 
 Les `Siestes Teriaki`_ 2016, c'est fini ! Mais qui a dit que ça l'est pour tout le monde ?
 
@@ -21,8 +21,8 @@ Pour la conception mathématique et ses explications... il faudra attendre encor
 
 .. container:: aligncenter
 
-    [flickr:id=28835854892]
-
+    .. image :: https://photos.haum.org/small/teriaki2016/teriaki16_laby_14_28835854892_o.jpg
+         :alt: labyrinthe
 
 .. _Siestes Teriaki: http://www.teriaki.fr/
 .. _ici: /pages/labyrinthe.html

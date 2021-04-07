@@ -17,7 +17,7 @@ pour créer des figurines en tissus personnalisées.
 
 .. container:: aligncenter
 
-	[flickr:id=27322792175]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_01_27322792175_o.jpg
 
 Accueil
 =======
@@ -45,7 +45,7 @@ nos activités.
 
 .. container:: aligncenter
 
-	[flickr:id=26716411603]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_03_26716411603_o.jpg
 
 Un atelier équipé
 =================
@@ -89,7 +89,7 @@ La machine a été un outil pratique et apprécié lors de l'atelier.
 
 .. container:: aligncenter
 
-	[flickr:id=27289622566]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_17_27289622566_o.jpg
 
 Tifenn, préposée à la découpeuse, n'a pas eu beaucoup de temps de repos.
 Son expertise a été apprécie et ses expications ont été suivies avec
@@ -118,7 +118,7 @@ erreurs éventuelles.
 
 .. container:: aligncenter
 
-	[flickr:id=26716432793]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_13_26716432793_o.jpg
 
 Matériel de couture
 -------------------
@@ -126,7 +126,7 @@ Matériel de couture
 Le petit matériel de couture est bien pratique, ne serait-ce que les
 épingles pour maintenir les tissus. Plus encore, lorsqu'il s'agit de
 réaliser les finitions, un peu de couture manuelle fait l'affaire :
-ajout des yeux, de décorations, fermeture des peluches... 
+ajout des yeux, de décorations, fermeture des peluches...
 
 Bourrage et blé
 ---------------
@@ -172,7 +172,8 @@ découpant un carré de 30x30cm grâce à un gabari.
 
 .. container:: aligncenter
 
-	[flickr:id=27252551231] [flickr:id=27322825915]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_14_27252551231_o.jpg
+	.. image ::  https://photos.haum.org/small/atelier_confection/confection_numerique_1_15_27322825915_o.jpg
 
 Découpe
 -------
@@ -213,7 +214,7 @@ blé siéront aux bouillottes. Un peu de couture manuelle ferme la création.
 
 .. container:: aligncenter
 
-	[flickr:id=27048026500]
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_21_27048026500_o.jpg
 
 Finitions
 ---------
@@ -233,12 +234,12 @@ satisfaction est au rendez-vous. Espérons que l'activité ait pu donner
 envie à quelques-uns de venir porter un projet original autour de la
 couture dans le hackerspace.
 
-`Accès à l'album photos <https://www.flickr.com/photos/126718549@N08/albums/72157666475289264>`_
+`Accès à l'album photos <https://photos.haum.org/albums/atelier_confection/>`_
 
 
 .. container:: aligncenter
 
-	[flickr:id=27048002430]
-	
-.. _LinuxMaine: http://linuxmaine.org 
+	.. image :: https://photos.haum.org/small/atelier_confection/confection_numerique_1_34_27048002430_o.jpg
+
+.. _LinuxMaine: http://linuxmaine.org
 .. _AniBlue: http://www.aniblue.net/
