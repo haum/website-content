@@ -28,7 +28,7 @@ fonction des affinités des membres, nos bricoleurs on mis en place un
 
 .. container:: aligncenter
 
-    [flickr:id=23570607322]
+        .. image:: https://photos.haum.org/small/local/cv5sr4ywiaednor_32143103964_o.jpg
 
 Le principe est simple : une note collante par projet, et cette note se déplace
 dans les différentes colonnes prévues en fonction de son avancement et de qui
@@ -46,7 +46,7 @@ Le petit `haumbotox`_ est un nouveau venu dans la famille de nos bots IRC.
 
 .. container:: aligncenter
 
-    [flickr:id=23383599760]
+        .. image:: https://photos.haum.org/small/divers/haumbotox_23383599760_o.png
 
 Le rôle de celui-ci est de venir parler avec Twaum (le bot Twitter) afin
 d’indiquer les ouvertures et fermeture du local sur le compte Twitter du HAUM
