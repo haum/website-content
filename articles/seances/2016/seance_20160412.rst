@@ -63,7 +63,8 @@ l'écran étincellera de mille[1] pixels lorsque que l'on pressera le bouton d'a
 
 .. container:: aligncenter
 
-    [flickr:id=25809094084] [flickr:id=26141097780]
+        .. image:: https://photos.haum.org/small/divers/img_20160413_004358jpg_25809094084_o.jpg
+        .. image:: https://photos.haum.org/small/projets_membres/img_20160413_004413jpg_26141097780_o.jpg
 
 [1] en réalité plus probablement 786432 ou 1310720
 
@@ -81,4 +82,9 @@ nécessaire pour qu'elle soit pilotable.
 
 .. container:: aligncenter
 
-    [flickr:id=26321610432] [flickr:id=26141105110] [flickr:id=25811184733] [flickr:id=26347782031] [flickr:id=25809115624]
+        .. image:: https://photos.haum.org/small/divers/img_20160413_004457jpg_26321610432_o.jpg
+        .. image:: https://photos.haum.org/small/divers/img_20160413_010314jpg_26141105110_o.jpg
+        .. image:: https://photos.haum.org/small/divers/img_20160413_010346jpg_25811184733_o.jpg
+        .. image:: https://photos.haum.org/small/divers/img_20160413_010351jpg_26347782031_o.jpg
+        .. image:: https://photos.haum.org/small/divers/img_20160413_010356jpg_25809115624_o.jpg
+
