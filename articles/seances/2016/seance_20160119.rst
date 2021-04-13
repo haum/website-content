@@ -18,7 +18,8 @@ partie au moins) quelques projets futurs.
 
 .. container:: aligncenter
 
-    [flickr:id=24498318855] [flickr:id=24498223125]
+        .. image:: https://photos.haum.org/small/divers/img_20160119_210744_24498318855_o.jpg
+        .. image:: https://photos.haum.org/small/divers/img_20160119_211553_24498223125_o.jpg
 
 
 Remontage de la Tobeca - Suite (et fin?)
@@ -31,7 +32,7 @@ En fin de séance, l'imprimante bougeait, chauffait et a même extrudé quelques
 
 .. container:: aligncenter
 
-    [flickr:id=24472126186]
+        .. image:: https://photos.haum.org/small/divers/img_20160119_210753_24472126186_o.jpg
 
 24H du Code
 ===========
