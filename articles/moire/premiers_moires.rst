@@ -81,7 +81,7 @@ d'ailleurs, n'est-ce pas ce que nous avons fait ‽
 
 .. container:: aligncenter
 
-    [flickr:id=37075915742]
+	.. image :: https://photos.haum.org/small/moire/p1070093_37075915742_o.jpg
 
 Deux nouveaux motifs
 --------------------
@@ -107,7 +107,9 @@ même les imprimer et ainsi constater sans ambiguïté qu'il n'y a aucun trucage
 
    Téléchargement: 1_, 2_
 
-   [flickr:id=37075912802][flickr:id=36433433613]
+	.. image :: https://photos.haum.org/small/moire/p1070361_37075912802_o.jpg
+	.. image :: https://photos.haum.org/small/moire/p1070358_36433433613_o.jpg
+
 
 N'hésitez pas à consulter nos albums photo sur Flickr pour trouver d'autres
 moirés que nous ferons certainement prochainement.

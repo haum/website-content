@@ -15,7 +15,7 @@ Tout a commencé par ceci :
 
 .. container:: aligncenter
 
-   [flickr:id=24152983033]
+   	.. image :: https://photos.haum.org/small/ggj2016/p001_24152983033_o.jpg
 
 Labyrinthe originel
 ===================
@@ -27,7 +27,7 @@ Ainsi commence le labyrinthe : par un brainstorming à la `global game jam`_
 2016. Le thème *rituals* nous a fait tourner en bourrique pendant de nombreuses
 (et longues) heures, tant et si bien que nous cumulions près de 24h de réflexions
 intenses quand les premières idées ont commencé à... esquisser un début d'embryon
-de germe de jeu.  
+de germe de jeu.
 
 .. _`global game jam`: http://globalgamejam.org/
 
@@ -106,7 +106,7 @@ Les documents de travail deviennent vite imcompréhensibles pour les profanes :
 
 .. container:: aligncenter
 
-   [flickr:id=24686236191]
+   	.. image :: https://photos.haum.org/small/ggj2016/caa2co2xeaejazc_32987474855_o.jpg
 
 .. _graphe: https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_graphes
 
@@ -122,7 +122,7 @@ par l'ordinateur :
 
 .. container:: aligncenter
 
-   [flickr:id=32862394751]
+	.. image :: https://photos.haum.org/small/ggj2016/caa342zwaaaanz3_32862394751_o.jpg
 
 
 Labyrinthe original
@@ -169,12 +169,12 @@ Teriaki 2016.
 
 .. container:: aligncenter
 
-   [flickr:id=29350204682]
+	.. image :: https://photos.haum.org/small/teriaki2016/p1120571_29350204682_o.jpg
 
 S'ensuivit un stupéfiant succès et sa suprême satisfaction.
 
 .. container:: aligncenter
 
-   [flickr:id=28836842273]
+	.. image :: https://photos.haum.org/small/teriaki2016/p1120611_28836842273_o.jpg
 
 .. _projet: /pages/labyrinthe.html

@@ -98,14 +98,14 @@ Fixation de la sonde de température
 
 .. container:: aligncenter
 
-    [flickr:id=18902418213]
+    .. image :: https://photos.haum.org/small/pcb/img_20150707_185328_18902418213_o.jpg
 
 La sonde de température est fixée dans un rail d’une des deux résistances
 chauffantes.
 
 .. container:: aligncenter
 
-    [flickr:id=19497173626]
+    .. image :: https://photos.haum.org/small/pcb/img_20150707_185349_19497173626_o.jpg
 
 Afin d’adapter la tension de la sonde de température à la tension avec laquelle
 la carte Arduino fonctionne, on utilisera entre les deux `une carte
@@ -128,7 +128,8 @@ dans le boitier :
 
 .. container:: aligncenter
 
-    [flickr:id=19346409002] [flickr:id=19164902368]
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_175606_19346409002_o.jpg
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_181540_19164902368_o.jpg
 
 Le module est fixé avec deux fils électriques en bleus sur la photo qui ne sont
 là que pour fixer le module sur le support.
@@ -144,7 +145,7 @@ positionner la plaque :
 
 .. container:: aligncenter
 
-    [flickr:id=18731859153]
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_200308_18731859153_o.jpg
 
 Création d’une dérivation électrique vers le relais
 """""""""""""""""""""""""""""""""""""""""""""""""""
@@ -157,7 +158,7 @@ Pour cela, on coupe les gaines de protection autour des branchements des thermoc
 
 .. container:: aligncenter
 
-    [flickr:id=19164865600]
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_200319_19164865600_o.jpg
 
 Le résultat est très propre ; sauriez vous dire si ces branchements sont les
 originaux ou ceux modifiés par nos petites mains ? Il s’agit ici du montage
@@ -173,7 +174,7 @@ haut du boitier pour ressortir de l’autre côté de la machine.
 
 .. container:: aligncenter
 
-    [flickr:id=19166337929]
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_192711_19166337929_o.jpg
 
 Puis on fixe ces fils sur le haut du boitier pour les faire ressortir de
 l’autre côté. Afin de les protéger de la chaleur dégagée par les éléments
@@ -183,7 +184,7 @@ faire fondre la colle du premier scotch ainsi que les câbles.
 
 .. container:: aligncenter
 
-    [flickr:id=19346405562]
+	.. image :: https://photos.haum.org/small/pcb/img_20150624_200212_19346405562_o.jpg
 
 Et voilà ! Plus qu’à utiliser ces fils de commande pour activer le relais depuis
 l’Arduino.
@@ -261,7 +262,7 @@ pas assez non plus) sur une plaque d’époxy pas assez propre, on obtient un r�
 
 .. container:: aligncenter
 
-    [flickr:id=19346399242]
+	.. image :: https://photos.haum.org/small/pcb/img_20150625_000305_19346399242_o.jpg
 
 Il reste du papier sur le motif noir et le toner ne colle pas bien sur la
 plaque, mais on distingue bien la forme tribal de départ !
