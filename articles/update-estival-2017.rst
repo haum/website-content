@@ -19,7 +19,8 @@ quoi faire.
 
 .. container:: aligncenter
 
-    [flickr:id=35579175573] [flickr:id=35579175443]
+        .. image:: https://photos.haum.org/small/local/dcoupeuse_35579175573_o.jpg
+        .. image:: https://photos.haum.org/small/local/ultimaker_35579175443_o.jpg
 
 Les outils d'abord. Elles sont belles et flambant neuves, la découpeuse LASER modifiée par
 RobotSeed_ et l'imprimante 3D ont tout pour plaire aux bidouilleurs. Après une séance de
@@ -34,10 +35,10 @@ rappeler les couleurs de l'asso.
 
 .. container:: aligncenter
 
-    [flickr:id=36220183962]
-    [flickr:id=35696529176]
-    [flickr:id=35579175483]
-    [flickr:id=35692778826]
+        .. image:: https://photos.haum.org/small/projets_membres/dcoupe-horloge_36220183962_o.jpg
+        .. image:: https://photos.haum.org/small/miroir_infini/img_1297_35696529176_o.jpg
+        .. image:: https://photos.haum.org/small/miroir_infini/insert_35579175483_o.jpg
+        .. image:: https://photos.haum.org/small/miroir_infini/img_1303_35692778826_o.jpg
 
 En plus de cette bricole, le HAUM s'est attelé à la réalisation de deux projets pour le
 `Festival Teriaki`_ qui aura lieu du 24 au 27 août 2017. Le premier revisite `l'idée de
@@ -49,8 +50,7 @@ développement et devrait être prêt et testé d'ici à fin août !
 
 .. container:: aligncenter
 
-    [flickr:id=20404768654]
-
+        .. image:: https://photos.haum.org/small/teriaki2015/20150830_epau6_20404768654_o.jpg
 
 Le HAUM a aussi été sélectionné pour participer en octobre pour `Festival D`_! Il s'agit d'un
 festival hacker/maker bien connu dans l'ouest de la France et qui posera ses valises à
