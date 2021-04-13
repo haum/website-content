@@ -61,7 +61,8 @@ circuits − s’était complètement dissocié du rouleau.
 
 .. container:: aligncenter
 
-    [flickr:id=23007290200][flickr:id=23194791982]
+        .. image:: https://photos.haum.org/small/pcb/img_20151124_231447_23007290200_o.jpg
+        .. image:: https://photos.haum.org/small/pcb/img_20151124_231440_23194791982_o.jpg
 
 Nous allons donc devoir trouver un moyen de réparer la machine en dimensionnant
 un nouveau rouleau ou en créant une autre machine de ce genre supportant la
