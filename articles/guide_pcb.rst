@@ -135,14 +135,6 @@ la plaque de cuivre il faut que celle-ci soit très propre et sans impuretés.
    transfert avec de l'alcool isopropylique. Celui-ci éliminera toute trace de
    doigt éventuelle.
 
-Voici le résultat sur une plaque qui est décapé avec un "tarnish remover" type
-mirror mais qui n'a pas été frotté:
-
-.. container:: aligncenter
-
-        [Image manquante]
-..
-    [flickr:id=25546035903]
 
 La plaque est maintenant prête à recevoir le morceau de PNP Blue précédemment
 imprimé.
@@ -176,26 +168,20 @@ Voici le résultat obtenu pour un PCB avec des pistes de 0.5 mm - 1 mm de large:
 
 .. container:: aligncenter
 
-        [Image manquante]
-..
-    [flickr:id=25543915594]
+	.. image :: https://photos.haum.org/small/pcb/p1110457_29698859605_o.jpg
 
 On remarque sur la photo que du toner manque par petits points sur le "thermal pad" du régulateur. En fait, c'est une lacune de ce papier. Sur des plans, le résultat est encore moins convaincant. Sur la photo suivante, on voit un transfert avec du PNP à gauche, papier jaune à droite:
 
 .. container:: aligncenter
 
-        [Image manquante]
-..
-    [flickr:id=26148688695]
+	.. image :: https://photos.haum.org/small/pcb/p1110461_29074147903_o.jpg
 
 Il semblerait que le PNP dépose en plus du toner une petite pellicule plastique
 qui protège encore mieux le toner lors de la gravure :
 
 .. container:: aligncenter
 
-        [Image manquante]
-..
-    [flickr:id=25546035613]
+	.. image ::   https://photos.haum.org/small/pcb/p1100054_19584172459_o.jpg
 
 
 Transfert du motif
