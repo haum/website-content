@@ -21,7 +21,7 @@ Séance
 Nouvelles du dHAUM et logiciel
 ------------------------------
 
-Après le fructueux montage du dHAUM en fin de semaine dernière (regardez `sur Flickr`_), cette soirée était, entre autres,
+Après le fructueux montage du dHAUM en fin de semaine dernière (regardez `l'album`_), cette soirée était, entre autres,
 dédiée au développement du logiciel.
 
 Peu de tests d'objets aujourd'hui mais une profonde réflexion sur les différentes combinaisons pouvant déclencher les
@@ -56,4 +56,4 @@ Le constat est clair, les meubles en carton sont utiles mais longs à mettre en 
 bienvenu !
 
 
-.. _sur Flickr: https://www.flickr.com/photos/126718549@N08/sets/72157655886631900
+.. _l'album: https://photos.haum.org/albums/dhaum/
