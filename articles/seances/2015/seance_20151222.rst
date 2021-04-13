@@ -26,7 +26,7 @@ la carte en cas de bug... mais toutes ces tentatives restèrent vaines.
 
 .. container:: aligncenter
 
-    [flickr:id=23898251906]
+        .. image:: https://photos.haum.org/small/divers/img_20151222_222636_23898251906_o.jpg
 
 Finalement, dans un accès de magie noire, le projet a décidé de fonctionner pas trop mal (validé suite au *stress-test*
 ridicule que lui a fait subir un des vice-président). Le point qui a changé ? La version de la chaine de compilation
@@ -71,7 +71,8 @@ perceptif) mais en plus un rangement *express* des étagères de l'établi s'en 
 
 .. container:: aligncenter
 
-    [flickr:id=23816233512]
+        .. image:: https://photos.haum.org/small/local/cw3klkjweaako9vjpg-large_23816233512_o.jpg
+
 
 Désormais, il est tout beau et tout propre !
 
