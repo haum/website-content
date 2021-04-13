@@ -49,9 +49,9 @@ face avec de petites pistes n’a posé aucun problème et le circuit réalisé 
 très propre, avec un alignement quasi-parfait des trous entre la face avant et
 la face arrière.
 
-`Les photos`_ sont disponibles sur Flickr.
+`Les photos`_ sont disponibles sur les albums du HAUM.
 
-.. _Les photos: https://www.flickr.com/photos/126718549@N08/albums/72157655287588306
+.. _Les photos: https://photos.haum.org/albums/pcb/
 
 Ebay
 ====
