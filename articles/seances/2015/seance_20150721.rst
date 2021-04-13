@@ -19,7 +19,8 @@ vraiment nombreux, et le petit monde pouvait parfois se sentir à l'étroit, com
 
 .. container:: aligncenter
 
-    [flickr:id=19892059395] [flickr:id=19269414664]
+        .. image:: https://photos.haum.org/small/local/p1100063_19892059395_o.jpg
+        .. image:: https://photos.haum.org/small/local/ckdwqrxvaaqnxmt_32605925350_o.jpg
 
 Le dHAUM en tête d'affiche
 ==========================
@@ -37,7 +38,7 @@ Maquette de Jérome :
 
 .. container:: aligncenter
 
-    [flickr:id=20641592162]
+        .. image:: https://photos.haum.org/small/dhaum/img_20150718_224612jpg_32703879551_o.jpg
 
 Dans les grandes lignes, il s'agit d'un dôme construit en bois avec des tasseaux suffisamment grand pour
 pouvoir y faire rentrer deux personnes. A l'intérieur y sera disposé différents éléments (fruits, légumes,
@@ -85,7 +86,7 @@ Le tableau avec un schéma compliqué de Jackdesbwa :
 
 .. container:: aligncenter
 
-    [flickr:id=20758194343]
+        .. image:: https://photos.haum.org/small/local/ckdm9fhweaacfgl_32832743142_o.jpg
 
 L'ami JéromeC s'est même attelé à réparer et finir de réaliser une autre carte Léoké. Le pistolet à colle
 n'a plus aucun secret pour lui et s'est en quelques appuis sur la gâchette qu'il fixe solidement le câble
@@ -105,7 +106,7 @@ La pièce une fois polie à l'acétone :
 
 .. container:: aligncenter
 
-    [flickr:id=19902287211]
+        .. image:: https://photos.haum.org/small/projets_membres/img_20150721_233657_19902287211_o.jpg
 
 L'imprimante 3D était reliée à l'ordinateur mais celui-ci a malencontreusement été éteint. L’imprimante n'a
 pas bronchée et a continuer ses nids d'abeilles à son habitude, mais avait-elle en mémoire l'intégralité
@@ -121,14 +122,15 @@ le nom (mais je pense qu'il doit y avoir un HAUM dedans) :
 
 .. container:: aligncenter
 
-    [flickr:id=21387694321]
+        .. image:: https://photos.haum.org/small/meuble_hifi/p1100030_19775524821_o.jpg
 
 Puis, la face arrière du meuble a été découpée aux bonnes dimensions puis collée sur la partie arrière de
 la structure :
 
 .. container:: aligncenter
 
-    [flickr:id=19889726482]  [flickr:id=19274595414]
+        .. image:: https://photos.haum.org/small/meuble_hifi/img_20150721_233752_19889726482_o.jpg
+        .. image:: https://photos.haum.org/small/meuble_hifi/img_20150721_233725_19274595414_o.jpg
 
 La prochaine étape est donc de fixer les panneaux latéraux à la structure, puis commencer à attaquer
 l'intérieur du meuble en finissant les cases de rangement.
