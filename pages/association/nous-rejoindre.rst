@@ -13,6 +13,7 @@ Rencontrer le HAUM
 ==================
 
 Le HAUM est situé au deuxième étage du `57 boulevard Demorieux`_.
+L'accès se fait par un ascensseur et est accessible en fauteuil.
 
 Pour connaître les jours où nos portes vous sont ouvertes, faites un tour sur
 la `page d'accueil`_ du site, passez nous voir sur IRC_ pour en discuter ou
