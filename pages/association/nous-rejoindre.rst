@@ -47,7 +47,7 @@ l'association. Puis direction helloasso :
 
 .. raw:: html
 
-  <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/haum/adhesions/adhesion-individuelle/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+  <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/haum/adhesions/nous-rejoindre-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
 Rappel, le conseil d'administration peut refuser une adhesion.
 
