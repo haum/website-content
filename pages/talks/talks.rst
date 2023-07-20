@@ -3,6 +3,8 @@ HAUMTalks
 
 :slug: talks
 
+**NOTE** : Les HAUMTalks n'ont pas été organisé depuis plusieurs années. Envie de les faire renaitre ? Lancez-vous !
+
 .. image:: /images/bannieres_projets/talks.1.jpg
     :alt: HAUMTalks
 
