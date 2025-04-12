@@ -272,6 +272,22 @@ Je suis tombé sur [PartCAD](https://partcad.org/) ([docs](https://partcad.readt
 [dépôt Git](https://github.com/partcad/partcad/)), un "standard de documentation de produits manufacturables", ce sera
 ma prochaine étape.
 
+[Manyfold](https://manyfold.app) est un service opensource en Ruby (on Rails) de gestion et partage de modèles 3D. 
+Une partie fédération est en cours de développement avec ActivityPub
+
+## Et du coup ?
+
+Mon point de vue sur ces outils n'engage que moi, je pense qu'il faut tester pour adopter.  
+
+J'utilise encore beaucoup FreeCAD, c'est un outil vraiment bien. Je m'en sers principalement pour des modèles qui ne
+bougeront pas trop, ou pour des modèles pour lesquelles dessiner des _esquisses_ est encore indispensable pour moi 
+(gérer des splines de tête, c'est pas encore ça). 
+
+OpenSCAD, c'est top pour des petites pièces simples : en quelques lignes on a un résultat.
+
+Build123d, j'ai l'impression que c'est l'outil qui remplacera OpenSCAD quand je serais à l'aise avec. L'export en STEP
+est vraiment un plus.
+
 ## Résultats de l'exercice
 
 ### FreeCAD
