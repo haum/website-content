@@ -268,12 +268,22 @@ Il existe d'autres outils pour faire de la 3D paramétrique, j'ai pu essayer un 
 [CAD Sketcher](https://www.cadsketcher.com/). C'est prometteur si vous êtes à l'aise avec Blender, et ce n'est pas mon 
 cas.
 
+[AstoCAD](https://www.astocad.com) est un fork de FreeCAD, payant, qui reverse ses correctifs et améliorations au projet 
+après un certain temps. C'est un abonnement à l'année, je n'ai donc pas essayé, trouvant le prix trop élevé _juste pour
+tester_.
+
 Je suis tombé sur [PartCAD](https://partcad.org/) ([docs](https://partcad.readthedocs.io/) et 
 [dépôt Git](https://github.com/partcad/partcad/)), un "standard de documentation de produits manufacturables", ce sera
 ma prochaine étape.
 
 [Manyfold](https://manyfold.app) est un service opensource en Ruby (on Rails) de gestion et partage de modèles 3D. 
-Une partie fédération est en cours de développement avec ActivityPub
+Une partie fédération est en cours de développement avec ActivityPub.
+
+Il y a aussi [SolveSpace](https://solvespace.com) pour dessiner des modèles paramétriques, qui m'a été remonté pendant
+l'écriture de l'article.
+
+Pour visualiser les fichiers 3D, j'utilise [Mayo](https://github.com/fougue/mayo) principalement, et 
+[MeshLab](https://www.meshlab.net/) me permet de corriger des modèles récupérés sur internet.  
 
 ## Et du coup ?
 
