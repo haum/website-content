@@ -198,7 +198,7 @@ avancé.
 
 Un bout de code OpenSCAD :
 
-.. code:: scad
+.. code:: openscad
 
    union(){
      translation = box_wall_thickness + assembly_play;
