@@ -9,6 +9,9 @@ CAO 3D opensource - Retours d’expérience
 :authors: manu
 :summary: Retours d’expérience sur quelques logiciels opensource de CAO 3D
 
+.. role:: barre
+   :class: del
+
 Contexte
 --------
 
@@ -51,8 +54,8 @@ et boîte. L’idée est simple, mais permet de valider les points suivants
 - pouvoir entrer des paramètres quelque part et voir le modèle s’adapter
 - exporter le modèle fini pour le partager, l’importer dans d’autres
   outils ou juste bouffer de la place sur mon disque
-- écrire un comparatif d’outils [STRIKEOUT:en prenant l’apéro
-  tranquilou]
+- écrire un comparatif d’outils :barre:`en prenant l’apéro
+  tranquilou`
 
 Dans ces comparatifs, je ne vais pas parler de l’interface du logiciel,
 sauf si c’est tout à fait nécessaire.
@@ -161,7 +164,7 @@ avancé.
 
 - la syntaxe est simple et compréhensible (OpenSCAD a son propre
   langage)
-- l’éditeur de code est [STRIKEOUT:pourri] simple, mais OpenSCAD
+- l’éditeur de code est :barre:`pourri` simple, mais OpenSCAD
   supporte le rechargement automatique : du coup, j’édite avec un autre
   éditeur qui me donne de l’auto-complétion, tout en gardant l’aperçu du
   résultat dans la fenêtre d’OpenSCAD
