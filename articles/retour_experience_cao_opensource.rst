@@ -93,7 +93,7 @@ références et remplacer par des nouvelles.
 - il est possible de nommer des cotes dans une *esquisse* et y faire
   référence ailleurs (autre esquisse, opération, …)
 - il est possible de référencer des valeurs d’opérations (ex:
-  ``extrusion1.Lenght``)
+  ``extrusion1.Length``)
 - il est possible d’écrire des macros en Python
 - il y a des modules très intéressants (pour générer de la visserie, des
   filetages, des engrenages, etc…)
@@ -222,7 +222,7 @@ CadQuery
 --------
 
 `CadQuery <https://cadquery.readthedocs.io/en/latest/>`__ (`dépôt
-Git <https://github.com/CadQuery/cadquery>`__, c’est du Python. Donc
+Git <https://github.com/CadQuery/cadquery>`__), c’est du Python. Donc
 bah, on peut s’imaginer la facilité de gestion de dépendances, la
 modularité, le partage de librairies, etc…
 
