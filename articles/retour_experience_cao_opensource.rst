@@ -420,7 +420,7 @@ La feuille de calcul pour les paramètres :
 
 Prévisualisation FreeCAD avec les deux modèles :
 
-.. image:: /images/retour_experience_cao_opensource/freecad_settings.png
+.. image:: /images/retour_experience_cao_opensource/freecad_model.png
         :align: center
 	:alt: Modèle FreeCAD
 
