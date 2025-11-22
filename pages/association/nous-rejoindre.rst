@@ -44,11 +44,7 @@ Adhérer
 
 Pour l'adhésion, commencez par lire le `règlement intérieur`_ et les statuts_ de
 l'association. Puis direction helloasso :
-
-.. raw:: html
-
-  <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/haum/adhesions/nous-rejoindre-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
+https://www.helloasso.com/associations/haum
 
 Rappel, le conseil d'administration peut refuser une adhesion.
 
