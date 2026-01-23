@@ -40,9 +40,9 @@ autant sortir l'image directement avec l'imprimante.
 Là entre en jeu l'imprimante 3D mSLA, autrement appelée imprimante à résine,
 car elle insole une résine photosensible qui durcit au contact des UVs. Et c'est
 dans ce dernier mot que la liaison se fait : la machine dispose d'une source UV,
-d'un système optique pour avoir un éclairement uniforme aux rayons parallèles,
-d'un écran à haute définition pour masquer sélectivement les parties à protéger
-des UVs, bref un peu tout ce qu'on aimerait utiliser pour insoler nos cyanotypes !
+d'un système optique pour avoir un éclairement uniforme, d'un écran à haute
+définition pour masquer sélectivement les parties à protéger des UVs, bref un
+peu tout ce qu'on aimerait utiliser pour insoler nos cyanotypes !
 
 Malheureusement, les UVs générés par la machine ne sont pas optimaux pour la
 chimie du cyanotype. Cependant en pratique, allonger le temps d'exposition
