@@ -10,7 +10,7 @@
 :summary: Oservation de l'éclipse
 
 
-12 aoùt 2026
+12 août 2026
 ------------
 
 En ce mercredi d'août 2026, en fin de journée, un phénomène astronomique 
@@ -64,7 +64,7 @@ permettant de se dispenser des lunettes, sans renoncer à la sécurité de nos
 yeux.
 
 
-03 aoùt 2026
+03 août 2026
 ------------
 
 Un premier dispositif d'observation du Soleil
@@ -105,7 +105,7 @@ voit un petit disque lumineux apparaître. Il s'agit du Soleil.
 grande, ou une autre solution.
 
 
-11 aout 2026
+11 août 2026
 ------------
 
 Un second dispositif d'observation du Soleil.
@@ -135,7 +135,7 @@ environ 1 cm pour un tube de 1 m.
 On verra cela demain.
 
 
-12 aoùt 2026
+12 août 2026
 ------------
 
 Ça y est, c'est le jour N, le tube est installé sur un trépied, dirigé vers le
