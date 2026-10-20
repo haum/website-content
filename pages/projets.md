@@ -11,6 +11,10 @@ Plusieurs projets ont été, sont ou seront développés au sein du HAUM. L'obje
 
 {{< liste-projets >}}
 
+## Les HAUMTalks
+
+Le HAUM a aussi organisé des mini-conférences libres et ouvertes à toutes et tous, les HAUMTalks : retrouvez [les sessions passées](/pages/talks.html). Envie de les faire renaître ? Lancez-vous !
+
 ## Envie de contribuer ?
 
 Autant que faire se peut, les projets du HAUM sont sous licences Open-source et leurs sources logicielles librement accessibles sur la plateforme GitHub.
