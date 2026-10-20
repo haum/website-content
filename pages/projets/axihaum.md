@@ -16,12 +16,11 @@ banner: /images/bannieres_projets/axihaum.1.jpg
 
 <img src="/images/axihaum/sauvetage.jpg" width="300" alt="image" />
 
-alt  
 Sauvetage d'AxiHAUM
 
 </div>
 
-À l'automne 2014, le HAUM a récupéré du matériel gracieusement offert par le département info de l'\`Université du Maine\`\_. Parmi cet ensemble de matériel il y avait une graveuse à [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) (LKPS ProtoMat 91s de 1994) partiellement fonctionnelle. Celle-ci est en cours d'amélioration pour devenir une fraiseuse numérique 3 axes. Cette modification est supportée par [neomilium](http://twitter.com/neomilium), d'autres membres du HAUM ([jblb](http://twitter.com/jblb_72), [rebrec](https://twitter.com/elfrancesco), [matael](http://twitter.com/matael)), ainsi que d'autres personnes ayant les compétences et les outils pour réaliser ce type de modification.
+À l'automne 2014, le HAUM a récupéré du matériel gracieusement offert par le département info de l'Université du Maine. Parmi cet ensemble de matériel il y avait une graveuse à [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) (LKPS ProtoMat 91s de 1994) partiellement fonctionnelle. Celle-ci est en cours d'amélioration pour devenir une fraiseuse numérique 3 axes. Cette modification est supportée par [neomilium](http://twitter.com/neomilium), d'autres membres du HAUM ([jblb](http://twitter.com/jblb_72), [rebrec](https://twitter.com/elfrancesco), [matael](http://twitter.com/matael)), ainsi que d'autres personnes ayant les compétences et les outils pour réaliser ce type de modification.
 
 Ce projet peut être scindé selon 3 aspects :
 
